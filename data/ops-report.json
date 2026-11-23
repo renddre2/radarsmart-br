@@ -1,0 +1,172 @@
+{
+  "runId": "run-2026-11-23T23-46-21-222Z",
+  "executedAt": "2026-11-23T23:46:21.222Z",
+  "durationMs": 3283,
+  "activeOffersCount": 79,
+  "expiredOffersCount": 0,
+  "newOffersCount": 79,
+  "guidesCount": 6,
+  "queuedPostsCount": 8,
+  "publishedCount": 0,
+  "llmEnrichmentStatus": "determinístico (Fact-Guard 100% ativo)",
+  "sources": [
+    {
+      "sourceId": "motorola",
+      "sourceName": "Motorola Oficial",
+      "status": "ok",
+      "latencyMs": 2692,
+      "rawItemsCount": 51,
+      "acceptedOffersCount": 23,
+      "rejectedItemsCount": 22,
+      "message": "23 smartphones ativos verificados.",
+      "checkedAt": "2026-11-23T23:46:21.222Z"
+    },
+    {
+      "sourceId": "fastshop",
+      "sourceName": "Fast Shop",
+      "status": "ok",
+      "latencyMs": 1884,
+      "rawItemsCount": 51,
+      "acceptedOffersCount": 34,
+      "rejectedItemsCount": 17,
+      "message": "34 smartphones ativos verificados.",
+      "checkedAt": "2026-11-23T23:46:21.222Z"
+    },
+    {
+      "sourceId": "bemol",
+      "sourceName": "Bemol",
+      "status": "ok",
+      "latencyMs": 1020,
+      "rawItemsCount": 51,
+      "acceptedOffersCount": 49,
+      "rejectedItemsCount": 2,
+      "message": "49 smartphones ativos verificados.",
+      "checkedAt": "2026-11-23T23:46:21.222Z"
+    },
+    {
+      "sourceId": "angeloni",
+      "sourceName": "Angeloni Eletro",
+      "status": "ok",
+      "latencyMs": 2080,
+      "rawItemsCount": 51,
+      "acceptedOffersCount": 28,
+      "rejectedItemsCount": 18,
+      "message": "28 smartphones ativos verificados.",
+      "checkedAt": "2026-11-23T23:46:21.222Z"
+    },
+    {
+      "sourceId": "fujioka",
+      "sourceName": "Fujioka",
+      "status": "ok",
+      "latencyMs": 190,
+      "rawItemsCount": 16,
+      "acceptedOffersCount": 3,
+      "rejectedItemsCount": 13,
+      "message": "3 smartphones ativos verificados.",
+      "checkedAt": "2026-11-23T23:46:21.222Z"
+    },
+    {
+      "sourceId": "trocafone",
+      "sourceName": "Trocafone (Recondicionado)",
+      "status": "ok",
+      "latencyMs": 1935,
+      "rawItemsCount": 51,
+      "acceptedOffersCount": 5,
+      "rejectedItemsCount": 46,
+      "message": "5 smartphones ativos verificados.",
+      "checkedAt": "2026-11-23T23:46:21.222Z"
+    },
+    {
+      "sourceId": "shopee",
+      "sourceName": "Shopee Affiliate Open API",
+      "status": "awaiting_credentials",
+      "latencyMs": 0,
+      "rawItemsCount": 0,
+      "acceptedOffersCount": 0,
+      "rejectedItemsCount": 0,
+      "message": "Aguardando SHOPEE_APP_ID e SHOPEE_APP_SECRET (cadastro gratuito com CPF em affiliate.shopee.com.br).",
+      "checkedAt": "2026-11-23T23:46:21.222Z"
+    },
+    {
+      "sourceId": "rss-pulse",
+      "sourceName": "Pulso Editorial (TudoCelular + Canaltech)",
+      "status": "ok",
+      "latencyMs": 847,
+      "rawItemsCount": 12,
+      "acceptedOffersCount": 12,
+      "rejectedItemsCount": 0,
+      "message": "12 pautas recentes de smartphones capturadas.",
+      "checkedAt": "2026-11-23T23:46:21.222Z"
+    }
+  ],
+  "affiliatePrograms": [
+    {
+      "id": "magalu",
+      "label": "Influenciador Magalu",
+      "configured": false,
+      "acceptsCpf": true,
+      "commissionRange": "4% a 6%",
+      "minPayoutBrl": 50,
+      "envVar": "MAGALU_STORE_SLUG",
+      "signupUrl": "https://www.parceiromagalu.com.br/"
+    },
+    {
+      "id": "mercadolivre",
+      "label": "Afiliados Mercado Livre",
+      "configured": false,
+      "acceptsCpf": true,
+      "commissionRange": "2% a 4%+ (Ganhos Extras até 16%)",
+      "minPayoutBrl": 30,
+      "envVar": "ML_AFFILIATE_MAP_JSON",
+      "signupUrl": "https://www.mercadolivre.com.br/l/afiliados"
+    },
+    {
+      "id": "amazon",
+      "label": "Amazon Associados Brasil",
+      "configured": false,
+      "acceptsCpf": true,
+      "commissionRange": "1% a 3% (Eletrônicos/Celulares)",
+      "minPayoutBrl": 30,
+      "envVar": "AMAZON_PARTNER_TAG",
+      "signupUrl": "https://associados.amazon.com.br/"
+    },
+    {
+      "id": "shopee",
+      "label": "Shopee Afiliados Brasil (Open API)",
+      "configured": false,
+      "acceptsCpf": true,
+      "commissionRange": "2% a 10%+ (lojas parceiras)",
+      "minPayoutBrl": 30,
+      "envVar": "SHOPEE_APP_ID / SHOPEE_APP_SECRET",
+      "signupUrl": "https://affiliate.shopee.com.br/"
+    },
+    {
+      "id": "awin",
+      "label": "Awin Brasil (Motorola, Fast Shop, KaBuM!, Trocafone)",
+      "configured": false,
+      "acceptsCpf": true,
+      "commissionRange": "2% a 8% (varia por anunciante)",
+      "minPayoutBrl": 50,
+      "envVar": "AWIN_AFFILIATE_ID",
+      "signupUrl": "https://www.awin.com/br/afiliados"
+    },
+    {
+      "id": "lomadee",
+      "label": "Lomadee Brasil (Casas Bahia, varejo nacional)",
+      "configured": false,
+      "acceptsCpf": true,
+      "commissionRange": "2% a 6%",
+      "minPayoutBrl": 50,
+      "envVar": "LOMADEE_SOURCE_ID",
+      "signupUrl": "https://www.lomadee.com/"
+    }
+  ],
+  "linkAudit": {
+    "checkedCount": 6,
+    "healthyCount": 6,
+    "brokenUrls": []
+  },
+  "warnings": [
+    "Nenhuma tag de afiliado configurada ainda — links funcionam para compra e comparação, mas exigem cadastro pessoal (CPF) no Painel Central para gerar comissões."
+  ]
+}

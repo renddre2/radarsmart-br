@@ -1,0 +1,26 @@
+{
+  "updatedAt": "2026-11-23T23:51:17.860Z",
+  "brandMultipliers": {
+    "Samsung": 1.1,
+    "Apple": 1.05,
+    "Motorola": 1.08,
+    "Xiaomi": 1.12,
+    "Realme": 1.04
+  },
+  "priceBandMultipliers": {
+    "ate-1200": 1.2,
+    "1200-2200": 1.15,
+    "2200-4000": 1.13,
+    "acima-4000": 0.96
+  },
+  "storeMultipliers": {
+    "motorola": 1.08,
+    "fastshop": 1.1,
+    "trocafone": 1,
+    "bemol": 1.02,
+    "angeloni": 1.02,
+    "fujioka": 1,
+    "shopee": 1.06
+  },
+  "notes": "Pesos calibrados com sinais de elasticidade do catálogo ativo (aguardando primeiras conversões registradas)."
+}

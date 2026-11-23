@@ -1,0 +1,37 @@
+{
+  "name": "radarsmart-br",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RadarSmart BR — Portal autônomo de comparação, curadoria técnica e ofertas verificadas de smartphones no Brasil.",
+  "scripts": {
+    "dev": "next dev",
+    "pipeline": "tsx scripts/run-pipeline.ts",
+    "learn": "tsx scripts/run-learner.ts",
+    "configure": "tsx scripts/configure-affiliates.ts",
+    "deploy:pages": "tsx scripts/deploy-gh-pages.ts",
+    "activate-cloud": "tsx scripts/activate-cloud-cron.ts",
+    "export-feeds": "tsx scripts/export-public-feeds.ts",
+    "build": "tsx scripts/export-public-feeds.ts && next build",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "^16.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^4.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^3.0.5"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}

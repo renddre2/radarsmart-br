@@ -1,0 +1,54 @@
+{
+  "siteName": "RadarSmart BR",
+  "siteTagline": "Radar verificado de smartphones no Brasil — preços reais, histórico anti-fraude e comparativo técnico.",
+  "programs": {
+    "magalu": {
+      "label": "Influenciador Magalu",
+      "acceptsCpf": true,
+      "commissionRange": "4% a 6%",
+      "minPayoutBrl": 50,
+      "envVar": "MAGALU_STORE_SLUG",
+      "signupUrl": "https://www.parceiromagalu.com.br/"
+    },
+    "mercadolivre": {
+      "label": "Afiliados Mercado Livre",
+      "acceptsCpf": true,
+      "commissionRange": "2% a 4%+ (Ganhos Extras até 16%)",
+      "minPayoutBrl": 30,
+      "envVar": "ML_AFFILIATE_MAP_JSON",
+      "signupUrl": "https://www.mercadolivre.com.br/l/afiliados"
+    },
+    "amazon": {
+      "label": "Amazon Associados Brasil",
+      "acceptsCpf": true,
+      "commissionRange": "1% a 3% (Eletrônicos/Celulares)",
+      "minPayoutBrl": 30,
+      "envVar": "AMAZON_PARTNER_TAG",
+      "signupUrl": "https://associados.amazon.com.br/"
+    },
+    "shopee": {
+      "label": "Shopee Afiliados Brasil (Open API)",
+      "acceptsCpf": true,
+      "commissionRange": "2% a 10%+ (lojas parceiras)",
+      "minPayoutBrl": 30,
+      "envVar": "SHOPEE_APP_ID / SHOPEE_APP_SECRET",
+      "signupUrl": "https://affiliate.shopee.com.br/"
+    },
+    "awin": {
+      "label": "Awin Brasil (Motorola, Fast Shop, KaBuM!, Trocafone)",
+      "acceptsCpf": true,
+      "commissionRange": "2% a 8% (varia por anunciante)",
+      "minPayoutBrl": 50,
+      "envVar": "AWIN_AFFILIATE_ID",
+      "signupUrl": "https://www.awin.com/br/afiliados"
+    },
+    "lomadee": {
+      "label": "Lomadee Brasil (Casas Bahia, varejo nacional)",
+      "acceptsCpf": true,
+      "commissionRange": "2% a 6%",
+      "minPayoutBrl": 50,
+      "envVar": "LOMADEE_SOURCE_ID",
+      "signupUrl": "https://www.lomadee.com/"
+    }
+  }
+}

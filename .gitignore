@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.*
+
+# Next.js / Build outputs
+.next/
+out/
+dist/
+coverage/
+tsconfig.tsbuildinfo
+next-env.d.ts
+
+# Local environment & secrets (NEVER commit secrets or personal documents)
+.env
+.env*.local
+!.env.example
+config/affiliate-secrets.json
+
+# OS / IDE / Logs
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+.vercel/
