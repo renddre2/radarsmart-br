@@ -27,7 +27,12 @@
 3. **Sem promessas não verificadas:** Preços exibidos refletem o último snapshot verificado com timestamp visível e proteção contra falsos descontos.
 
 ## Registro de Progresso
-- **Status atual:** Motor autônomo, portal Next.js estático, testes Vitest (12/12) e workflow GitHub Actions implementados e validados; publicando no GitHub Pages (`renddre2/radarsmart-br`).
-- **URL Pública Planejada:** `https://renddre2.github.io/radarsmart-br/`
+- **Status atual:** Portal publicado e verificado em produção (`HTTP 200`) no GitHub Pages (`renddre2/radarsmart-br`, branch `gh-pages`), com 79 ofertas reais verificadas, 6 guias SEO, 12 testes Vitest aprovados e `tsc --noEmit` limpo.
+- **URL Pública Ativa:** `https://renddre2.github.io/radarsmart-br/`
 - **Painel Central:** `https://renddre2.github.io/radarsmart-br/painel/`
+- **Comparador:** `https://renddre2.github.io/radarsmart-br/comparar/`
+- **Guias SEO:** `https://renddre2.github.io/radarsmart-br/guias/`
 - **Feeds Públicos:** `/feed.xml`, `/api/deals.json`, `/api/guides.json`, `/api/status.json`, `/sitemap.xml`
+- **Pendente de ação do titular:**
+  1. Autorizar escopo `workflow` no `gh` (`gh auth refresh -h github.com -s workflow`) e rodar `npm.cmd run activate-cloud` para ligar o cron de 6h em `.github/workflows/autonomous-radar.yml` (template pronto em `config/workflows/autonomous-radar.yml`).
+  2. Concluir cadastros pessoais em CPF (Amazon, Magalu, Mercado Livre, Shopee, Awin, Lomadee) e executar `npm.cmd run configure`.
