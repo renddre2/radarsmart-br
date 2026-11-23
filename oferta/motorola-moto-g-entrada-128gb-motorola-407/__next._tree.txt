@@ -1,0 +1,6 @@
+:HL["/radarsmart-br/_next/static/chunks/1j6-f_btgbmwt.css","style"]
+:HL["https://brmotorolanew.vteximg.com.br/arquivos/ids/177598/MOTOG77_1000X1000PX_01.png?v=639052259631500000","image",{"fetchPriority":"high"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"motorola-moto-g-entrada-128gb-motorola-407","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"oferta","h":131168,"c":"$Q2"}]]
+0:{"b":"tyAKTLauOw6fKTjcfFkrJ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

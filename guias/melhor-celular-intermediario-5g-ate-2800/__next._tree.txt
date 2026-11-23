@@ -1,0 +1,7 @@
+:HL["/radarsmart-br/_next/static/chunks/1j6-f_btgbmwt.css","style"]
+:HL["https://brmotorolanew.vteximg.com.br/arquivos/ids/181282/EDGE70FUSION_PLUS_1000X1000PX_01.png?v=639174055476830000","image",{"fetchPriority":"high"}]
+:HL["https://brmotorolanew.vteximg.com.br/arquivos/ids/180981/EDGE70FUSION_PLUS_1000X1000PX_01.png?v=639173217353000000","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"melhor-celular-intermediario-5g-ate-2800","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"guias","h":131168,"c":"$Q2"}]]
+0:{"b":"tyAKTLauOw6fKTjcfFkrJ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

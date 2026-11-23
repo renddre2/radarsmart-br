@@ -1,0 +1,6 @@
+:HL["/radarsmart-br/_next/static/chunks/1j6-f_btgbmwt.css","style"]
+:HL["https://fastshopbr.vteximg.com.br/arquivos/ids/5651699/0_a8c2b4d1-01fb-4c78-8a5f-a45280a1fbfa.png.png?v=639264814587600000","image",{"fetchPriority":"high"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"motorola-signature-5g-oliva-tela-512gb-fastshop-159259","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"oferta","h":131168,"c":"$Q2"}]]
+0:{"b":"tyAKTLauOw6fKTjcfFkrJ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

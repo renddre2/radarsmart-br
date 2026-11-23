@@ -1,0 +1,6 @@
+:HL["/radarsmart-br/_next/static/chunks/1j6-f_btgbmwt.css","style"]
+:HL["https://eletroangeloni.vteximg.com.br/arquivos/ids/4644649/17815515789862.jpg?v=639175001473830000","image",{"fetchPriority":"high"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"samsung-galaxy-a56-a57-256gb-angeloni-686171","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"oferta","h":131168,"c":"$Q2"}]]
+0:{"b":"tyAKTLauOw6fKTjcfFkrJ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

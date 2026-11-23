@@ -1,0 +1,6 @@
+:HL["/radarsmart-br/_next/static/chunks/1j6-f_btgbmwt.css","style"]
+:HL["https://fastshopbr.vteximg.com.br/arquivos/ids/5775450/17872536197698.jpg?v=639299444353630000","image",{"fetchPriority":"high"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"motorola-moto-g75-g77-g86-5g-256gb-fastshop-198017","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"oferta","h":131168,"c":"$Q2"}]]
+0:{"b":"tyAKTLauOw6fKTjcfFkrJ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

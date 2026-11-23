@@ -1,0 +1,4 @@
+:HL["/radarsmart-br/_next/static/chunks/1j6-f_btgbmwt.css","style"]
+:HL["https://brmotorolanew.vteximg.com.br/arquivos/ids/180734/1000X1000PX_01.png?v=639172308165630000","image",{"fetchPriority":"high"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"tyAKTLauOw6fKTjcfFkrJ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

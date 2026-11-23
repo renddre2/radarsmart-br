@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /ir/
+
+Sitemap: https://renddre2.github.io/radarsmart-br/sitemap.xml

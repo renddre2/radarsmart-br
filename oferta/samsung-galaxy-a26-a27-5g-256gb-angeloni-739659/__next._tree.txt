@@ -1,0 +1,6 @@
+:HL["/radarsmart-br/_next/static/chunks/1j6-f_btgbmwt.css","style"]
+:HL["https://eletroangeloni.vteximg.com.br/arquivos/ids/5250254/17873212402903.jpg?v=639306217545530000","image",{"fetchPriority":"high"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"samsung-galaxy-a26-a27-5g-256gb-angeloni-739659","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"oferta","h":131168,"c":"$Q2"}]]
+0:{"b":"tyAKTLauOw6fKTjcfFkrJ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
