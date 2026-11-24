@@ -5,7 +5,7 @@ import path from 'node:path';
 const REPO = 'renddre2/radarsmart-br';
 
 function main() {
-  const status = execSync('gh auth status', { encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] });
+  const status = execSync('gh auth status 2>&1', { encoding: 'utf8' });
   if (!status.includes('workflow')) {
     console.error('❌ O token atual do GitHub CLI (`gh`) ainda não possui o escopo `workflow`.');
     console.error('👉 Execute primeiro no terminal:\n   gh auth refresh -h github.com -s workflow\n');
@@ -18,6 +18,12 @@ function main() {
   const dstDir = path.join(root, '.github', 'workflows');
   const dstWorkflow = path.join(dstDir, 'autonomous-radar.yml');
 
+  execFileSync(
+    'gh',
+    ['api', '-X', 'PUT', `repos/${REPO}/pages`, '-f', 'build_type=workflow'],
+    { cwd: root, stdio: 'inherit' },
+  );
+
   fs.mkdirSync(dstDir, { recursive: true });
   fs.copyFileSync(srcWorkflow, dstWorkflow);
 
@@ -27,12 +33,6 @@ function main() {
     stdio: 'inherit',
   });
   execFileSync('git', ['push', 'origin', 'main'], { cwd: root, stdio: 'inherit' });
-
-  execFileSync(
-    'gh',
-    ['api', '-X', 'PUT', `repos/${REPO}/pages`, '-f', 'build_type=workflow'],
-    { cwd: root, stdio: 'inherit' },
-  );
 
   console.log('✅ Cron automático de 6 em 6h e deploy via GitHub Actions ativados na nuvem!');
 }

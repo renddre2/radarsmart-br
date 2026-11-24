@@ -40,6 +40,7 @@ jobs:
 
       - name: Run Vitest suite & TypeScript check
         run: |
+          npx next typegen
           npm test
           npm run typecheck
 
