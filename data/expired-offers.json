@@ -1,5 +1,854 @@
 [
   {
+    "id": "motorola-451-1887",
+    "slug": "motorola-moto-g-5g-256gb-motorola-451",
+    "canonicalKey": "motorola-moto-g-5g-256gb-novo",
+    "title": "Smartphone Motorola Moto g47 5G 256GB",
+    "brand": "Motorola",
+    "storeKey": "motorola",
+    "storeName": "Motorola Oficial",
+    "condition": "novo",
+    "isBundle": false,
+    "price": 1665.56,
+    "listPrice": 1999,
+    "effectivePrice": 1499,
+    "discountPct": 25,
+    "priceBand": "1200-2200",
+    "availableQuantity": 0,
+    "imageUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/179811/MOTOG47_1000X1000PX_01.png?v=639131101360230000",
+    "originalUrl": "https://www.motorola.com.br/smartphone-motorola-moto-g47-5g-256gb/p",
+    "monetizedUrl": "https://www.motorola.com.br/smartphone-motorola-moto-g47-5g-256gb/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "motorola",
+        "storeLabel": "Motorola Oficial (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://www.motorola.com.br/smartphone-motorola-moto-g47-5g-256gb/p",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–5%",
+        "note": "Preço auditado: R$ 1499,00"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Motorola%20Moto%20G%205G%20256GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Motorola%20Moto%20G%205G%20256GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/motorola-moto-g-5g-256gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Motorola%20Moto%20G%205G%20256GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/motorola-moto-g-5g-256gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Motorola Moto G 5G",
+      "storageGb": 256,
+      "ramGb": 4,
+      "has5g": true,
+      "hasNfc": true,
+      "screenSummary": "6,7\" FHD+ 120Hz",
+      "batteryMah": 5000,
+      "cameraSummary": "50MP Sony LYTIA / Quad Pixel",
+      "chipset": "Dimensity / Snapdragon 5G",
+      "os": "Android",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 25
+    },
+    "priceStats": {
+      "minObservedPrice": 1405.05,
+      "maxObservedPrice": 1649,
+      "avgObservedPrice": 1518.13,
+      "observationsCount": 5,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 25,
+      "priceAlertLabel": "Desconto verificado de 25%"
+    },
+    "opportunityScore": 85,
+    "scoreBreakdown": {
+      "technical": 29,
+      "discount": 23,
+      "trust": 20,
+      "commercial": 13
+    },
+    "analysis": {
+      "verdict": "Excelente janela de compra: Motorola Moto G 5G (256 GB) por R$ 1.499,00 atinge Score 85/100 (Desconto verificado de 25%).",
+      "idealFor": "Custo-benefício diário (multitarefa fluida, boas fotos, pagamentos NFC e longevidade de sistema)",
+      "pros": [
+        "Tela 6,7\" FHD+ 120Hz aliada a Dimensity / Snapdragon 5G",
+        "256 GB com 4 GB de RAM e bateria de 5000 mAh",
+        "Vendido por varejista nacional (Motorola Oficial) com emissão de NF-e e garantia legal",
+        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
+      ],
+      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
+      "faqs": [
+        {
+          "question": "O Motorola Moto G 5G vendido na Motorola Oficial é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Motorola Oficial no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
+        },
+        {
+          "question": "O preço de R$ 1.499,00 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 1.499,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-24 10:04 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "No nosso histórico, o menor valor observado foi R$ 1.405,05 e a média é R$ 1.518,13. Considere comparar na matriz de lojas parceiras antes de fechar."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-24T10:04:59.359Z",
+    "expiredAt": "2026-11-24T22:31:59.091Z",
+    "replacementOfferId": "motorola-328-1613",
+    "replacementSlug": "motorola-moto-g-5g-256gb-motorola-328"
+  },
+  {
+    "id": "motorola-344-1654",
+    "slug": "motorola-edge-fusion-5g-std-motorola-344",
+    "canonicalKey": "motorola-edge-fusion-5g-std-novo",
+    "title": "Smartphone Motorola Edge 60 Fusion 5G",
+    "brand": "Motorola",
+    "storeKey": "motorola",
+    "storeName": "Motorola Oficial",
+    "condition": "novo",
+    "isBundle": false,
+    "price": 2443.33,
+    "listPrice": 2499,
+    "effectivePrice": 2199,
+    "discountPct": 12,
+    "priceBand": "1200-2200",
+    "availableQuantity": 0,
+    "imageUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/177189/EDGE60FUSION_MOCHA-MOUSSE_1000X1000PX_01-min.png?v=639032387652300000",
+    "originalUrl": "https://www.motorola.com.br/smartphone-motorola-edge-60-fusion-5g/p",
+    "monetizedUrl": "https://www.motorola.com.br/smartphone-motorola-edge-60-fusion-5g/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "motorola",
+        "storeLabel": "Motorola Oficial (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://www.motorola.com.br/smartphone-motorola-edge-60-fusion-5g/p",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–5%",
+        "note": "Preço auditado: R$ 2199,00"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Motorola%20Edge%20Fusion%205G",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Motorola%20Edge%20Fusion%205G/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/motorola-edge-fusion-5g",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Motorola%20Edge%20Fusion%205G",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/motorola-edge-fusion-5g",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Motorola Edge Fusion 5G",
+      "storageGb": null,
+      "ramGb": 8,
+      "has5g": true,
+      "hasNfc": true,
+      "screenSummary": "6,7\" pOLED Curva 120Hz",
+      "batteryMah": 5200,
+      "cameraSummary": "50MP Sony LYTIA 700C + OIS + IP68",
+      "chipset": "Snapdragon 7s Gen / Dimensity 7300",
+      "os": "Android",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 28
+    },
+    "priceStats": {
+      "minObservedPrice": 2199,
+      "maxObservedPrice": 2199,
+      "avgObservedPrice": 2199,
+      "observationsCount": 2,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 12,
+      "priceAlertLabel": "Menor preço observado no histórico"
+    },
+    "opportunityScore": 79,
+    "scoreBreakdown": {
+      "technical": 30,
+      "discount": 16,
+      "trust": 20,
+      "commercial": 13
+    },
+    "analysis": {
+      "verdict": "Excelente janela de compra: Motorola Edge Fusion 5G (armazenamento padrão) por R$ 2.199,00 atinge Score 79/100 (Menor preço observado no histórico).",
+      "idealFor": "Custo-benefício diário (multitarefa fluida, boas fotos, pagamentos NFC e longevidade de sistema)",
+      "pros": [
+        "Tela 6,7\" pOLED Curva 120Hz aliada a Snapdragon 7s Gen / Dimensity 7300",
+        "armazenamento padrão com 8 GB de RAM e bateria de 5200 mAh",
+        "Vendido por varejista nacional (Motorola Oficial) com emissão de NF-e e garantia legal",
+        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
+      ],
+      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
+      "faqs": [
+        {
+          "question": "O Motorola Edge Fusion 5G vendido na Motorola Oficial é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Motorola Oficial no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
+        },
+        {
+          "question": "O preço de R$ 2.199,00 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 2.199,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-24 10:04 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "No nosso histórico, o menor valor observado foi R$ 2.199,00 e a média é R$ 2.199,00. O preço atual está praticamente no piso histórico."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-24T10:04:59.359Z",
+    "expiredAt": "2026-11-24T22:31:59.091Z",
+    "replacementOfferId": "motorola-463-1926",
+    "replacementSlug": "motorola-edge-fusion-5g-std-motorola-463"
+  },
+  {
+    "id": "bemol-139515-139514",
+    "slug": "samsung-galaxy-a16-a17-256gb-bemol-139515",
+    "canonicalKey": "samsung-galaxy-a16-a17-256gb-novo",
+    "title": "Smartphone Samsung A17 8GB RAM 256GB Azul",
+    "brand": "Samsung",
+    "storeKey": "bemol",
+    "storeName": "Bemol",
+    "condition": "novo",
+    "isBundle": false,
+    "price": 1469,
+    "listPrice": 1469,
+    "effectivePrice": 1469,
+    "discountPct": 16,
+    "priceBand": "1200-2200",
+    "availableQuantity": 0,
+    "imageUrl": "https://bemol.vteximg.com.br/arquivos/ids/520270/372785.jpg?v=639076498987100000",
+    "originalUrl": "https://www.bemol.com.br/smartphone-samsung-a17-8gb-ram-256gb-azul/p",
+    "monetizedUrl": "https://www.bemol.com.br/smartphone-samsung-a17-8gb-ram-256gb-azul/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "bemol",
+        "storeLabel": "Bemol (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://www.bemol.com.br/smartphone-samsung-a17-8gb-ram-256gb-azul/p",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–5%",
+        "note": "Preço auditado: R$ 1469,00"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Samsung%20Galaxy%20A16%2FA17%20256GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Samsung%20Galaxy%20A16%2FA17%20256GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/samsung-galaxy-a16%2Fa17-256gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Samsung%20Galaxy%20A16%2FA17%20256GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/samsung-galaxy-a16%2Fa17-256gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Samsung Galaxy A16/A17",
+      "storageGb": 256,
+      "ramGb": 8,
+      "has5g": false,
+      "hasNfc": true,
+      "screenSummary": "6,7\" Super AMOLED 90Hz",
+      "batteryMah": 5000,
+      "cameraSummary": "50MP Tripla",
+      "chipset": "Helio G99 / Exynos",
+      "os": "Android",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 22
+    },
+    "priceStats": {
+      "minObservedPrice": 1469,
+      "maxObservedPrice": 2059,
+      "avgObservedPrice": 1758.37,
+      "observationsCount": 5,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 16,
+      "priceAlertLabel": "Menor preço observado no histórico"
+    },
+    "opportunityScore": 74,
+    "scoreBreakdown": {
+      "technical": 26,
+      "discount": 19,
+      "trust": 17,
+      "commercial": 12
+    },
+    "analysis": {
+      "verdict": "Opção sólida verificada em Bemol: Samsung Galaxy A16/A17 (256 GB) sai a R$ 1.469,00 com menor preço observado no histórico.",
+      "idealFor": "Custo-benefício diário (multitarefa fluida, boas fotos, pagamentos NFC e longevidade de sistema)",
+      "pros": [
+        "Tela 6,7\" Super AMOLED 90Hz aliada a Helio G99 / Exynos",
+        "256 GB com 8 GB de RAM e bateria de 5000 mAh",
+        "Vendido por varejista nacional (Bemol) com emissão de NF-e e garantia legal"
+      ],
+      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
+      "faqs": [
+        {
+          "question": "O Samsung Galaxy A16/A17 vendido na Bemol é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Bemol no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
+        },
+        {
+          "question": "O preço de R$ 1.469,00 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 1.469,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-24 10:04 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Este modelo específico opera em 4G/LTE. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "No nosso histórico, o menor valor observado foi R$ 1.469,00 e a média é R$ 1.758,37. O preço atual está praticamente no piso histórico."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-24T10:04:59.359Z",
+    "expiredAt": "2026-11-24T22:31:59.091Z",
+    "replacementOfferId": "bemol-156303-156306",
+    "replacementSlug": "samsung-galaxy-a16-a17-256gb-bemol-156303"
+  },
+  {
+    "id": "bemol-122035-122038",
+    "slug": "motorola-razr-60-ultra-1tb-1024gb-bemol-122035",
+    "canonicalKey": "motorola-razr-60-ultra-1tb-1024gb-novo",
+    "title": "Smartphone Motorola Razr 60 Ultra Verde 1TB 5G Tela dobrável 7\"e Externa 4” 16GB RAM + 16GB RAM Boost Inteligente",
+    "brand": "Motorola",
+    "storeKey": "bemol",
+    "storeName": "Bemol",
+    "condition": "novo",
+    "isBundle": false,
+    "price": 9000,
+    "listPrice": 9999,
+    "effectivePrice": 9000,
+    "discountPct": 10,
+    "priceBand": "acima-4000",
+    "availableQuantity": 0,
+    "imageUrl": "https://bemol.vteximg.com.br/arquivos/ids/469643/353494.jpg?v=639107574339270000",
+    "originalUrl": "https://www.bemol.com.br/smartphone-motorola-razr-60-ultra-verde-1tb-5g-tela-dobravel-7e-externa-4-32gb-ram-16gb-ram-16gb-ram-boost-inteligente/p",
+    "monetizedUrl": "https://www.bemol.com.br/smartphone-motorola-razr-60-ultra-verde-1tb-5g-tela-dobravel-7e-externa-4-32gb-ram-16gb-ram-16gb-ram-boost-inteligente/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "bemol",
+        "storeLabel": "Bemol (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://www.bemol.com.br/smartphone-motorola-razr-60-ultra-verde-1tb-5g-tela-dobravel-7e-externa-4-32gb-ram-16gb-ram-16gb-ram-boost-inteligente/p",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–5%",
+        "note": "Preço auditado: R$ 9000,00"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Motorola%20Razr%2060%20Ultra%201TB%201024GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Motorola%20Razr%2060%20Ultra%201TB%201024GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/motorola-razr-60-ultra-1tb-1024gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Motorola%20Razr%2060%20Ultra%201TB%201024GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/motorola-razr-60-ultra-1tb-1024gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Motorola Razr 60 Ultra 1TB",
+      "storageGb": 1024,
+      "ramGb": 16,
+      "has5g": true,
+      "hasNfc": false,
+      "screenSummary": "6,6\"+ Tela Full HD+",
+      "batteryMah": 5000,
+      "cameraSummary": "50MP Principal",
+      "chipset": "Octa-Core",
+      "os": "Android",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 26
+    },
+    "priceStats": {
+      "minObservedPrice": 9000,
+      "maxObservedPrice": 9000,
+      "avgObservedPrice": 9000,
+      "observationsCount": 2,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 10,
+      "priceAlertLabel": "Menor preço observado no histórico"
+    },
+    "opportunityScore": 68,
+    "scoreBreakdown": {
+      "technical": 26,
+      "discount": 14,
+      "trust": 17,
+      "commercial": 11
+    },
+    "analysis": {
+      "verdict": "Opção sólida verificada em Bemol: Motorola Razr 60 Ultra 1TB (1024 GB) sai a R$ 9.000,00 com menor preço observado no histórico.",
+      "idealFor": "Público entusiasta/profissional que busca o topo em câmeras, desempenho e anos de atualizações",
+      "pros": [
+        "Tela 6,6\"+ Tela Full HD+ aliada a Octa-Core",
+        "1024 GB com 16 GB de RAM e bateria de 5000 mAh",
+        "Vendido por varejista nacional (Bemol) com emissão de NF-e e garantia legal"
+      ],
+      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
+      "faqs": [
+        {
+          "question": "O Motorola Razr 60 Ultra 1TB vendido na Bemol é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Bemol no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
+        },
+        {
+          "question": "O preço de R$ 9.000,00 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 9.000,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-24 10:04 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Sim, possui suporte a redes 5G. Não possui NFC confirmado nesta ficha; confira as especificações da loja caso use pagamento por aproximação."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "No nosso histórico, o menor valor observado foi R$ 9.000,00 e a média é R$ 9.000,00. O preço atual está praticamente no piso histórico."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-24T10:04:59.359Z",
+    "expiredAt": "2026-11-24T22:31:59.091Z",
+    "replacementOfferId": "fastshop-159259-169347",
+    "replacementSlug": "motorola-signature-5g-oliva-tela-512gb-fastshop-159259"
+  },
+  {
+    "id": "bemol-148468-148471",
+    "slug": "apple-iphone-16e-128gb-bemol-148468",
+    "canonicalKey": "apple-iphone-16e-128gb-novo",
+    "title": "Apple iPhone 16E 128GB Preto iOS 18",
+    "brand": "Apple",
+    "storeKey": "bemol",
+    "storeName": "Bemol",
+    "condition": "novo",
+    "isBundle": false,
+    "price": 3999,
+    "listPrice": 3999,
+    "effectivePrice": 3999,
+    "discountPct": 0,
+    "priceBand": "2200-4000",
+    "availableQuantity": 0,
+    "imageUrl": "https://bemol.vteximg.com.br/arquivos/ids/559578/382339.jpg?v=639136037016900000",
+    "originalUrl": "https://www.bemol.com.br/apple-iphone-16e-128gb-preto-ios-18/p",
+    "monetizedUrl": "https://www.bemol.com.br/apple-iphone-16e-128gb-preto-ios-18/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "bemol",
+        "storeLabel": "Bemol (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://www.bemol.com.br/apple-iphone-16e-128gb-preto-ios-18/p",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–5%",
+        "note": "Preço auditado: R$ 3999,00"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Apple%20iPhone%2016e%20128GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Apple%20iPhone%2016e%20128GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/apple-iphone-16e-128gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Apple%20iPhone%2016e%20128GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/apple-iphone-16e-128gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Apple iPhone 16e",
+      "storageGb": 128,
+      "ramGb": 8,
+      "has5g": true,
+      "hasNfc": true,
+      "screenSummary": "6,1\" OLED Super Retina XDR 60Hz",
+      "batteryMah": 4005,
+      "cameraSummary": "48MP Fusion com estabilização óptica",
+      "chipset": "Apple A18",
+      "os": "iOS",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 29
+    },
+    "priceStats": {
+      "minObservedPrice": 3999,
+      "maxObservedPrice": 3999,
+      "avgObservedPrice": 3999,
+      "observationsCount": 2,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 0,
+      "priceAlertLabel": "Menor preço observado no histórico"
+    },
+    "opportunityScore": 64,
+    "scoreBreakdown": {
+      "technical": 29,
+      "discount": 5,
+      "trust": 17,
+      "commercial": 13
+    },
+    "analysis": {
+      "verdict": "Opção sólida verificada em Bemol: Apple iPhone 16e (128 GB) sai a R$ 3.999,00 com menor preço observado no histórico.",
+      "idealFor": "Usuários exigentes, criação de conteúdo móvel, jogos pesados e telas premium de alta fluidez",
+      "pros": [
+        "Tela 6,1\" OLED Super Retina XDR 60Hz aliada a Apple A18",
+        "128 GB com 8 GB de RAM e bateria de 4005 mAh",
+        "Vendido por varejista nacional (Bemol) com emissão de NF-e e garantia legal",
+        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
+      ],
+      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
+      "faqs": [
+        {
+          "question": "O Apple iPhone 16e vendido na Bemol é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Bemol no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
+        },
+        {
+          "question": "O preço de R$ 3.999,00 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 3.999,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-24 10:04 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "No nosso histórico, o menor valor observado foi R$ 3.999,00 e a média é R$ 3.999,00. O preço atual está praticamente no piso histórico."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-24T10:04:59.359Z",
+    "expiredAt": "2026-11-24T22:31:59.091Z",
+    "replacementOfferId": "bemol-8545-8545",
+    "replacementSlug": "apple-iphone-15-128gb-bemol-8545"
+  },
+  {
+    "id": "bemol-137165-137166",
+    "slug": "samsung-galaxy-a06-a07-128gb-bemol-137165",
+    "canonicalKey": "samsung-galaxy-a06-a07-128gb-novo",
+    "title": "Smartphone Samsung A07 4GB RAM 128GB Verde",
+    "brand": "Samsung",
+    "storeKey": "bemol",
+    "storeName": "Bemol",
+    "condition": "novo",
+    "isBundle": false,
+    "price": 956,
+    "listPrice": 956,
+    "effectivePrice": 956,
+    "discountPct": 0,
+    "priceBand": "ate-1200",
+    "availableQuantity": 0,
+    "imageUrl": "https://bemol.vteximg.com.br/arquivos/ids/510091/371706.jpg?v=639064375989430000",
+    "originalUrl": "https://www.bemol.com.br/smartphone-samsung-a07-4gb-ram-128gb-verde/p",
+    "monetizedUrl": "https://www.bemol.com.br/smartphone-samsung-a07-4gb-ram-128gb-verde/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "bemol",
+        "storeLabel": "Bemol (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://www.bemol.com.br/smartphone-samsung-a07-4gb-ram-128gb-verde/p",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–5%",
+        "note": "Preço auditado: R$ 956,00"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Samsung%20Galaxy%20A06%2FA07%20128GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Samsung%20Galaxy%20A06%2FA07%20128GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/samsung-galaxy-a06%2Fa07-128gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Samsung%20Galaxy%20A06%2FA07%20128GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/samsung-galaxy-a06%2Fa07-128gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Samsung Galaxy A06/A07",
+      "storageGb": 128,
+      "ramGb": 4,
+      "has5g": false,
+      "hasNfc": false,
+      "screenSummary": "6,7\" PLS LCD 90Hz",
+      "batteryMah": 5000,
+      "cameraSummary": "50MP Dupla",
+      "chipset": "MediaTek Helio G85/G99",
+      "os": "Android",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 15
+    },
+    "priceStats": {
+      "minObservedPrice": 845.91,
+      "maxObservedPrice": 956,
+      "avgObservedPrice": 897.74,
+      "observationsCount": 5,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 0,
+      "priceAlertLabel": "Preço em linha com o varejo"
+    },
+    "opportunityScore": 47,
+    "scoreBreakdown": {
+      "technical": 19,
+      "discount": 0,
+      "trust": 17,
+      "commercial": 11
+    },
+    "analysis": {
+      "verdict": "Opção sólida verificada em Bemol: Samsung Galaxy A06/A07 (128 GB) sai a R$ 956,00 com preço em linha com o varejo.",
+      "idealFor": "Uso essencial equilibrado (WhatsApp, bancos, redes sociais e chamadas com ótima autonomia de bateria)",
+      "pros": [
+        "Tela 6,7\" PLS LCD 90Hz aliada a MediaTek Helio G85/G99",
+        "128 GB com 4 GB de RAM e bateria de 5000 mAh",
+        "Vendido por varejista nacional (Bemol) com emissão de NF-e e garantia legal"
+      ],
+      "watchout": "Versão de 128 GB: considere 256 GB se costuma gravar muitos vídeos em 4K ou instalar jogos pesados. Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
+      "faqs": [
+        {
+          "question": "O Samsung Galaxy A06/A07 vendido na Bemol é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Bemol no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
+        },
+        {
+          "question": "O preço de R$ 956,00 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 956,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-24 10:04 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Este modelo específico opera em 4G/LTE. Não possui NFC confirmado nesta ficha; confira as especificações da loja caso use pagamento por aproximação."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "No nosso histórico, o menor valor observado foi R$ 845,91 e a média é R$ 897,74. Considere comparar na matriz de lojas parceiras antes de fechar."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-24T10:04:59.359Z",
+    "expiredAt": "2026-11-24T22:31:59.091Z",
+    "replacementOfferId": "fastshop-197998-208716",
+    "replacementSlug": "samsung-galaxy-a06-a07-128gb-fastshop-197998"
+  },
+  {
     "id": "trocafone-99609-78215",
     "slug": "motorola-edge-5g-512gb-trocafone-99609",
     "canonicalKey": "motorola-edge-5g-512gb-recondicionado",
@@ -138,8 +987,8 @@
     "status": "expired",
     "observedAt": "2026-11-23T23:46:21.222Z",
     "expiredAt": "2026-11-24T10:04:59.359Z",
-    "replacementOfferId": "trocafone-80425-51294",
-    "replacementSlug": "motorola-edge-5g-256gb-trocafone-80425"
+    "replacementOfferId": "trocafone-96265-71892",
+    "replacementSlug": "motorola-edge-fusion-5g-256gb-trocafone-96265"
   },
   {
     "id": "trocafone-74491-40720",
@@ -991,146 +1840,5 @@
     "expiredAt": "2026-11-24T10:04:59.359Z",
     "replacementOfferId": "bemol-137872-137872",
     "replacementSlug": "samsung-galaxy-a06-a07-256gb-bemol-137872"
-  },
-  {
-    "id": "bemol-137166-137167",
-    "slug": "samsung-galaxy-a06-a07-128gb-bemol-137166",
-    "canonicalKey": "samsung-galaxy-a06-a07-128gb-novo",
-    "title": "Smartphone Samsung A07 4GB RAM 128GB Violeta",
-    "brand": "Samsung",
-    "storeKey": "bemol",
-    "storeName": "Bemol",
-    "condition": "novo",
-    "isBundle": false,
-    "price": 956,
-    "listPrice": 956,
-    "effectivePrice": 956,
-    "discountPct": 0,
-    "priceBand": "ate-1200",
-    "availableQuantity": 0,
-    "imageUrl": "https://bemol.vteximg.com.br/arquivos/ids/544285/371708.jpg?v=639096879067200000",
-    "originalUrl": "https://www.bemol.com.br/smartphone-samsung-a07-4gb-ram-128gb-violeta/p",
-    "monetizedUrl": "https://www.bemol.com.br/smartphone-samsung-a07-4gb-ram-128gb-violeta/p",
-    "monetizedProgram": "direto-sem-tag",
-    "isDirectlyMonetized": false,
-    "comparisonLinks": [
-      {
-        "storeId": "bemol",
-        "storeLabel": "Bemol (Oferta Verificada)",
-        "program": "direto-sem-tag",
-        "url": "https://www.bemol.com.br/smartphone-samsung-a07-4gb-ram-128gb-violeta/p",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–5%",
-        "note": "Preço auditado: R$ 956,00"
-      },
-      {
-        "storeId": "amazon",
-        "storeLabel": "Amazon Brasil",
-        "program": "busca-direta",
-        "url": "https://www.amazon.com.br/s?k=Samsung%20Galaxy%20A06%2FA07%20128GB",
-        "monetized": false,
-        "estimatedCommissionPct": "1%–3%",
-        "note": "Comparar preço e entrega Prime"
-      },
-      {
-        "storeId": "magalu",
-        "storeLabel": "Magalu (Parceiro)",
-        "program": "busca-direta",
-        "url": "https://www.magazineluiza.com.br/busca/Samsung%20Galaxy%20A06%2FA07%20128GB/",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–6%",
-        "note": "Retira na loja / garantia nacional"
-      },
-      {
-        "storeId": "mercadolivre",
-        "storeLabel": "Mercado Livre",
-        "program": "busca-direta",
-        "url": "https://lista.mercadolivre.com.br/samsung-galaxy-a06%2Fa07-128gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Entrega Full em capitais"
-      },
-      {
-        "storeId": "shopee",
-        "storeLabel": "Shopee Lojas Oficiais",
-        "program": "busca-direta",
-        "url": "https://shopee.com.br/search?keyword=Samsung%20Galaxy%20A06%2FA07%20128GB",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–10%",
-        "note": "Cupons de plataforma e lojas oficiais"
-      },
-      {
-        "storeId": "kabum",
-        "storeLabel": "KaBuM! (via Awin)",
-        "program": "busca-direta",
-        "url": "https://www.kabum.com.br/busca/samsung-galaxy-a06%2Fa07-128gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Desconto no Pix em hardware/smartphones"
-      }
-    ],
-    "specs": {
-      "canonicalModel": "Samsung Galaxy A06/A07",
-      "storageGb": 128,
-      "ramGb": 4,
-      "has5g": false,
-      "hasNfc": false,
-      "screenSummary": "6,7\" PLS LCD 90Hz",
-      "batteryMah": 5000,
-      "cameraSummary": "50MP Dupla",
-      "chipset": "MediaTek Helio G85/G99",
-      "os": "Android",
-      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
-      "baseTechnicalScore": 15
-    },
-    "priceStats": {
-      "minObservedPrice": 845.91,
-      "maxObservedPrice": 956,
-      "avgObservedPrice": 900.95,
-      "observationsCount": 2,
-      "suspiciousListPrice": false,
-      "verifiedDiscountPct": 0,
-      "priceAlertLabel": "Preço em linha com o varejo"
-    },
-    "opportunityScore": 47,
-    "scoreBreakdown": {
-      "technical": 19,
-      "discount": 0,
-      "trust": 17,
-      "commercial": 11
-    },
-    "analysis": {
-      "verdict": "Opção sólida verificada em Bemol: Samsung Galaxy A06/A07 (128 GB) sai a R$ 956,00 com preço em linha com o varejo.",
-      "idealFor": "Uso essencial equilibrado (WhatsApp, bancos, redes sociais e chamadas com ótima autonomia de bateria)",
-      "pros": [
-        "Tela 6,7\" PLS LCD 90Hz aliada a MediaTek Helio G85/G99",
-        "128 GB com 4 GB de RAM e bateria de 5000 mAh",
-        "Vendido por varejista nacional (Bemol) com emissão de NF-e e garantia legal"
-      ],
-      "watchout": "Versão de 128 GB: considere 256 GB se costuma gravar muitos vídeos em 4K ou instalar jogos pesados. Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
-      "faqs": [
-        {
-          "question": "O Samsung Galaxy A06/A07 vendido na Bemol é original e homologado pela Anatel?",
-          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Bemol no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
-        },
-        {
-          "question": "O preço de R$ 956,00 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 956,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-23 23:46 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
-        },
-        {
-          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
-          "answer": "Este modelo específico opera em 4G/LTE. Não possui NFC confirmado nesta ficha; confira as especificações da loja caso use pagamento por aproximação."
-        },
-        {
-          "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 845,91 e a média é R$ 900,95. Considere comparar na matriz de lojas parceiras antes de fechar."
-        }
-      ]
-    },
-    "status": "expired",
-    "observedAt": "2026-11-23T23:46:21.222Z",
-    "expiredAt": "2026-11-24T10:04:59.359Z",
-    "replacementOfferId": "fastshop-197998-208716",
-    "replacementSlug": "samsung-galaxy-a06-a07-128gb-fastshop-197998"
   }
 ]

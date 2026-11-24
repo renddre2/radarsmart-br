@@ -52,5 +52,23 @@
     "publishedAt": "2026-11-24T10:04:59.359Z",
     "status": "staged_in_queue",
     "detail": "Pronto na fila multicanal (aguardando TELEGRAM_BOT_TOKEN e TELEGRAM_CHAT_ID para disparo automático)."
+  },
+  {
+    "offerId": "motorola-463-1926",
+    "canonicalKey": "motorola-edge-fusion-5g-std-motorola-463",
+    "channel": "staged",
+    "publishedPrice": 1999,
+    "publishedAt": "2026-11-24T22:31:59.091Z",
+    "status": "staged_in_queue",
+    "detail": "Pronto na fila multicanal (aguardando TELEGRAM_BOT_TOKEN e TELEGRAM_CHAT_ID para disparo automático)."
+  },
+  {
+    "offerId": "motorola-421-1831",
+    "canonicalKey": "motorola-edge-fusion-5g-256gb-motorola-421",
+    "channel": "staged",
+    "publishedPrice": 2249.1,
+    "publishedAt": "2026-11-24T22:31:59.091Z",
+    "status": "staged_in_queue",
+    "detail": "Pronto na fila multicanal (aguardando TELEGRAM_BOT_TOKEN e TELEGRAM_CHAT_ID para disparo automático)."
   }
 ]
