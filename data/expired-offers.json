@@ -1,1 +1,1136 @@
-[]
+[
+  {
+    "id": "trocafone-99609-78215",
+    "slug": "motorola-edge-5g-512gb-trocafone-99609",
+    "canonicalKey": "motorola-edge-5g-512gb-recondicionado",
+    "title": "Motorola Edge 60 5G 512GB",
+    "brand": "Motorola",
+    "storeKey": "trocafone",
+    "storeName": "Trocafone (Recondicionado)",
+    "condition": "recondicionado",
+    "isBundle": false,
+    "price": 1749,
+    "listPrice": 2149,
+    "effectivePrice": 1539.12,
+    "discountPct": 28,
+    "priceBand": "1200-2200",
+    "availableQuantity": 0,
+    "imageUrl": "https://trocafone.vteximg.com.br/arquivos/ids/467767/smpmot0261azmr-p.jpg.jpg?v=639283144919970000",
+    "originalUrl": "https://www.trocafone.com.br/motorola-edge-60-5g-512gb/p",
+    "monetizedUrl": "https://www.trocafone.com.br/motorola-edge-60-5g-512gb/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "trocafone",
+        "storeLabel": "Trocafone (Recondicionado) (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://www.trocafone.com.br/motorola-edge-60-5g-512gb/p",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–8%",
+        "note": "Preço auditado: R$ 1539,12"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Motorola%20Edge%205G%20512GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Motorola%20Edge%205G%20512GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/motorola-edge-5g-512gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Motorola%20Edge%205G%20512GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/motorola-edge-5g-512gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Motorola Edge 5G",
+      "storageGb": 512,
+      "ramGb": 8,
+      "has5g": true,
+      "hasNfc": true,
+      "screenSummary": "6,67\" pOLED 120Hz+",
+      "batteryMah": 5000,
+      "cameraSummary": "50MP Sony LYTIA com OIS",
+      "chipset": "Snapdragon / Dimensity 5G",
+      "os": "Android",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 30
+    },
+    "priceStats": {
+      "minObservedPrice": 1539.12,
+      "maxObservedPrice": 1539.12,
+      "avgObservedPrice": 1539.12,
+      "observationsCount": 1,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 28,
+      "priceAlertLabel": "Desconto verificado de 28%"
+    },
+    "opportunityScore": 87,
+    "scoreBreakdown": {
+      "technical": 34,
+      "discount": 25,
+      "trust": 15,
+      "commercial": 13
+    },
+    "analysis": {
+      "verdict": "Excelente janela de compra: Motorola Edge 5G (512 GB) por R$ 1.539,12 atinge Score 87/100 (Desconto verificado de 28%).",
+      "idealFor": "Custo-benefício diário (multitarefa fluida, boas fotos, pagamentos NFC e longevidade de sistema)",
+      "pros": [
+        "Tela 6,67\" pOLED 120Hz+ aliada a Snapdragon / Dimensity 5G",
+        "512 GB com 8 GB de RAM e bateria de 5000 mAh",
+        "Economia expressiva em aparelho recondicionado certificado pela Trocafone (Recondicionado)",
+        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
+      ],
+      "watchout": "Aparelho recondicionado: verifique a classificação estética (Excelente/Muito Bom/Bom) e a política de bateria na página da loja antes de finalizar.",
+      "faqs": [
+        {
+          "question": "O Motorola Edge 5G vendido na Trocafone (Recondicionado) é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Trocafone (Recondicionado) no Brasil (aparelho seminovo/recondicionado revisado com garantia legal)."
+        },
+        {
+          "question": "O preço de R$ 1.539,12 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 1.539,12 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-23 23:46 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "Primeira janela registrada neste ciclo a R$ 1.539,12. Recomendamos checar os links comparativos (Amazon, Magalu, Mercado Livre e Shopee) nesta página antes de finalizar."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-23T23:46:21.222Z",
+    "expiredAt": "2026-11-24T10:04:59.359Z",
+    "replacementOfferId": "trocafone-80425-51294",
+    "replacementSlug": "motorola-edge-5g-256gb-trocafone-80425"
+  },
+  {
+    "id": "trocafone-74491-40720",
+    "slug": "apple-iphone-14-256gb-trocafone-74491",
+    "canonicalKey": "apple-iphone-14-256gb-recondicionado",
+    "title": "iPhone 14 256GB",
+    "brand": "Apple",
+    "storeKey": "trocafone",
+    "storeName": "Trocafone (Recondicionado)",
+    "condition": "recondicionado",
+    "isBundle": false,
+    "price": 3239,
+    "listPrice": 3979,
+    "effectivePrice": 2850.32,
+    "discountPct": 28,
+    "priceBand": "2200-4000",
+    "availableQuantity": 0,
+    "imageUrl": "https://trocafone.vteximg.com.br/arquivos/ids/441118/smpapl0033este-p.jpg?v=639094496628730000",
+    "originalUrl": "https://www.trocafone.com.br/iphone-14-256gb/p",
+    "monetizedUrl": "https://www.trocafone.com.br/iphone-14-256gb/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "trocafone",
+        "storeLabel": "Trocafone (Recondicionado) (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://www.trocafone.com.br/iphone-14-256gb/p",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–8%",
+        "note": "Preço auditado: R$ 2850,32"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Apple%20iPhone%2014%20256GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Apple%20iPhone%2014%20256GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/apple-iphone-14-256gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Apple%20iPhone%2014%20256GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/apple-iphone-14-256gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Apple iPhone 14",
+      "storageGb": 256,
+      "ramGb": 6,
+      "has5g": true,
+      "hasNfc": true,
+      "screenSummary": "6,1\" OLED Super Retina XDR 60Hz",
+      "batteryMah": 3279,
+      "cameraSummary": "12MP Dupla com Modo Cinema",
+      "chipset": "Apple A15 Bionic",
+      "os": "iOS",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 27
+    },
+    "priceStats": {
+      "minObservedPrice": 2850.32,
+      "maxObservedPrice": 2850.32,
+      "avgObservedPrice": 2850.32,
+      "observationsCount": 1,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 28,
+      "priceAlertLabel": "Desconto verificado de 28%"
+    },
+    "opportunityScore": 80,
+    "scoreBreakdown": {
+      "technical": 27,
+      "discount": 25,
+      "trust": 15,
+      "commercial": 13
+    },
+    "analysis": {
+      "verdict": "Excelente janela de compra: Apple iPhone 14 (256 GB) por R$ 2.850,32 atinge Score 80/100 (Desconto verificado de 28%).",
+      "idealFor": "Usuários exigentes, criação de conteúdo móvel, jogos pesados e telas premium de alta fluidez",
+      "pros": [
+        "Tela 6,1\" OLED Super Retina XDR 60Hz aliada a Apple A15 Bionic",
+        "256 GB com 6 GB de RAM e bateria de 3279 mAh",
+        "Economia expressiva em aparelho recondicionado certificado pela Trocafone (Recondicionado)",
+        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
+      ],
+      "watchout": "Aparelho recondicionado: verifique a classificação estética (Excelente/Muito Bom/Bom) e a política de bateria na página da loja antes de finalizar.",
+      "faqs": [
+        {
+          "question": "O Apple iPhone 14 vendido na Trocafone (Recondicionado) é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Trocafone (Recondicionado) no Brasil (aparelho seminovo/recondicionado revisado com garantia legal)."
+        },
+        {
+          "question": "O preço de R$ 2.850,32 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 2.850,32 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-23 23:46 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "Primeira janela registrada neste ciclo a R$ 2.850,32. Recomendamos checar os links comparativos (Amazon, Magalu, Mercado Livre e Shopee) nesta página antes de finalizar."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-23T23:46:21.222Z",
+    "expiredAt": "2026-11-24T10:04:59.359Z",
+    "replacementOfferId": "trocafone-72233-31877",
+    "replacementSlug": "apple-iphone-13-128gb-trocafone-72233"
+  },
+  {
+    "id": "motorola-369-1707",
+    "slug": "motorola-moto-g75-g77-g86-5g-256gb-motorola-369",
+    "canonicalKey": "motorola-moto-g75-g77-g86-5g-256gb-novo",
+    "title": "Smartphone Motorola Moto g86 5G 256GB",
+    "brand": "Motorola",
+    "storeKey": "motorola",
+    "storeName": "Motorola Oficial",
+    "condition": "novo",
+    "isBundle": false,
+    "price": 2221.11,
+    "listPrice": 2299,
+    "effectivePrice": 1999,
+    "discountPct": 13,
+    "priceBand": "1200-2200",
+    "availableQuantity": 0,
+    "imageUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/174409/frente-atras-smartphone-moto-g86-grafite.png?v=638870871964670000",
+    "originalUrl": "https://www.motorola.com.br/smartphone-moto-g86-5g-256gb/p",
+    "monetizedUrl": "https://www.motorola.com.br/smartphone-moto-g86-5g-256gb/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "motorola",
+        "storeLabel": "Motorola Oficial (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://www.motorola.com.br/smartphone-moto-g86-5g-256gb/p",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–5%",
+        "note": "Preço auditado: R$ 1999,00"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Motorola%20Moto%20G75%2FG77%2FG86%205G%20256GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Motorola%20Moto%20G75%2FG77%2FG86%205G%20256GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/motorola-moto-g75%2Fg77%2Fg86-5g-256gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Motorola%20Moto%20G75%2FG77%2FG86%205G%20256GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/motorola-moto-g75%2Fg77%2Fg86-5g-256gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Motorola Moto G75/G77/G86 5G",
+      "storageGb": 256,
+      "ramGb": 8,
+      "has5g": true,
+      "hasNfc": true,
+      "screenSummary": "6,7\"–6,8\" AMOLED/IPS 120Hz",
+      "batteryMah": 5000,
+      "cameraSummary": "50MP–108MP OIS",
+      "chipset": "Snapdragon 6 Gen / Dimensity 5G",
+      "os": "Android",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 28
+    },
+    "priceStats": {
+      "minObservedPrice": 1999,
+      "maxObservedPrice": 1999,
+      "avgObservedPrice": 1999,
+      "observationsCount": 1,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 13,
+      "priceAlertLabel": "Preço em linha com o varejo"
+    },
+    "opportunityScore": 77,
+    "scoreBreakdown": {
+      "technical": 32,
+      "discount": 12,
+      "trust": 20,
+      "commercial": 13
+    },
+    "analysis": {
+      "verdict": "Opção sólida verificada em Motorola Oficial: Motorola Moto G75/G77/G86 5G (256 GB) sai a R$ 1.999,00 com preço em linha com o varejo.",
+      "idealFor": "Custo-benefício diário (multitarefa fluida, boas fotos, pagamentos NFC e longevidade de sistema)",
+      "pros": [
+        "Tela 6,7\"–6,8\" AMOLED/IPS 120Hz aliada a Snapdragon 6 Gen / Dimensity 5G",
+        "256 GB com 8 GB de RAM e bateria de 5000 mAh",
+        "Vendido por varejista nacional (Motorola Oficial) com emissão de NF-e e garantia legal",
+        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
+      ],
+      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
+      "faqs": [
+        {
+          "question": "O Motorola Moto G75/G77/G86 5G vendido na Motorola Oficial é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Motorola Oficial no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
+        },
+        {
+          "question": "O preço de R$ 1.999,00 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 1.999,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-23 23:46 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "Primeira janela registrada neste ciclo a R$ 1.999,00. Recomendamos checar os links comparativos (Amazon, Magalu, Mercado Livre e Shopee) nesta página antes de finalizar."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-23T23:46:21.222Z",
+    "expiredAt": "2026-11-24T10:04:59.359Z",
+    "replacementOfferId": "fastshop-198017-208734",
+    "replacementSlug": "motorola-moto-g75-g77-g86-5g-256gb-fastshop-198017"
+  },
+  {
+    "id": "fastshop-157100-167055",
+    "slug": "samsung-galaxy-s26-256gb-fastshop-157100",
+    "canonicalKey": "samsung-galaxy-s26-256gb-novo",
+    "title": "Smartphone Samsung Galaxy S26 5G Tela 6.3\" 256GB Câmera 50MP",
+    "brand": "Samsung",
+    "storeKey": "fastshop",
+    "storeName": "Fast Shop",
+    "condition": "novo",
+    "isBundle": false,
+    "price": 6532.17,
+    "listPrice": 6532.17,
+    "effectivePrice": 6140.24,
+    "discountPct": 6,
+    "priceBand": "acima-4000",
+    "availableQuantity": 0,
+    "imageUrl": "https://fastshopbr.vteximg.com.br/arquivos/ids/4522318/17755033722664.jpg?v=639111007602570000",
+    "originalUrl": "https://site.fastshop.com.br/smartphone-samsung-galaxy-s26-5g-tela-6-3--256gb-camera-50mp-157100/p",
+    "monetizedUrl": "https://site.fastshop.com.br/smartphone-samsung-galaxy-s26-5g-tela-6-3--256gb-camera-50mp-157100/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "fastshop",
+        "storeLabel": "Fast Shop (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://site.fastshop.com.br/smartphone-samsung-galaxy-s26-5g-tela-6-3--256gb-camera-50mp-157100/p",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–5%",
+        "note": "Preço auditado: R$ 6140,24"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Samsung%20Galaxy%20S26%20256GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Samsung%20Galaxy%20S26%20256GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/samsung-galaxy-s26-256gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Samsung%20Galaxy%20S26%20256GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/samsung-galaxy-s26-256gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Samsung Galaxy S26",
+      "storageGb": 256,
+      "ramGb": 12,
+      "has5g": true,
+      "hasNfc": true,
+      "screenSummary": "6,3\" Dynamic AMOLED 2X 120Hz",
+      "batteryMah": 4300,
+      "cameraSummary": "50MP OIS + 12MP + Tele 10MP",
+      "chipset": "Flagship Galaxy AI",
+      "os": "Android",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 35
+    },
+    "priceStats": {
+      "minObservedPrice": 6140.24,
+      "maxObservedPrice": 6140.24,
+      "avgObservedPrice": 6140.24,
+      "observationsCount": 1,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 6,
+      "priceAlertLabel": "Preço em linha com o varejo"
+    },
+    "opportunityScore": 72,
+    "scoreBreakdown": {
+      "technical": 35,
+      "discount": 5,
+      "trust": 19,
+      "commercial": 13
+    },
+    "analysis": {
+      "verdict": "Opção sólida verificada em Fast Shop: Samsung Galaxy S26 (256 GB) sai a R$ 6.140,24 com preço em linha com o varejo.",
+      "idealFor": "Público entusiasta/profissional que busca o topo em câmeras, desempenho e anos de atualizações",
+      "pros": [
+        "Tela 6,3\" Dynamic AMOLED 2X 120Hz aliada a Flagship Galaxy AI",
+        "256 GB com 12 GB de RAM e bateria de 4300 mAh",
+        "Vendido por varejista nacional (Fast Shop) com emissão de NF-e e garantia legal",
+        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
+      ],
+      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
+      "faqs": [
+        {
+          "question": "O Samsung Galaxy S26 vendido na Fast Shop é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Fast Shop no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
+        },
+        {
+          "question": "O preço de R$ 6.140,24 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 6.140,24 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-23 23:46 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "Primeira janela registrada neste ciclo a R$ 6.140,24. Recomendamos checar os links comparativos (Amazon, Magalu, Mercado Livre e Shopee) nesta página antes de finalizar."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-23T23:46:21.222Z",
+    "expiredAt": "2026-11-24T10:04:59.359Z",
+    "replacementOfferId": "bemol-185601-185586",
+    "replacementSlug": "samsung-galaxy-s26-256gb-bemol-185601"
+  },
+  {
+    "id": "trocafone-100849-80259",
+    "slug": "motorola-edge-5g-256gb-trocafone-100849",
+    "canonicalKey": "motorola-edge-5g-256gb-recondicionado",
+    "title": "Motorola Edge 50 PRO 5G 256 GB Preto Outlet",
+    "brand": "Motorola",
+    "storeKey": "trocafone",
+    "storeName": "Trocafone (Recondicionado)",
+    "condition": "recondicionado",
+    "isBundle": false,
+    "price": 915,
+    "listPrice": 915,
+    "effectivePrice": 823.5,
+    "discountPct": 10,
+    "priceBand": "ate-1200",
+    "availableQuantity": 0,
+    "imageUrl": "https://trocafone.vteximg.com.br/arquivos/ids/467030/image-4c85587c00084633810b741c51070f87.jpg?v=639270914086930000",
+    "originalUrl": "https://www.trocafone.com.br/motorola-edge-50-pro-5g-256-gb-preto-outlet-100849/p",
+    "monetizedUrl": "https://www.trocafone.com.br/motorola-edge-50-pro-5g-256-gb-preto-outlet-100849/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "trocafone",
+        "storeLabel": "Trocafone (Recondicionado) (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://www.trocafone.com.br/motorola-edge-50-pro-5g-256-gb-preto-outlet-100849/p",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–8%",
+        "note": "Preço auditado: R$ 823,50"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Motorola%20Edge%205G%20256GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Motorola%20Edge%205G%20256GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/motorola-edge-5g-256gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Motorola%20Edge%205G%20256GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/motorola-edge-5g-256gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Motorola Edge 5G",
+      "storageGb": 256,
+      "ramGb": 8,
+      "has5g": true,
+      "hasNfc": true,
+      "screenSummary": "6,67\" pOLED 120Hz+",
+      "batteryMah": 5000,
+      "cameraSummary": "50MP Sony LYTIA com OIS",
+      "chipset": "Snapdragon / Dimensity 5G",
+      "os": "Android",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 29
+    },
+    "priceStats": {
+      "minObservedPrice": 823.5,
+      "maxObservedPrice": 823.5,
+      "avgObservedPrice": 823.5,
+      "observationsCount": 1,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 10,
+      "priceAlertLabel": "Preço em linha com o varejo"
+    },
+    "opportunityScore": 70,
+    "scoreBreakdown": {
+      "technical": 33,
+      "discount": 9,
+      "trust": 15,
+      "commercial": 13
+    },
+    "analysis": {
+      "verdict": "Opção sólida verificada em Trocafone (Recondicionado): Motorola Edge 5G (256 GB) sai a R$ 823,50 com preço em linha com o varejo.",
+      "idealFor": "Uso essencial equilibrado (WhatsApp, bancos, redes sociais e chamadas com ótima autonomia de bateria)",
+      "pros": [
+        "Tela 6,67\" pOLED 120Hz+ aliada a Snapdragon / Dimensity 5G",
+        "256 GB com 8 GB de RAM e bateria de 5000 mAh",
+        "Economia expressiva em aparelho recondicionado certificado pela Trocafone (Recondicionado)",
+        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
+      ],
+      "watchout": "Aparelho recondicionado: verifique a classificação estética (Excelente/Muito Bom/Bom) e a política de bateria na página da loja antes de finalizar.",
+      "faqs": [
+        {
+          "question": "O Motorola Edge 5G vendido na Trocafone (Recondicionado) é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Trocafone (Recondicionado) no Brasil (aparelho seminovo/recondicionado revisado com garantia legal)."
+        },
+        {
+          "question": "O preço de R$ 823,50 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 823,50 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-23 23:46 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "Primeira janela registrada neste ciclo a R$ 823,50. Recomendamos checar os links comparativos (Amazon, Magalu, Mercado Livre e Shopee) nesta página antes de finalizar."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-23T23:46:21.222Z",
+    "expiredAt": "2026-11-24T10:04:59.359Z",
+    "replacementOfferId": "trocafone-80425-51294",
+    "replacementSlug": "motorola-edge-5g-256gb-trocafone-80425"
+  },
+  {
+    "id": "bemol-178563-178563",
+    "slug": "apple-iphone-pro-max-nova-geracao-512gb-bemol-178563",
+    "canonicalKey": "apple-iphone-pro-max-nova-geracao-512gb-novo",
+    "title": "Apple iPhone 18 Pro Max 512GB Glacial",
+    "brand": "Apple",
+    "storeKey": "bemol",
+    "storeName": "Bemol",
+    "condition": "novo",
+    "isBundle": false,
+    "price": 14499,
+    "listPrice": 14499,
+    "effectivePrice": 14499,
+    "discountPct": 0,
+    "priceBand": "acima-4000",
+    "availableQuantity": 0,
+    "imageUrl": "https://bemol.vteximg.com.br/arquivos/ids/663506/416662.jpg?v=639269792752400000",
+    "originalUrl": "https://www.bemol.com.br/apple-iphone-18-pro-max-512gb-glacial/p",
+    "monetizedUrl": "https://www.bemol.com.br/apple-iphone-18-pro-max-512gb-glacial/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "bemol",
+        "storeLabel": "Bemol (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://www.bemol.com.br/apple-iphone-18-pro-max-512gb-glacial/p",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–5%",
+        "note": "Preço auditado: R$ 14499,00"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Apple%20iPhone%20Pro%20Max%20(Nova%20Gera%C3%A7%C3%A3o)%20512GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Apple%20iPhone%20Pro%20Max%20(Nova%20Gera%C3%A7%C3%A3o)%20512GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/apple-iphone-pro-max-(nova-gera%C3%A7%C3%A3o)-512gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Apple%20iPhone%20Pro%20Max%20(Nova%20Gera%C3%A7%C3%A3o)%20512GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/apple-iphone-pro-max-(nova-gera%C3%A7%C3%A3o)-512gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Apple iPhone Pro Max (Nova Geração)",
+      "storageGb": 512,
+      "ramGb": 12,
+      "has5g": true,
+      "hasNfc": true,
+      "screenSummary": "6,9\" OLED ProMotion 120Hz",
+      "batteryMah": 4800,
+      "cameraSummary": "48MP Tripla Pro + Teleobjetiva",
+      "chipset": "Apple A-Series Pro",
+      "os": "iOS",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 35
+    },
+    "priceStats": {
+      "minObservedPrice": 14499,
+      "maxObservedPrice": 14499,
+      "avgObservedPrice": 14499,
+      "observationsCount": 1,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 0,
+      "priceAlertLabel": "Preço em linha com o varejo"
+    },
+    "opportunityScore": 64,
+    "scoreBreakdown": {
+      "technical": 35,
+      "discount": 0,
+      "trust": 17,
+      "commercial": 12
+    },
+    "analysis": {
+      "verdict": "Opção sólida verificada em Bemol: Apple iPhone Pro Max (Nova Geração) (512 GB) sai a R$ 14.499,00 com preço em linha com o varejo.",
+      "idealFor": "Público entusiasta/profissional que busca o topo em câmeras, desempenho e anos de atualizações",
+      "pros": [
+        "Tela 6,9\" OLED ProMotion 120Hz aliada a Apple A-Series Pro",
+        "512 GB com 12 GB de RAM e bateria de 4800 mAh",
+        "Vendido por varejista nacional (Bemol) com emissão de NF-e e garantia legal",
+        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
+      ],
+      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
+      "faqs": [
+        {
+          "question": "O Apple iPhone Pro Max (Nova Geração) vendido na Bemol é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Bemol no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
+        },
+        {
+          "question": "O preço de R$ 14.499,00 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 14.499,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-23 23:46 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "Primeira janela registrada neste ciclo a R$ 14.499,00. Recomendamos checar os links comparativos (Amazon, Magalu, Mercado Livre e Shopee) nesta página antes de finalizar."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-23T23:46:21.222Z",
+    "expiredAt": "2026-11-24T10:04:59.359Z",
+    "replacementOfferId": "bemol-178561-178561",
+    "replacementSlug": "apple-iphone-pro-max-nova-geracao-512gb-bemol-178561"
+  },
+  {
+    "id": "fastshop-185071-195403",
+    "slug": "samsung-galaxy-a06-a07-256gb-fastshop-185071",
+    "canonicalKey": "samsung-galaxy-a06-a07-256gb-novo",
+    "title": "Smartphone Samsung Galaxy A07 8GB RAM 256GB Camera 50MP Tela 6,7 Preto",
+    "brand": "Samsung",
+    "storeKey": "fastshop",
+    "storeName": "Fast Shop",
+    "condition": "novo",
+    "isBundle": false,
+    "price": 997.78,
+    "listPrice": 997.78,
+    "effectivePrice": 997.78,
+    "discountPct": 0,
+    "priceBand": "ate-1200",
+    "availableQuantity": 0,
+    "imageUrl": "https://fastshopbr.vteximg.com.br/arquivos/ids/5524949/17873521944648.jpg?v=639238004358770000",
+    "originalUrl": "https://site.fastshop.com.br/smartphone-samsung-galaxy-a07-8gb-ram-256gb-camera-50mp-tela-67-preto-185071/p",
+    "monetizedUrl": "https://site.fastshop.com.br/smartphone-samsung-galaxy-a07-8gb-ram-256gb-camera-50mp-tela-67-preto-185071/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "fastshop",
+        "storeLabel": "Fast Shop (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://site.fastshop.com.br/smartphone-samsung-galaxy-a07-8gb-ram-256gb-camera-50mp-tela-67-preto-185071/p",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–5%",
+        "note": "Preço auditado: R$ 997,78"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Samsung%20Galaxy%20A06%2FA07%20256GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Samsung%20Galaxy%20A06%2FA07%20256GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/samsung-galaxy-a06%2Fa07-256gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Samsung%20Galaxy%20A06%2FA07%20256GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/samsung-galaxy-a06%2Fa07-256gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Samsung Galaxy A06/A07",
+      "storageGb": 256,
+      "ramGb": 8,
+      "has5g": false,
+      "hasNfc": false,
+      "screenSummary": "6,7\" PLS LCD 90Hz",
+      "batteryMah": 5000,
+      "cameraSummary": "50MP Dupla",
+      "chipset": "MediaTek Helio G85/G99",
+      "os": "Android",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 18
+    },
+    "priceStats": {
+      "minObservedPrice": 997.78,
+      "maxObservedPrice": 997.78,
+      "avgObservedPrice": 997.78,
+      "observationsCount": 1,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 0,
+      "priceAlertLabel": "Preço em linha com o varejo"
+    },
+    "opportunityScore": 52,
+    "scoreBreakdown": {
+      "technical": 22,
+      "discount": 0,
+      "trust": 19,
+      "commercial": 11
+    },
+    "analysis": {
+      "verdict": "Opção sólida verificada em Fast Shop: Samsung Galaxy A06/A07 (256 GB) sai a R$ 997,78 com preço em linha com o varejo.",
+      "idealFor": "Uso essencial equilibrado (WhatsApp, bancos, redes sociais e chamadas com ótima autonomia de bateria)",
+      "pros": [
+        "Tela 6,7\" PLS LCD 90Hz aliada a MediaTek Helio G85/G99",
+        "256 GB com 8 GB de RAM e bateria de 5000 mAh",
+        "Vendido por varejista nacional (Fast Shop) com emissão de NF-e e garantia legal"
+      ],
+      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
+      "faqs": [
+        {
+          "question": "O Samsung Galaxy A06/A07 vendido na Fast Shop é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Fast Shop no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
+        },
+        {
+          "question": "O preço de R$ 997,78 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 997,78 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-23 23:46 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Este modelo específico opera em 4G/LTE. Não possui NFC confirmado nesta ficha; confira as especificações da loja caso use pagamento por aproximação."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "Primeira janela registrada neste ciclo a R$ 997,78. Recomendamos checar os links comparativos (Amazon, Magalu, Mercado Livre e Shopee) nesta página antes de finalizar."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-23T23:46:21.222Z",
+    "expiredAt": "2026-11-24T10:04:59.359Z",
+    "replacementOfferId": "bemol-137872-137872",
+    "replacementSlug": "samsung-galaxy-a06-a07-256gb-bemol-137872"
+  },
+  {
+    "id": "bemol-137166-137167",
+    "slug": "samsung-galaxy-a06-a07-128gb-bemol-137166",
+    "canonicalKey": "samsung-galaxy-a06-a07-128gb-novo",
+    "title": "Smartphone Samsung A07 4GB RAM 128GB Violeta",
+    "brand": "Samsung",
+    "storeKey": "bemol",
+    "storeName": "Bemol",
+    "condition": "novo",
+    "isBundle": false,
+    "price": 956,
+    "listPrice": 956,
+    "effectivePrice": 956,
+    "discountPct": 0,
+    "priceBand": "ate-1200",
+    "availableQuantity": 0,
+    "imageUrl": "https://bemol.vteximg.com.br/arquivos/ids/544285/371708.jpg?v=639096879067200000",
+    "originalUrl": "https://www.bemol.com.br/smartphone-samsung-a07-4gb-ram-128gb-violeta/p",
+    "monetizedUrl": "https://www.bemol.com.br/smartphone-samsung-a07-4gb-ram-128gb-violeta/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "bemol",
+        "storeLabel": "Bemol (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://www.bemol.com.br/smartphone-samsung-a07-4gb-ram-128gb-violeta/p",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–5%",
+        "note": "Preço auditado: R$ 956,00"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Samsung%20Galaxy%20A06%2FA07%20128GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Samsung%20Galaxy%20A06%2FA07%20128GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/samsung-galaxy-a06%2Fa07-128gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Samsung%20Galaxy%20A06%2FA07%20128GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/samsung-galaxy-a06%2Fa07-128gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Samsung Galaxy A06/A07",
+      "storageGb": 128,
+      "ramGb": 4,
+      "has5g": false,
+      "hasNfc": false,
+      "screenSummary": "6,7\" PLS LCD 90Hz",
+      "batteryMah": 5000,
+      "cameraSummary": "50MP Dupla",
+      "chipset": "MediaTek Helio G85/G99",
+      "os": "Android",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 15
+    },
+    "priceStats": {
+      "minObservedPrice": 845.91,
+      "maxObservedPrice": 956,
+      "avgObservedPrice": 900.95,
+      "observationsCount": 2,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 0,
+      "priceAlertLabel": "Preço em linha com o varejo"
+    },
+    "opportunityScore": 47,
+    "scoreBreakdown": {
+      "technical": 19,
+      "discount": 0,
+      "trust": 17,
+      "commercial": 11
+    },
+    "analysis": {
+      "verdict": "Opção sólida verificada em Bemol: Samsung Galaxy A06/A07 (128 GB) sai a R$ 956,00 com preço em linha com o varejo.",
+      "idealFor": "Uso essencial equilibrado (WhatsApp, bancos, redes sociais e chamadas com ótima autonomia de bateria)",
+      "pros": [
+        "Tela 6,7\" PLS LCD 90Hz aliada a MediaTek Helio G85/G99",
+        "128 GB com 4 GB de RAM e bateria de 5000 mAh",
+        "Vendido por varejista nacional (Bemol) com emissão de NF-e e garantia legal"
+      ],
+      "watchout": "Versão de 128 GB: considere 256 GB se costuma gravar muitos vídeos em 4K ou instalar jogos pesados. Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
+      "faqs": [
+        {
+          "question": "O Samsung Galaxy A06/A07 vendido na Bemol é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Bemol no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
+        },
+        {
+          "question": "O preço de R$ 956,00 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 956,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-23 23:46 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Este modelo específico opera em 4G/LTE. Não possui NFC confirmado nesta ficha; confira as especificações da loja caso use pagamento por aproximação."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "No nosso histórico, o menor valor observado foi R$ 845,91 e a média é R$ 900,95. Considere comparar na matriz de lojas parceiras antes de fechar."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-23T23:46:21.222Z",
+    "expiredAt": "2026-11-24T10:04:59.359Z",
+    "replacementOfferId": "fastshop-197998-208716",
+    "replacementSlug": "samsung-galaxy-a06-a07-128gb-fastshop-197998"
+  }
+]
