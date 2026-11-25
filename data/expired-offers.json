@@ -1,23 +1,306 @@
 [
   {
-    "id": "motorola-451-1887",
-    "slug": "motorola-moto-g-5g-256gb-motorola-451",
+    "id": "trocafone-96265-71892",
+    "slug": "motorola-edge-fusion-5g-256gb-trocafone-96265",
+    "canonicalKey": "motorola-edge-fusion-5g-256gb-recondicionado",
+    "title": "Motorola Edge 60 Fusion 256GB",
+    "brand": "Motorola",
+    "storeKey": "trocafone",
+    "storeName": "Trocafone (Recondicionado)",
+    "condition": "recondicionado",
+    "isBundle": false,
+    "price": 1589,
+    "listPrice": 1949,
+    "effectivePrice": 1398.32,
+    "discountPct": 28,
+    "priceBand": "1200-2200",
+    "availableQuantity": 0,
+    "imageUrl": "https://trocafone.vteximg.com.br/arquivos/ids/463965/smpmot0246cinz-p.jpg.jpg?v=639251135888870000",
+    "originalUrl": "https://www.trocafone.com.br/motorola-edge-60-fusion-256gb/p",
+    "monetizedUrl": "https://www.trocafone.com.br/motorola-edge-60-fusion-256gb/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "trocafone",
+        "storeLabel": "Trocafone (Recondicionado) (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://www.trocafone.com.br/motorola-edge-60-fusion-256gb/p",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–8%",
+        "note": "Preço auditado: R$ 1398,32"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Motorola%20Edge%20Fusion%205G%20256GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Motorola%20Edge%20Fusion%205G%20256GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/motorola-edge-fusion-5g-256gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Motorola%20Edge%20Fusion%205G%20256GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/motorola-edge-fusion-5g-256gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Motorola Edge Fusion 5G",
+      "storageGb": 256,
+      "ramGb": 8,
+      "has5g": true,
+      "hasNfc": true,
+      "screenSummary": "6,7\" pOLED Curva 120Hz",
+      "batteryMah": 5200,
+      "cameraSummary": "50MP Sony LYTIA 700C + OIS + IP68",
+      "chipset": "Snapdragon 7s Gen / Dimensity 7300",
+      "os": "Android",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 30
+    },
+    "priceStats": {
+      "minObservedPrice": 1398.32,
+      "maxObservedPrice": 1398.32,
+      "avgObservedPrice": 1398.32,
+      "observationsCount": 1,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 28,
+      "priceAlertLabel": "Desconto verificado de 28%"
+    },
+    "opportunityScore": 87,
+    "scoreBreakdown": {
+      "technical": 34,
+      "discount": 25,
+      "trust": 15,
+      "commercial": 13
+    },
+    "analysis": {
+      "verdict": "Excelente janela de compra: Motorola Edge Fusion 5G (256 GB) por R$ 1.398,32 atinge Score 87/100 (Desconto verificado de 28%).",
+      "idealFor": "Custo-benefício diário (multitarefa fluida, boas fotos, pagamentos NFC e longevidade de sistema)",
+      "pros": [
+        "Tela 6,7\" pOLED Curva 120Hz aliada a Snapdragon 7s Gen / Dimensity 7300",
+        "256 GB com 8 GB de RAM e bateria de 5200 mAh",
+        "Economia expressiva em aparelho recondicionado certificado pela Trocafone (Recondicionado)",
+        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
+      ],
+      "watchout": "Aparelho recondicionado: verifique a classificação estética (Excelente/Muito Bom/Bom) e a política de bateria na página da loja antes de finalizar.",
+      "faqs": [
+        {
+          "question": "O Motorola Edge Fusion 5G vendido na Trocafone (Recondicionado) é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Trocafone (Recondicionado) no Brasil (aparelho seminovo/recondicionado revisado com garantia legal)."
+        },
+        {
+          "question": "O preço de R$ 1.398,32 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 1.398,32 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-24 22:31 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "Primeira janela registrada neste ciclo a R$ 1.398,32. Recomendamos checar os links comparativos (Amazon, Magalu, Mercado Livre e Shopee) nesta página antes de finalizar."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-24T22:31:59.091Z",
+    "expiredAt": "2026-11-25T08:44:40.165Z",
+    "replacementOfferId": "trocafone-80425-51294",
+    "replacementSlug": "motorola-edge-5g-256gb-trocafone-80425"
+  },
+  {
+    "id": "fastshop-159259-169347",
+    "slug": "motorola-signature-5g-oliva-tela-512gb-fastshop-159259",
+    "canonicalKey": "motorola-signature-5g-oliva-tela-512gb-novo",
+    "title": "Smartphone Motorola Signature 5G Verde Oliva, Tela 6,8\", 512GB, 12GB RAM + 12GB RAM Boost e Câmera Tripla de 50MP",
+    "brand": "Motorola",
+    "storeKey": "fastshop",
+    "storeName": "Fast Shop",
+    "condition": "novo",
+    "isBundle": false,
+    "price": 5318.09,
+    "listPrice": 7049,
+    "effectivePrice": 4999,
+    "discountPct": 29,
+    "priceBand": "acima-4000",
+    "availableQuantity": 0,
+    "imageUrl": "https://fastshopbr.vteximg.com.br/arquivos/ids/5651699/0_a8c2b4d1-01fb-4c78-8a5f-a45280a1fbfa.png.png?v=639264814587600000",
+    "originalUrl": "https://site.fastshop.com.br/smartphone-motorola-signature-5g-verde-oliva--tela-6-8---512gb--12gb-ram---12gb-ram-boost-e-camera-tripla-de-50mp-mrpbab0025vrd_prd/p",
+    "monetizedUrl": "https://site.fastshop.com.br/smartphone-motorola-signature-5g-verde-oliva--tela-6-8---512gb--12gb-ram---12gb-ram-boost-e-camera-tripla-de-50mp-mrpbab0025vrd_prd/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "fastshop",
+        "storeLabel": "Fast Shop (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://site.fastshop.com.br/smartphone-motorola-signature-5g-verde-oliva--tela-6-8---512gb--12gb-ram---12gb-ram-boost-e-camera-tripla-de-50mp-mrpbab0025vrd_prd/p",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–5%",
+        "note": "Preço auditado: R$ 4999,00"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Motorola%20Signature%205G%20Oliva%2C%20Tela%20512GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Motorola%20Signature%205G%20Oliva%2C%20Tela%20512GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/motorola-signature-5g-oliva%2C-tela-512gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Motorola%20Signature%205G%20Oliva%2C%20Tela%20512GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/motorola-signature-5g-oliva%2C-tela-512gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Motorola Signature 5G Oliva, Tela",
+      "storageGb": 512,
+      "ramGb": 12,
+      "has5g": true,
+      "hasNfc": false,
+      "screenSummary": "6,6\"+ Tela Full HD+",
+      "batteryMah": 5000,
+      "cameraSummary": "50MP Principal",
+      "chipset": "Octa-Core",
+      "os": "Android",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 26
+    },
+    "priceStats": {
+      "minObservedPrice": 4999,
+      "maxObservedPrice": 4999,
+      "avgObservedPrice": 4999,
+      "observationsCount": 3,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 29,
+      "priceAlertLabel": "Menor preço observado no histórico"
+    },
+    "opportunityScore": 87,
+    "scoreBreakdown": {
+      "technical": 26,
+      "discount": 30,
+      "trust": 19,
+      "commercial": 12
+    },
+    "analysis": {
+      "verdict": "Excelente janela de compra: Motorola Signature 5G Oliva, Tela (512 GB) por R$ 4.999,00 atinge Score 87/100 (Menor preço observado no histórico).",
+      "idealFor": "Público entusiasta/profissional que busca o topo em câmeras, desempenho e anos de atualizações",
+      "pros": [
+        "Tela 6,6\"+ Tela Full HD+ aliada a Octa-Core",
+        "512 GB com 12 GB de RAM e bateria de 5000 mAh",
+        "Vendido por varejista nacional (Fast Shop) com emissão de NF-e e garantia legal"
+      ],
+      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
+      "faqs": [
+        {
+          "question": "O Motorola Signature 5G Oliva, Tela vendido na Fast Shop é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Fast Shop no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
+        },
+        {
+          "question": "O preço de R$ 4.999,00 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 4.999,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-24 22:31 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Sim, possui suporte a redes 5G. Não possui NFC confirmado nesta ficha; confira as especificações da loja caso use pagamento por aproximação."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "No nosso histórico, o menor valor observado foi R$ 4.999,00 e a média é R$ 4.999,00. O preço atual está praticamente no piso histórico."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-24T22:31:59.091Z",
+    "expiredAt": "2026-11-25T08:44:40.165Z",
+    "replacementOfferId": "motorola-496-2010",
+    "replacementSlug": "motorola-signature-5g-256gb-256gb-motorola-496"
+  },
+  {
+    "id": "motorola-328-1613",
+    "slug": "motorola-moto-g-5g-256gb-motorola-328",
     "canonicalKey": "motorola-moto-g-5g-256gb-novo",
-    "title": "Smartphone Motorola Moto g47 5G 256GB",
+    "title": "Smartphone Motorola Moto g35 5G 256GB",
     "brand": "Motorola",
     "storeKey": "motorola",
     "storeName": "Motorola Oficial",
     "condition": "novo",
     "isBundle": false,
-    "price": 1665.56,
-    "listPrice": 1999,
-    "effectivePrice": 1499,
-    "discountPct": 25,
-    "priceBand": "1200-2200",
+    "price": 1332.22,
+    "listPrice": 1349,
+    "effectivePrice": 1199,
+    "discountPct": 19,
+    "priceBand": "ate-1200",
     "availableQuantity": 0,
-    "imageUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/179811/MOTOG47_1000X1000PX_01.png?v=639131101360230000",
-    "originalUrl": "https://www.motorola.com.br/smartphone-motorola-moto-g47-5g-256gb/p",
-    "monetizedUrl": "https://www.motorola.com.br/smartphone-motorola-moto-g47-5g-256gb/p",
+    "imageUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/171445/frente-smartphone-moto-g35-cinza-vegan-leather.png?v=638797959451100000",
+    "originalUrl": "https://www.motorola.com.br/smartphone-moto-g35-5g-256gb/p",
+    "monetizedUrl": "https://www.motorola.com.br/smartphone-moto-g35-5g-256gb/p",
     "monetizedProgram": "direto-sem-tag",
     "isDirectlyMonetized": false,
     "comparisonLinks": [
@@ -25,10 +308,10 @@
         "storeId": "motorola",
         "storeLabel": "Motorola Oficial (Oferta Verificada)",
         "program": "direto-sem-tag",
-        "url": "https://www.motorola.com.br/smartphone-motorola-moto-g47-5g-256gb/p",
+        "url": "https://www.motorola.com.br/smartphone-moto-g35-5g-256gb/p",
         "monetized": false,
         "estimatedCommissionPct": "2%–5%",
-        "note": "Preço auditado: R$ 1499,00"
+        "note": "Preço auditado: R$ 1199,00"
       },
       {
         "storeId": "amazon",
@@ -91,24 +374,24 @@
       "baseTechnicalScore": 25
     },
     "priceStats": {
-      "minObservedPrice": 1405.05,
+      "minObservedPrice": 1199,
       "maxObservedPrice": 1649,
-      "avgObservedPrice": 1518.13,
-      "observationsCount": 5,
+      "avgObservedPrice": 1486.93,
+      "observationsCount": 9,
       "suspiciousListPrice": false,
-      "verifiedDiscountPct": 25,
-      "priceAlertLabel": "Desconto verificado de 25%"
+      "verifiedDiscountPct": 19,
+      "priceAlertLabel": "Menor preço observado no histórico"
     },
     "opportunityScore": 85,
     "scoreBreakdown": {
       "technical": 29,
-      "discount": 23,
+      "discount": 22,
       "trust": 20,
-      "commercial": 13
+      "commercial": 14
     },
     "analysis": {
-      "verdict": "Excelente janela de compra: Motorola Moto G 5G (256 GB) por R$ 1.499,00 atinge Score 85/100 (Desconto verificado de 25%).",
-      "idealFor": "Custo-benefício diário (multitarefa fluida, boas fotos, pagamentos NFC e longevidade de sistema)",
+      "verdict": "Excelente janela de compra: Motorola Moto G 5G (256 GB) por R$ 1.199,00 atinge Score 85/100 (Menor preço observado no histórico).",
+      "idealFor": "Uso essencial equilibrado (WhatsApp, bancos, redes sociais e chamadas com ótima autonomia de bateria)",
       "pros": [
         "Tela 6,7\" FHD+ 120Hz aliada a Dimensity / Snapdragon 5G",
         "256 GB com 4 GB de RAM e bateria de 5000 mAh",
@@ -122,8 +405,8 @@
           "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Motorola Oficial no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
         },
         {
-          "question": "O preço de R$ 1.499,00 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 1.499,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-24 10:04 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+          "question": "O preço de R$ 1.199,00 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 1.199,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-24 22:31 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
         },
         {
           "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
@@ -131,15 +414,298 @@
         },
         {
           "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 1.405,05 e a média é R$ 1.518,13. Considere comparar na matriz de lojas parceiras antes de fechar."
+          "answer": "No nosso histórico, o menor valor observado foi R$ 1.199,00 e a média é R$ 1.486,93. O preço atual está praticamente no piso histórico."
         }
       ]
     },
     "status": "expired",
-    "observedAt": "2026-11-24T10:04:59.359Z",
-    "expiredAt": "2026-11-24T22:31:59.091Z",
-    "replacementOfferId": "motorola-328-1613",
-    "replacementSlug": "motorola-moto-g-5g-256gb-motorola-328"
+    "observedAt": "2026-11-24T22:31:59.091Z",
+    "expiredAt": "2026-11-25T08:44:40.165Z",
+    "replacementOfferId": "angeloni-691758-1508644",
+    "replacementSlug": "motorola-moto-g-5g-256gb-angeloni-691758"
+  },
+  {
+    "id": "motorola-405-1783",
+    "slug": "motorola-moto-g75-g77-g86-5g-512gb-motorola-405",
+    "canonicalKey": "motorola-moto-g75-g77-g86-5g-512gb-novo",
+    "title": "Smartphone Motorola Moto g86 512 GB / 12 GB RAM",
+    "brand": "Motorola",
+    "storeKey": "motorola",
+    "storeName": "Motorola Oficial",
+    "condition": "novo",
+    "isBundle": false,
+    "price": 2665.56,
+    "listPrice": 2665.56,
+    "effectivePrice": 2399,
+    "discountPct": 10,
+    "priceBand": "2200-4000",
+    "availableQuantity": 0,
+    "imageUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/184075/frente-atras-smartphone-moto-g86-verde-escuro.png?v=639289130676670000",
+    "originalUrl": "https://www.motorola.com.br/smartphone-motorola-moto-g86-5g-512gb-24-gb-ram/p",
+    "monetizedUrl": "https://www.motorola.com.br/smartphone-motorola-moto-g86-5g-512gb-24-gb-ram/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "motorola",
+        "storeLabel": "Motorola Oficial (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://www.motorola.com.br/smartphone-motorola-moto-g86-5g-512gb-24-gb-ram/p",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–5%",
+        "note": "Preço auditado: R$ 2399,00"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Motorola%20Moto%20G75%2FG77%2FG86%205G%20512GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Motorola%20Moto%20G75%2FG77%2FG86%205G%20512GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/motorola-moto-g75%2Fg77%2Fg86-5g-512gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Motorola%20Moto%20G75%2FG77%2FG86%205G%20512GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/motorola-moto-g75%2Fg77%2Fg86-5g-512gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Motorola Moto G75/G77/G86 5G",
+      "storageGb": 512,
+      "ramGb": 12,
+      "has5g": true,
+      "hasNfc": true,
+      "screenSummary": "6,7\"–6,8\" AMOLED/IPS 120Hz",
+      "batteryMah": 5000,
+      "cameraSummary": "50MP–108MP OIS",
+      "chipset": "Snapdragon 6 Gen / Dimensity 5G",
+      "os": "Android",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 30
+    },
+    "priceStats": {
+      "minObservedPrice": 2399,
+      "maxObservedPrice": 2399,
+      "avgObservedPrice": 2399,
+      "observationsCount": 3,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 10,
+      "priceAlertLabel": "Menor preço observado no histórico"
+    },
+    "opportunityScore": 79,
+    "scoreBreakdown": {
+      "technical": 32,
+      "discount": 14,
+      "trust": 20,
+      "commercial": 13
+    },
+    "analysis": {
+      "verdict": "Excelente janela de compra: Motorola Moto G75/G77/G86 5G (512 GB) por R$ 2.399,00 atinge Score 79/100 (Menor preço observado no histórico).",
+      "idealFor": "Custo-benefício diário (multitarefa fluida, boas fotos, pagamentos NFC e longevidade de sistema)",
+      "pros": [
+        "Tela 6,7\"–6,8\" AMOLED/IPS 120Hz aliada a Snapdragon 6 Gen / Dimensity 5G",
+        "512 GB com 12 GB de RAM e bateria de 5000 mAh",
+        "Vendido por varejista nacional (Motorola Oficial) com emissão de NF-e e garantia legal",
+        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
+      ],
+      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
+      "faqs": [
+        {
+          "question": "O Motorola Moto G75/G77/G86 5G vendido na Motorola Oficial é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Motorola Oficial no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
+        },
+        {
+          "question": "O preço de R$ 2.399,00 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 2.399,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-24 22:31 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "No nosso histórico, o menor valor observado foi R$ 2.399,00 e a média é R$ 2.399,00. O preço atual está praticamente no piso histórico."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-24T22:31:59.091Z",
+    "expiredAt": "2026-11-25T08:44:40.165Z",
+    "replacementOfferId": "motorola-459-1911",
+    "replacementSlug": "motorola-moto-g-max-5g-std-motorola-459"
+  },
+  {
+    "id": "fastshop-198012-208729",
+    "slug": "motorola-moto-g-entrada-128gb-fastshop-198012",
+    "canonicalKey": "motorola-moto-g-entrada-128gb-novo",
+    "title": "Smartphone Motorola Moto G17 128GB 4G 12GB RAM Boost – Azul",
+    "brand": "Motorola",
+    "storeKey": "fastshop",
+    "storeName": "Fast Shop",
+    "condition": "novo",
+    "isBundle": false,
+    "price": 1029.9,
+    "listPrice": 1029.9,
+    "effectivePrice": 968.11,
+    "discountPct": 6,
+    "priceBand": "ate-1200",
+    "availableQuantity": 0,
+    "imageUrl": "https://fastshopbr.vteximg.com.br/arquivos/ids/5775349/17872536530492.jpg?v=639299444327100000",
+    "originalUrl": "https://site.fastshop.com.br/smartphone-motorola-moto-g17-128gb-4g-12gb-ram-boost-–-azul-198012/p",
+    "monetizedUrl": "https://site.fastshop.com.br/smartphone-motorola-moto-g17-128gb-4g-12gb-ram-boost-–-azul-198012/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "fastshop",
+        "storeLabel": "Fast Shop (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://site.fastshop.com.br/smartphone-motorola-moto-g17-128gb-4g-12gb-ram-boost-–-azul-198012/p",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–5%",
+        "note": "Preço auditado: R$ 968,11"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Motorola%20Moto%20G%20Entrada%20128GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Motorola%20Moto%20G%20Entrada%20128GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/motorola-moto-g-entrada-128gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Motorola%20Moto%20G%20Entrada%20128GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/motorola-moto-g-entrada-128gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Motorola Moto G Entrada",
+      "storageGb": 128,
+      "ramGb": 4,
+      "has5g": false,
+      "hasNfc": false,
+      "screenSummary": "6,7\"–6,9\" HD+/FHD+ 90Hz",
+      "batteryMah": 5000,
+      "cameraSummary": "50MP IA",
+      "chipset": "MediaTek Helio G81/G99",
+      "os": "Android",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 17
+    },
+    "priceStats": {
+      "minObservedPrice": 799,
+      "maxObservedPrice": 968.11,
+      "avgObservedPrice": 902.51,
+      "observationsCount": 10,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 6,
+      "priceAlertLabel": "Preço em linha com o varejo"
+    },
+    "opportunityScore": 56,
+    "scoreBreakdown": {
+      "technical": 21,
+      "discount": 5,
+      "trust": 19,
+      "commercial": 11
+    },
+    "analysis": {
+      "verdict": "Opção sólida verificada em Fast Shop: Motorola Moto G Entrada (128 GB) sai a R$ 968,11 com preço em linha com o varejo.",
+      "idealFor": "Uso essencial equilibrado (WhatsApp, bancos, redes sociais e chamadas com ótima autonomia de bateria)",
+      "pros": [
+        "Tela 6,7\"–6,9\" HD+/FHD+ 90Hz aliada a MediaTek Helio G81/G99",
+        "128 GB com 4 GB de RAM e bateria de 5000 mAh",
+        "Vendido por varejista nacional (Fast Shop) com emissão de NF-e e garantia legal"
+      ],
+      "watchout": "Versão de 128 GB: considere 256 GB se costuma gravar muitos vídeos em 4K ou instalar jogos pesados. Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
+      "faqs": [
+        {
+          "question": "O Motorola Moto G Entrada vendido na Fast Shop é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Fast Shop no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
+        },
+        {
+          "question": "O preço de R$ 968,11 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 968,11 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-24 22:31 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Este modelo específico opera em 4G/LTE. Não possui NFC confirmado nesta ficha; confira as especificações da loja caso use pagamento por aproximação."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "No nosso histórico, o menor valor observado foi R$ 799,00 e a média é R$ 902,51. Considere comparar na matriz de lojas parceiras antes de fechar."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-24T22:31:59.091Z",
+    "expiredAt": "2026-11-25T08:44:40.165Z",
+    "replacementOfferId": "motorola-407-1788",
+    "replacementSlug": "motorola-moto-g-entrada-128gb-motorola-407"
   },
   {
     "id": "motorola-344-1654",
@@ -562,8 +1128,8 @@
     "status": "expired",
     "observedAt": "2026-11-24T10:04:59.359Z",
     "expiredAt": "2026-11-24T22:31:59.091Z",
-    "replacementOfferId": "fastshop-159259-169347",
-    "replacementSlug": "motorola-signature-5g-oliva-tela-512gb-fastshop-159259"
+    "replacementOfferId": "motorola-496-2010",
+    "replacementSlug": "motorola-signature-5g-256gb-256gb-motorola-496"
   },
   {
     "id": "bemol-148468-148471",
@@ -987,8 +1553,8 @@
     "status": "expired",
     "observedAt": "2026-11-23T23:46:21.222Z",
     "expiredAt": "2026-11-24T10:04:59.359Z",
-    "replacementOfferId": "trocafone-96265-71892",
-    "replacementSlug": "motorola-edge-fusion-5g-256gb-trocafone-96265"
+    "replacementOfferId": "trocafone-80425-51294",
+    "replacementSlug": "motorola-edge-5g-256gb-trocafone-80425"
   },
   {
     "id": "trocafone-74491-40720",
