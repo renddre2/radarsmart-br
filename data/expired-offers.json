@@ -1,433 +1,7 @@
 [
   {
-    "id": "bemol-156263-156266",
-    "slug": "samsung-galaxy-s26-512gb-bemol-156263",
-    "canonicalKey": "samsung-galaxy-s26-512gb-novo",
-    "title": "Smartphone Samsung Galaxy S26+ 512GB Tela 6.7\" Câmera 50MP 12GB RAM",
-    "brand": "Samsung",
-    "storeKey": "bemol",
-    "storeName": "Bemol",
-    "condition": "novo",
-    "isBundle": false,
-    "price": 5999,
-    "listPrice": 7969,
-    "effectivePrice": 5999,
-    "discountPct": 25,
-    "priceBand": "acima-4000",
-    "availableQuantity": 0,
-    "imageUrl": "https://bemol.vteximg.com.br/arquivos/ids/581964/391094.jpg?v=639091695579500000",
-    "originalUrl": "https://www.bemol.com.br/smartphone-samsung-galaxy-s26--512gb-tela-6-7--camera-50mp-12gb-ram/p",
-    "monetizedUrl": "https://www.bemol.com.br/smartphone-samsung-galaxy-s26--512gb-tela-6-7--camera-50mp-12gb-ram/p",
-    "monetizedProgram": "direto-sem-tag",
-    "isDirectlyMonetized": false,
-    "comparisonLinks": [
-      {
-        "storeId": "bemol",
-        "storeLabel": "Bemol (Oferta Verificada)",
-        "program": "direto-sem-tag",
-        "url": "https://www.bemol.com.br/smartphone-samsung-galaxy-s26--512gb-tela-6-7--camera-50mp-12gb-ram/p",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–5%",
-        "note": "Preço auditado: R$ 5999,00"
-      },
-      {
-        "storeId": "amazon",
-        "storeLabel": "Amazon Brasil",
-        "program": "busca-direta",
-        "url": "https://www.amazon.com.br/s?k=Samsung%20Galaxy%20S26%20512GB",
-        "monetized": false,
-        "estimatedCommissionPct": "1%–3%",
-        "note": "Comparar preço e entrega Prime"
-      },
-      {
-        "storeId": "magalu",
-        "storeLabel": "Magalu (Parceiro)",
-        "program": "busca-direta",
-        "url": "https://www.magazineluiza.com.br/busca/Samsung%20Galaxy%20S26%20512GB/",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–6%",
-        "note": "Retira na loja / garantia nacional"
-      },
-      {
-        "storeId": "mercadolivre",
-        "storeLabel": "Mercado Livre",
-        "program": "busca-direta",
-        "url": "https://lista.mercadolivre.com.br/samsung-galaxy-s26-512gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Entrega Full em capitais"
-      },
-      {
-        "storeId": "shopee",
-        "storeLabel": "Shopee Lojas Oficiais",
-        "program": "busca-direta",
-        "url": "https://shopee.com.br/search?keyword=Samsung%20Galaxy%20S26%20512GB",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–10%",
-        "note": "Cupons de plataforma e lojas oficiais"
-      },
-      {
-        "storeId": "kabum",
-        "storeLabel": "KaBuM! (via Awin)",
-        "program": "busca-direta",
-        "url": "https://www.kabum.com.br/busca/samsung-galaxy-s26-512gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Desconto no Pix em hardware/smartphones"
-      }
-    ],
-    "specs": {
-      "canonicalModel": "Samsung Galaxy S26",
-      "storageGb": 512,
-      "ramGb": 12,
-      "has5g": true,
-      "hasNfc": true,
-      "screenSummary": "6,3\" Dynamic AMOLED 2X 120Hz",
-      "batteryMah": 4300,
-      "cameraSummary": "50MP OIS + 12MP + Tele 10MP",
-      "chipset": "Flagship Galaxy AI",
-      "os": "Android",
-      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
-      "baseTechnicalScore": 35
-    },
-    "priceStats": {
-      "minObservedPrice": 5999,
-      "maxObservedPrice": 7969,
-      "avgObservedPrice": 7181,
-      "observationsCount": 6,
-      "suspiciousListPrice": false,
-      "verifiedDiscountPct": 25,
-      "priceAlertLabel": "Menor preço observado no histórico"
-    },
-    "opportunityScore": 92,
-    "scoreBreakdown": {
-      "technical": 35,
-      "discount": 28,
-      "trust": 17,
-      "commercial": 12
-    },
-    "analysis": {
-      "verdict": "Excelente janela de compra: Samsung Galaxy S26 (512 GB) por R$ 5.999,00 atinge Score 92/100 (Menor preço observado no histórico).",
-      "idealFor": "Público entusiasta/profissional que busca o topo em câmeras, desempenho e anos de atualizações",
-      "pros": [
-        "Tela 6,3\" Dynamic AMOLED 2X 120Hz aliada a Flagship Galaxy AI",
-        "512 GB com 12 GB de RAM e bateria de 4300 mAh",
-        "Vendido por varejista nacional (Bemol) com emissão de NF-e e garantia legal",
-        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
-      ],
-      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
-      "faqs": [
-        {
-          "question": "O Samsung Galaxy S26 vendido na Bemol é original e homologado pela Anatel?",
-          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Bemol no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
-        },
-        {
-          "question": "O preço de R$ 5.999,00 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 5.999,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-26 08:29 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
-        },
-        {
-          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
-          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
-        },
-        {
-          "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 5.999,00 e a média é R$ 7.181,00. O preço atual está praticamente no piso histórico."
-        }
-      ]
-    },
-    "status": "expired",
-    "observedAt": "2026-11-26T08:29:11.749Z",
-    "expiredAt": "2026-11-26T21:39:21.378Z",
-    "replacementOfferId": "fastshop-157112-167067",
-    "replacementSlug": "samsung-galaxy-s26-256gb-fastshop-157112"
-  },
-  {
-    "id": "bemol-157572-157575",
-    "slug": "samsung-galaxy-s26-ultra-512gb-bemol-157572",
-    "canonicalKey": "samsung-galaxy-s26-ultra-512gb-novo",
-    "title": "Smartphone Samsung S26 Ultra Preto 512GB Tela 6.9\" 12GB RAM",
-    "brand": "Samsung",
-    "storeKey": "bemol",
-    "storeName": "Bemol",
-    "condition": "novo",
-    "isBundle": false,
-    "price": 8999,
-    "listPrice": 11159,
-    "effectivePrice": 8999,
-    "discountPct": 19,
-    "priceBand": "acima-4000",
-    "availableQuantity": 0,
-    "imageUrl": "https://bemol.vteximg.com.br/arquivos/ids/586687/390521.jpg?v=639109839779170000",
-    "originalUrl": "https://www.bemol.com.br/smartphone-samsung-s26-ultra-preto-512gb-tela-6-9--12gb-ram/p",
-    "monetizedUrl": "https://www.bemol.com.br/smartphone-samsung-s26-ultra-preto-512gb-tela-6-9--12gb-ram/p",
-    "monetizedProgram": "direto-sem-tag",
-    "isDirectlyMonetized": false,
-    "comparisonLinks": [
-      {
-        "storeId": "bemol",
-        "storeLabel": "Bemol (Oferta Verificada)",
-        "program": "direto-sem-tag",
-        "url": "https://www.bemol.com.br/smartphone-samsung-s26-ultra-preto-512gb-tela-6-9--12gb-ram/p",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–5%",
-        "note": "Preço auditado: R$ 8999,00"
-      },
-      {
-        "storeId": "amazon",
-        "storeLabel": "Amazon Brasil",
-        "program": "busca-direta",
-        "url": "https://www.amazon.com.br/s?k=Samsung%20Galaxy%20S26%20Ultra%20512GB",
-        "monetized": false,
-        "estimatedCommissionPct": "1%–3%",
-        "note": "Comparar preço e entrega Prime"
-      },
-      {
-        "storeId": "magalu",
-        "storeLabel": "Magalu (Parceiro)",
-        "program": "busca-direta",
-        "url": "https://www.magazineluiza.com.br/busca/Samsung%20Galaxy%20S26%20Ultra%20512GB/",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–6%",
-        "note": "Retira na loja / garantia nacional"
-      },
-      {
-        "storeId": "mercadolivre",
-        "storeLabel": "Mercado Livre",
-        "program": "busca-direta",
-        "url": "https://lista.mercadolivre.com.br/samsung-galaxy-s26-ultra-512gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Entrega Full em capitais"
-      },
-      {
-        "storeId": "shopee",
-        "storeLabel": "Shopee Lojas Oficiais",
-        "program": "busca-direta",
-        "url": "https://shopee.com.br/search?keyword=Samsung%20Galaxy%20S26%20Ultra%20512GB",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–10%",
-        "note": "Cupons de plataforma e lojas oficiais"
-      },
-      {
-        "storeId": "kabum",
-        "storeLabel": "KaBuM! (via Awin)",
-        "program": "busca-direta",
-        "url": "https://www.kabum.com.br/busca/samsung-galaxy-s26-ultra-512gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Desconto no Pix em hardware/smartphones"
-      }
-    ],
-    "specs": {
-      "canonicalModel": "Samsung Galaxy S26 Ultra",
-      "storageGb": 512,
-      "ramGb": 12,
-      "has5g": true,
-      "hasNfc": true,
-      "screenSummary": "6,9\" Dynamic AMOLED 2X 120Hz",
-      "batteryMah": 5000,
-      "cameraSummary": "200MP Quad Pro + Zoom Óptico",
-      "chipset": "Snapdragon Elite / Flagship",
-      "os": "Android",
-      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
-      "baseTechnicalScore": 35
-    },
-    "priceStats": {
-      "minObservedPrice": 8999,
-      "maxObservedPrice": 11513.91,
-      "avgObservedPrice": 10976.46,
-      "observationsCount": 12,
-      "suspiciousListPrice": false,
-      "verifiedDiscountPct": 19,
-      "priceAlertLabel": "Menor preço observado no histórico"
-    },
-    "opportunityScore": 86,
-    "scoreBreakdown": {
-      "technical": 35,
-      "discount": 22,
-      "trust": 17,
-      "commercial": 12
-    },
-    "analysis": {
-      "verdict": "Excelente janela de compra: Samsung Galaxy S26 Ultra (512 GB) por R$ 8.999,00 atinge Score 86/100 (Menor preço observado no histórico).",
-      "idealFor": "Público entusiasta/profissional que busca o topo em câmeras, desempenho e anos de atualizações",
-      "pros": [
-        "Tela 6,9\" Dynamic AMOLED 2X 120Hz aliada a Snapdragon Elite / Flagship",
-        "512 GB com 12 GB de RAM e bateria de 5000 mAh",
-        "Vendido por varejista nacional (Bemol) com emissão de NF-e e garantia legal",
-        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
-      ],
-      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
-      "faqs": [
-        {
-          "question": "O Samsung Galaxy S26 Ultra vendido na Bemol é original e homologado pela Anatel?",
-          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Bemol no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
-        },
-        {
-          "question": "O preço de R$ 8.999,00 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 8.999,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-26 08:29 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
-        },
-        {
-          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
-          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
-        },
-        {
-          "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 8.999,00 e a média é R$ 10.976,46. O preço atual está praticamente no piso histórico."
-        }
-      ]
-    },
-    "status": "expired",
-    "observedAt": "2026-11-26T08:29:11.749Z",
-    "expiredAt": "2026-11-26T21:39:21.378Z",
-    "replacementOfferId": "fastshop-157117-167108",
-    "replacementSlug": "samsung-galaxy-s26-ultra-512gb-fastshop-157117"
-  },
-  {
-    "id": "bemol-185601-185586",
-    "slug": "samsung-galaxy-s26-256gb-bemol-185601",
-    "canonicalKey": "samsung-galaxy-s26-256gb-novo",
-    "title": "Kit Smartphone Samsung Galaxy S26 FE 256GB 8GB RAM + Samsung Buds Core Preto",
-    "brand": "Samsung",
-    "storeKey": "bemol",
-    "storeName": "Bemol",
-    "condition": "novo",
-    "isBundle": true,
-    "price": 4199,
-    "listPrice": 4368,
-    "effectivePrice": 4199,
-    "discountPct": 18,
-    "priceBand": "acima-4000",
-    "availableQuantity": 0,
-    "imageUrl": "https://bemol.vteximg.com.br/arquivos/ids/684881/10001259.jpg?v=639310428868770000",
-    "originalUrl": "https://www.bemol.com.br/kit-mkt-kit-smartphone-samsung-galaxy-s26-fe-256gb-8gb-ram-samsung-buds-core-preto/p",
-    "monetizedUrl": "https://www.bemol.com.br/kit-mkt-kit-smartphone-samsung-galaxy-s26-fe-256gb-8gb-ram-samsung-buds-core-preto/p",
-    "monetizedProgram": "direto-sem-tag",
-    "isDirectlyMonetized": false,
-    "comparisonLinks": [
-      {
-        "storeId": "bemol",
-        "storeLabel": "Bemol (Oferta Verificada)",
-        "program": "direto-sem-tag",
-        "url": "https://www.bemol.com.br/kit-mkt-kit-smartphone-samsung-galaxy-s26-fe-256gb-8gb-ram-samsung-buds-core-preto/p",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–5%",
-        "note": "Preço auditado: R$ 4199,00"
-      },
-      {
-        "storeId": "amazon",
-        "storeLabel": "Amazon Brasil",
-        "program": "busca-direta",
-        "url": "https://www.amazon.com.br/s?k=Samsung%20Galaxy%20S26%20256GB",
-        "monetized": false,
-        "estimatedCommissionPct": "1%–3%",
-        "note": "Comparar preço e entrega Prime"
-      },
-      {
-        "storeId": "magalu",
-        "storeLabel": "Magalu (Parceiro)",
-        "program": "busca-direta",
-        "url": "https://www.magazineluiza.com.br/busca/Samsung%20Galaxy%20S26%20256GB/",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–6%",
-        "note": "Retira na loja / garantia nacional"
-      },
-      {
-        "storeId": "mercadolivre",
-        "storeLabel": "Mercado Livre",
-        "program": "busca-direta",
-        "url": "https://lista.mercadolivre.com.br/samsung-galaxy-s26-256gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Entrega Full em capitais"
-      },
-      {
-        "storeId": "shopee",
-        "storeLabel": "Shopee Lojas Oficiais",
-        "program": "busca-direta",
-        "url": "https://shopee.com.br/search?keyword=Samsung%20Galaxy%20S26%20256GB",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–10%",
-        "note": "Cupons de plataforma e lojas oficiais"
-      },
-      {
-        "storeId": "kabum",
-        "storeLabel": "KaBuM! (via Awin)",
-        "program": "busca-direta",
-        "url": "https://www.kabum.com.br/busca/samsung-galaxy-s26-256gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Desconto no Pix em hardware/smartphones"
-      }
-    ],
-    "specs": {
-      "canonicalModel": "Samsung Galaxy S26",
-      "storageGb": 256,
-      "ramGb": 8,
-      "has5g": true,
-      "hasNfc": true,
-      "screenSummary": "6,3\" Dynamic AMOLED 2X 120Hz",
-      "batteryMah": 4300,
-      "cameraSummary": "50MP OIS + 12MP + Tele 10MP",
-      "chipset": "Flagship Galaxy AI",
-      "os": "Android",
-      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
-      "baseTechnicalScore": 35
-    },
-    "priceStats": {
-      "minObservedPrice": 4199,
-      "maxObservedPrice": 6140.24,
-      "avgObservedPrice": 5140.09,
-      "observationsCount": 23,
-      "suspiciousListPrice": false,
-      "verifiedDiscountPct": 18,
-      "priceAlertLabel": "Menor preço observado no histórico"
-    },
-    "opportunityScore": 85,
-    "scoreBreakdown": {
-      "technical": 35,
-      "discount": 21,
-      "trust": 17,
-      "commercial": 12
-    },
-    "analysis": {
-      "verdict": "Excelente janela de compra: Samsung Galaxy S26 (256 GB) por R$ 4.199,00 atinge Score 85/100 (Menor preço observado no histórico).",
-      "idealFor": "Público entusiasta/profissional que busca o topo em câmeras, desempenho e anos de atualizações",
-      "pros": [
-        "Tela 6,3\" Dynamic AMOLED 2X 120Hz aliada a Flagship Galaxy AI",
-        "256 GB com 8 GB de RAM e bateria de 4300 mAh",
-        "Vendido por varejista nacional (Bemol) com emissão de NF-e e garantia legal",
-        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
-      ],
-      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
-      "faqs": [
-        {
-          "question": "O Samsung Galaxy S26 vendido na Bemol é original e homologado pela Anatel?",
-          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Bemol no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
-        },
-        {
-          "question": "O preço de R$ 4.199,00 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 4.199,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-26 08:29 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
-        },
-        {
-          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
-          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
-        },
-        {
-          "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 4.199,00 e a média é R$ 5.140,09. O preço atual está praticamente no piso histórico."
-        }
-      ]
-    },
-    "status": "expired",
-    "observedAt": "2026-11-26T08:29:11.749Z",
-    "expiredAt": "2026-11-26T21:39:21.378Z",
-    "replacementOfferId": "angeloni-739655-1555055",
-    "replacementSlug": "samsung-galaxy-s26-256gb-angeloni-739655"
-  },
-  {
-    "id": "fastshop-161405-171551",
-    "slug": "samsung-galaxy-a36-a37-5g-128gb-fastshop-161405",
+    "id": "fastshop-161428-171574",
+    "slug": "samsung-galaxy-a36-a37-5g-128gb-fastshop-161428",
     "canonicalKey": "samsung-galaxy-a36-a37-5g-128gb-novo",
     "title": "Smartphone Samsung Galaxy A37 5G Tela 6.7\" 128GB Câmera 50MP Preto",
     "brand": "Samsung",
@@ -435,15 +9,15 @@
     "storeName": "Fast Shop",
     "condition": "novo",
     "isBundle": false,
-    "price": 2658.83,
-    "listPrice": 2877.51,
-    "effectivePrice": 2499.3,
-    "discountPct": 19,
+    "price": 2405.61,
+    "listPrice": 2740.49,
+    "effectivePrice": 2237.22,
+    "discountPct": 28,
     "priceBand": "2200-4000",
     "availableQuantity": 0,
-    "imageUrl": "https://fastshopbr.vteximg.com.br/arquivos/ids/4684999/17773862705877.jpg?v=639129952179700000",
-    "originalUrl": "https://site.fastshop.com.br/smartphone-samsung-galaxy-a37-5g-tela-6-7--128gb-camera-50mp-preto-161405/p",
-    "monetizedUrl": "https://site.fastshop.com.br/smartphone-samsung-galaxy-a37-5g-tela-6-7--128gb-camera-50mp-preto-161405/p",
+    "imageUrl": "https://fastshopbr.vteximg.com.br/arquivos/ids/4685213/17773862987038.jpg?v=639129953191270000",
+    "originalUrl": "https://site.fastshop.com.br/smartphone-samsung-galaxy-a37-5g-tela-6-7--128gb-camera-50mp-preto-161428/p",
+    "monetizedUrl": "https://site.fastshop.com.br/smartphone-samsung-galaxy-a37-5g-tela-6-7--128gb-camera-50mp-preto-161428/p",
     "monetizedProgram": "direto-sem-tag",
     "isDirectlyMonetized": false,
     "comparisonLinks": [
@@ -451,10 +25,10 @@
         "storeId": "fastshop",
         "storeLabel": "Fast Shop (Oferta Verificada)",
         "program": "direto-sem-tag",
-        "url": "https://site.fastshop.com.br/smartphone-samsung-galaxy-a37-5g-tela-6-7--128gb-camera-50mp-preto-161405/p",
+        "url": "https://site.fastshop.com.br/smartphone-samsung-galaxy-a37-5g-tela-6-7--128gb-camera-50mp-preto-161428/p",
         "monetized": false,
         "estimatedCommissionPct": "2%–5%",
-        "note": "Preço auditado: R$ 2499,30"
+        "note": "Preço auditado: R$ 2237,22"
       },
       {
         "storeId": "amazon",
@@ -517,24 +91,24 @@
       "baseTechnicalScore": 25
     },
     "priceStats": {
-      "minObservedPrice": 2499.3,
+      "minObservedPrice": 2237.22,
       "maxObservedPrice": 3819.11,
-      "avgObservedPrice": 3099.21,
-      "observationsCount": 11,
+      "avgObservedPrice": 3088.28,
+      "observationsCount": 13,
       "suspiciousListPrice": false,
-      "verifiedDiscountPct": 19,
+      "verifiedDiscountPct": 28,
       "priceAlertLabel": "Menor preço observado no histórico"
     },
-    "opportunityScore": 82,
+    "opportunityScore": 90,
     "scoreBreakdown": {
       "technical": 27,
-      "discount": 22,
+      "discount": 30,
       "trust": 19,
       "commercial": 14
     },
     "analysis": {
-      "verdict": "Excelente janela de compra: Samsung Galaxy A36/A37 5G (128 GB) por R$ 2.499,30 atinge Score 82/100 (Menor preço observado no histórico).",
-      "idealFor": "Usuários exigentes, criação de conteúdo móvel, jogos pesados e telas premium de alta fluidez",
+      "verdict": "Excelente janela de compra: Samsung Galaxy A36/A37 5G (128 GB) por R$ 2.237,22 atinge Score 90/100 (Menor preço observado no histórico).",
+      "idealFor": "Custo-benefício diário (multitarefa fluida, boas fotos, pagamentos NFC e longevidade de sistema)",
       "pros": [
         "Tela 6,7\" Super AMOLED 120Hz aliada a Snapdragon / Exynos 5G",
         "128 GB com 8 GB de RAM e bateria de 5000 mAh",
@@ -548,8 +122,8 @@
           "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Fast Shop no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
         },
         {
-          "question": "O preço de R$ 2.499,30 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 2.499,30 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-26 08:29 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+          "question": "O preço de R$ 2.237,22 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 2.237,22 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-26 21:39 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
         },
         {
           "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
@@ -557,52 +131,52 @@
         },
         {
           "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 2.499,30 e a média é R$ 3.099,21. O preço atual está praticamente no piso histórico."
+          "answer": "No nosso histórico, o menor valor observado foi R$ 2.237,22 e a média é R$ 3.088,28. O preço atual está praticamente no piso histórico."
         }
       ]
     },
     "status": "expired",
-    "observedAt": "2026-11-26T08:29:11.749Z",
-    "expiredAt": "2026-11-26T21:39:21.378Z",
-    "replacementOfferId": "fastshop-161428-171574",
-    "replacementSlug": "samsung-galaxy-a36-a37-5g-128gb-fastshop-161428"
+    "observedAt": "2026-11-26T21:39:21.378Z",
+    "expiredAt": "2026-11-27T08:43:02.182Z",
+    "replacementOfferId": "fastshop-161405-171551",
+    "replacementSlug": "samsung-galaxy-a36-a37-5g-128gb-fastshop-161405"
   },
   {
-    "id": "bemol-137873-137873",
-    "slug": "samsung-galaxy-a06-a07-256gb-bemol-137873",
-    "canonicalKey": "samsung-galaxy-a06-a07-256gb-novo",
-    "title": "Smartphone Samsung A07 8GB RAM 256GB Preto",
-    "brand": "Samsung",
-    "storeKey": "bemol",
-    "storeName": "Bemol",
-    "condition": "novo",
+    "id": "trocafone-74491-40720",
+    "slug": "apple-iphone-14-256gb-trocafone-74491",
+    "canonicalKey": "apple-iphone-14-256gb-recondicionado",
+    "title": "iPhone 14 256GB",
+    "brand": "Apple",
+    "storeKey": "trocafone",
+    "storeName": "Trocafone (Recondicionado)",
+    "condition": "recondicionado",
     "isBundle": false,
-    "price": 899,
-    "listPrice": 1382,
-    "effectivePrice": 899,
-    "discountPct": 35,
-    "priceBand": "ate-1200",
+    "price": 3009,
+    "listPrice": 3699,
+    "effectivePrice": 2497.47,
+    "discountPct": 32,
+    "priceBand": "2200-4000",
     "availableQuantity": 0,
-    "imageUrl": "https://bemol.vteximg.com.br/arquivos/ids/512598/371710.jpg?v=639076496460800000",
-    "originalUrl": "https://www.bemol.com.br/smartphone-samsung-a07-8gb-ram-256gb-preto/p",
-    "monetizedUrl": "https://www.bemol.com.br/smartphone-samsung-a07-8gb-ram-256gb-preto/p",
+    "imageUrl": "https://trocafone.vteximg.com.br/arquivos/ids/441118/smpapl0033este-p.jpg?v=639094496628730000",
+    "originalUrl": "https://www.trocafone.com.br/iphone-14-256gb/p",
+    "monetizedUrl": "https://www.trocafone.com.br/iphone-14-256gb/p",
     "monetizedProgram": "direto-sem-tag",
     "isDirectlyMonetized": false,
     "comparisonLinks": [
       {
-        "storeId": "bemol",
-        "storeLabel": "Bemol (Oferta Verificada)",
+        "storeId": "trocafone",
+        "storeLabel": "Trocafone (Recondicionado) (Oferta Verificada)",
         "program": "direto-sem-tag",
-        "url": "https://www.bemol.com.br/smartphone-samsung-a07-8gb-ram-256gb-preto/p",
+        "url": "https://www.trocafone.com.br/iphone-14-256gb/p",
         "monetized": false,
-        "estimatedCommissionPct": "2%–5%",
-        "note": "Preço auditado: R$ 899,00"
+        "estimatedCommissionPct": "4%–8%",
+        "note": "Preço auditado: R$ 2497,47"
       },
       {
         "storeId": "amazon",
         "storeLabel": "Amazon Brasil",
         "program": "busca-direta",
-        "url": "https://www.amazon.com.br/s?k=Samsung%20Galaxy%20A06%2FA07%20256GB",
+        "url": "https://www.amazon.com.br/s?k=Apple%20iPhone%2014%20256GB",
         "monetized": false,
         "estimatedCommissionPct": "1%–3%",
         "note": "Comparar preço e entrega Prime"
@@ -611,7 +185,7 @@
         "storeId": "magalu",
         "storeLabel": "Magalu (Parceiro)",
         "program": "busca-direta",
-        "url": "https://www.magazineluiza.com.br/busca/Samsung%20Galaxy%20A06%2FA07%20256GB/",
+        "url": "https://www.magazineluiza.com.br/busca/Apple%20iPhone%2014%20256GB/",
         "monetized": false,
         "estimatedCommissionPct": "4%–6%",
         "note": "Retira na loja / garantia nacional"
@@ -620,7 +194,7 @@
         "storeId": "mercadolivre",
         "storeLabel": "Mercado Livre",
         "program": "busca-direta",
-        "url": "https://lista.mercadolivre.com.br/samsung-galaxy-a06%2Fa07-256gb",
+        "url": "https://lista.mercadolivre.com.br/apple-iphone-14-256gb",
         "monetized": false,
         "estimatedCommissionPct": "2%–4%",
         "note": "Entrega Full em capitais"
@@ -629,7 +203,7 @@
         "storeId": "shopee",
         "storeLabel": "Shopee Lojas Oficiais",
         "program": "busca-direta",
-        "url": "https://shopee.com.br/search?keyword=Samsung%20Galaxy%20A06%2FA07%20256GB",
+        "url": "https://shopee.com.br/search?keyword=Apple%20iPhone%2014%20256GB",
         "monetized": false,
         "estimatedCommissionPct": "2%–10%",
         "note": "Cupons de plataforma e lojas oficiais"
@@ -638,59 +212,201 @@
         "storeId": "kabum",
         "storeLabel": "KaBuM! (via Awin)",
         "program": "busca-direta",
-        "url": "https://www.kabum.com.br/busca/samsung-galaxy-a06%2Fa07-256gb",
+        "url": "https://www.kabum.com.br/busca/apple-iphone-14-256gb",
         "monetized": false,
         "estimatedCommissionPct": "2%–4%",
         "note": "Desconto no Pix em hardware/smartphones"
       }
     ],
     "specs": {
-      "canonicalModel": "Samsung Galaxy A06/A07",
+      "canonicalModel": "Apple iPhone 14",
       "storageGb": 256,
-      "ramGb": 8,
-      "has5g": false,
-      "hasNfc": false,
-      "screenSummary": "6,7\" PLS LCD 90Hz",
-      "batteryMah": 5000,
-      "cameraSummary": "50MP Dupla",
-      "chipset": "MediaTek Helio G85/G99",
-      "os": "Android",
+      "ramGb": 6,
+      "has5g": true,
+      "hasNfc": true,
+      "screenSummary": "6,1\" OLED Super Retina XDR 60Hz",
+      "batteryMah": 3279,
+      "cameraSummary": "12MP Dupla com Modo Cinema",
+      "chipset": "Apple A15 Bionic",
+      "os": "iOS",
       "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
-      "baseTechnicalScore": 18
+      "baseTechnicalScore": 27
     },
     "priceStats": {
-      "minObservedPrice": 899,
-      "maxObservedPrice": 997.78,
-      "avgObservedPrice": 918.76,
-      "observationsCount": 7,
+      "minObservedPrice": 2497.47,
+      "maxObservedPrice": 2850.32,
+      "avgObservedPrice": 2762.11,
+      "observationsCount": 4,
       "suspiciousListPrice": false,
-      "verifiedDiscountPct": 35,
+      "verifiedDiscountPct": 32,
+      "priceAlertLabel": "Menor preço observado no histórico"
+    },
+    "opportunityScore": 87,
+    "scoreBreakdown": {
+      "technical": 29,
+      "discount": 30,
+      "trust": 15,
+      "commercial": 13
+    },
+    "analysis": {
+      "verdict": "Excelente janela de compra: Apple iPhone 14 (256 GB) por R$ 2.497,47 atinge Score 87/100 (Menor preço observado no histórico).",
+      "idealFor": "Usuários exigentes, criação de conteúdo móvel, jogos pesados e telas premium de alta fluidez",
+      "pros": [
+        "Tela 6,1\" OLED Super Retina XDR 60Hz aliada a Apple A15 Bionic",
+        "256 GB com 6 GB de RAM e bateria de 3279 mAh",
+        "Economia expressiva em aparelho recondicionado certificado pela Trocafone (Recondicionado)",
+        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
+      ],
+      "watchout": "Aparelho recondicionado: verifique a classificação estética (Excelente/Muito Bom/Bom) e a política de bateria na página da loja antes de finalizar.",
+      "faqs": [
+        {
+          "question": "O Apple iPhone 14 vendido na Trocafone (Recondicionado) é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Trocafone (Recondicionado) no Brasil (aparelho seminovo/recondicionado revisado com garantia legal)."
+        },
+        {
+          "question": "O preço de R$ 2.497,47 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 2.497,47 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-26 21:39 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+        },
+        {
+          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
+          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
+        },
+        {
+          "question": "Vale a pena comprar agora ou esperar baixar mais?",
+          "answer": "No nosso histórico, o menor valor observado foi R$ 2.497,47 e a média é R$ 2.762,11. O preço atual está praticamente no piso histórico."
+        }
+      ]
+    },
+    "status": "expired",
+    "observedAt": "2026-11-26T21:39:21.378Z",
+    "expiredAt": "2026-11-27T08:43:02.182Z",
+    "replacementOfferId": "trocafone-72233-31877",
+    "replacementSlug": "apple-iphone-13-128gb-trocafone-72233"
+  },
+  {
+    "id": "trocafone-63851-25867",
+    "slug": "apple-iphone-11-64gb-64gb-trocafone-63851",
+    "canonicalKey": "apple-iphone-11-64gb-64gb-recondicionado",
+    "title": "iPhone 11 64GB",
+    "brand": "Apple",
+    "storeKey": "trocafone",
+    "storeName": "Trocafone (Recondicionado)",
+    "condition": "recondicionado",
+    "isBundle": false,
+    "price": 1039,
+    "listPrice": 1279,
+    "effectivePrice": 862.37,
+    "discountPct": 33,
+    "priceBand": "ate-1200",
+    "availableQuantity": 0,
+    "imageUrl": "https://trocafone.vteximg.com.br/arquivos/ids/427567/smpapl0022bran-p.jpg?v=638884462724870000",
+    "originalUrl": "https://www.trocafone.com.br/iphone-11-64gb/p",
+    "monetizedUrl": "https://www.trocafone.com.br/iphone-11-64gb/p",
+    "monetizedProgram": "direto-sem-tag",
+    "isDirectlyMonetized": false,
+    "comparisonLinks": [
+      {
+        "storeId": "trocafone",
+        "storeLabel": "Trocafone (Recondicionado) (Oferta Verificada)",
+        "program": "direto-sem-tag",
+        "url": "https://www.trocafone.com.br/iphone-11-64gb/p",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–8%",
+        "note": "Preço auditado: R$ 862,37"
+      },
+      {
+        "storeId": "amazon",
+        "storeLabel": "Amazon Brasil",
+        "program": "busca-direta",
+        "url": "https://www.amazon.com.br/s?k=Apple%20iPhone%2011%2064GB%2064GB",
+        "monetized": false,
+        "estimatedCommissionPct": "1%–3%",
+        "note": "Comparar preço e entrega Prime"
+      },
+      {
+        "storeId": "magalu",
+        "storeLabel": "Magalu (Parceiro)",
+        "program": "busca-direta",
+        "url": "https://www.magazineluiza.com.br/busca/Apple%20iPhone%2011%2064GB%2064GB/",
+        "monetized": false,
+        "estimatedCommissionPct": "4%–6%",
+        "note": "Retira na loja / garantia nacional"
+      },
+      {
+        "storeId": "mercadolivre",
+        "storeLabel": "Mercado Livre",
+        "program": "busca-direta",
+        "url": "https://lista.mercadolivre.com.br/apple-iphone-11-64gb-64gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Entrega Full em capitais"
+      },
+      {
+        "storeId": "shopee",
+        "storeLabel": "Shopee Lojas Oficiais",
+        "program": "busca-direta",
+        "url": "https://shopee.com.br/search?keyword=Apple%20iPhone%2011%2064GB%2064GB",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–10%",
+        "note": "Cupons de plataforma e lojas oficiais"
+      },
+      {
+        "storeId": "kabum",
+        "storeLabel": "KaBuM! (via Awin)",
+        "program": "busca-direta",
+        "url": "https://www.kabum.com.br/busca/apple-iphone-11-64gb-64gb",
+        "monetized": false,
+        "estimatedCommissionPct": "2%–4%",
+        "note": "Desconto no Pix em hardware/smartphones"
+      }
+    ],
+    "specs": {
+      "canonicalModel": "Apple iPhone 11 64GB",
+      "storageGb": 64,
+      "ramGb": null,
+      "has5g": false,
+      "hasNfc": false,
+      "screenSummary": "6,6\"+ Tela Full HD+",
+      "batteryMah": 3400,
+      "cameraSummary": "50MP Principal",
+      "chipset": "Apple Silicon",
+      "os": "iOS",
+      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
+      "baseTechnicalScore": 20
+    },
+    "priceStats": {
+      "minObservedPrice": 862.37,
+      "maxObservedPrice": 914.32,
+      "avgObservedPrice": 897,
+      "observationsCount": 3,
+      "suspiciousListPrice": false,
+      "verifiedDiscountPct": 33,
       "priceAlertLabel": "Menor preço observado no histórico"
     },
     "opportunityScore": 80,
     "scoreBreakdown": {
-      "technical": 22,
+      "technical": 24,
       "discount": 30,
-      "trust": 17,
+      "trust": 15,
       "commercial": 11
     },
     "analysis": {
-      "verdict": "Excelente janela de compra: Samsung Galaxy A06/A07 (256 GB) por R$ 899,00 atinge Score 80/100 (Menor preço observado no histórico).",
+      "verdict": "Excelente janela de compra: Apple iPhone 11 64GB (64 GB) por R$ 862,37 atinge Score 80/100 (Menor preço observado no histórico).",
       "idealFor": "Uso essencial equilibrado (WhatsApp, bancos, redes sociais e chamadas com ótima autonomia de bateria)",
       "pros": [
-        "Tela 6,7\" PLS LCD 90Hz aliada a MediaTek Helio G85/G99",
-        "256 GB com 8 GB de RAM e bateria de 5000 mAh",
-        "Vendido por varejista nacional (Bemol) com emissão de NF-e e garantia legal"
+        "Tela 6,6\"+ Tela Full HD+ aliada a Apple Silicon",
+        "64 GB e bateria de 3400 mAh",
+        "Economia expressiva em aparelho recondicionado certificado pela Trocafone (Recondicionado)"
       ],
-      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
+      "watchout": "Aparelho recondicionado: verifique a classificação estética (Excelente/Muito Bom/Bom) e a política de bateria na página da loja antes de finalizar.",
       "faqs": [
         {
-          "question": "O Samsung Galaxy A06/A07 vendido na Bemol é original e homologado pela Anatel?",
-          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Bemol no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
+          "question": "O Apple iPhone 11 64GB vendido na Trocafone (Recondicionado) é original e homologado pela Anatel?",
+          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Trocafone (Recondicionado) no Brasil (aparelho seminovo/recondicionado revisado com garantia legal)."
         },
         {
-          "question": "O preço de R$ 899,00 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 899,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-26 08:29 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
+          "question": "O preço de R$ 862,37 já está atualizado e pode mudar?",
+          "answer": "O valor R$ 862,37 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-26 21:39 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
         },
         {
           "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
@@ -698,15 +414,15 @@
         },
         {
           "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 899,00 e a média é R$ 918,76. O preço atual está praticamente no piso histórico."
+          "answer": "No nosso histórico, o menor valor observado foi R$ 862,37 e a média é R$ 897,00. O preço atual está praticamente no piso histórico."
         }
       ]
     },
     "status": "expired",
-    "observedAt": "2026-11-26T08:29:11.749Z",
-    "expiredAt": "2026-11-26T21:39:21.378Z",
-    "replacementOfferId": "angeloni-739026-1554436",
-    "replacementSlug": "samsung-galaxy-a06-a07-128gb-angeloni-739026"
+    "observedAt": "2026-11-26T21:39:21.378Z",
+    "expiredAt": "2026-11-27T08:43:02.182Z",
+    "replacementOfferId": "trocafone-63889-26694",
+    "replacementSlug": "apple-iphone-se-2020-256gb-256gb-trocafone-63889"
   },
   {
     "id": "trocafone-63849-25801",
@@ -846,8 +562,8 @@
     "status": "expired",
     "observedAt": "2026-11-26T08:29:11.749Z",
     "expiredAt": "2026-11-26T21:39:21.378Z",
-    "replacementOfferId": "trocafone-63851-25867",
-    "replacementSlug": "apple-iphone-11-64gb-64gb-trocafone-63851"
+    "replacementOfferId": "trocafone-63860-26084",
+    "replacementSlug": "apple-iphone-12-64gb-64gb-trocafone-63860"
   },
   {
     "id": "bemol-178563-178563",
@@ -992,148 +708,6 @@
     "replacementSlug": "apple-iphone-pro-max-nova-geracao-512gb-bemol-178561"
   },
   {
-    "id": "bemol-163841-163842",
-    "slug": "samsung-galaxy-s26-256gb-bemol-163841",
-    "canonicalKey": "samsung-galaxy-s26-256gb-novo",
-    "title": "Smartphone Samsung S26 Preto 256GB Tela 6.3\" 12GB RAM",
-    "brand": "Samsung",
-    "storeKey": "bemol",
-    "storeName": "Bemol",
-    "condition": "novo",
-    "isBundle": false,
-    "price": 4689,
-    "listPrice": 5499,
-    "effectivePrice": 4689,
-    "discountPct": 15,
-    "priceBand": "acima-4000",
-    "availableQuantity": 0,
-    "imageUrl": "https://bemol.vteximg.com.br/arquivos/ids/608542/390525.jpg?v=639161686323870000",
-    "originalUrl": "https://www.bemol.com.br/smartphone-samsung-s26-preto-256gb-tela-6-3-12gb-ram/p",
-    "monetizedUrl": "https://www.bemol.com.br/smartphone-samsung-s26-preto-256gb-tela-6-3-12gb-ram/p",
-    "monetizedProgram": "direto-sem-tag",
-    "isDirectlyMonetized": false,
-    "comparisonLinks": [
-      {
-        "storeId": "bemol",
-        "storeLabel": "Bemol (Oferta Verificada)",
-        "program": "direto-sem-tag",
-        "url": "https://www.bemol.com.br/smartphone-samsung-s26-preto-256gb-tela-6-3-12gb-ram/p",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–5%",
-        "note": "Preço auditado: R$ 4689,00"
-      },
-      {
-        "storeId": "amazon",
-        "storeLabel": "Amazon Brasil",
-        "program": "busca-direta",
-        "url": "https://www.amazon.com.br/s?k=Samsung%20Galaxy%20S26%20256GB",
-        "monetized": false,
-        "estimatedCommissionPct": "1%–3%",
-        "note": "Comparar preço e entrega Prime"
-      },
-      {
-        "storeId": "magalu",
-        "storeLabel": "Magalu (Parceiro)",
-        "program": "busca-direta",
-        "url": "https://www.magazineluiza.com.br/busca/Samsung%20Galaxy%20S26%20256GB/",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–6%",
-        "note": "Retira na loja / garantia nacional"
-      },
-      {
-        "storeId": "mercadolivre",
-        "storeLabel": "Mercado Livre",
-        "program": "busca-direta",
-        "url": "https://lista.mercadolivre.com.br/samsung-galaxy-s26-256gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Entrega Full em capitais"
-      },
-      {
-        "storeId": "shopee",
-        "storeLabel": "Shopee Lojas Oficiais",
-        "program": "busca-direta",
-        "url": "https://shopee.com.br/search?keyword=Samsung%20Galaxy%20S26%20256GB",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–10%",
-        "note": "Cupons de plataforma e lojas oficiais"
-      },
-      {
-        "storeId": "kabum",
-        "storeLabel": "KaBuM! (via Awin)",
-        "program": "busca-direta",
-        "url": "https://www.kabum.com.br/busca/samsung-galaxy-s26-256gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Desconto no Pix em hardware/smartphones"
-      }
-    ],
-    "specs": {
-      "canonicalModel": "Samsung Galaxy S26",
-      "storageGb": 256,
-      "ramGb": 12,
-      "has5g": true,
-      "hasNfc": true,
-      "screenSummary": "6,3\" Dynamic AMOLED 2X 120Hz",
-      "batteryMah": 4300,
-      "cameraSummary": "50MP OIS + 12MP + Tele 10MP",
-      "chipset": "Flagship Galaxy AI",
-      "os": "Android",
-      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
-      "baseTechnicalScore": 35
-    },
-    "priceStats": {
-      "minObservedPrice": 4199,
-      "maxObservedPrice": 6140.24,
-      "avgObservedPrice": 5182.87,
-      "observationsCount": 22,
-      "suspiciousListPrice": false,
-      "verifiedDiscountPct": 15,
-      "priceAlertLabel": "Abaixo da média observada"
-    },
-    "opportunityScore": 78,
-    "scoreBreakdown": {
-      "technical": 35,
-      "discount": 14,
-      "trust": 17,
-      "commercial": 12
-    },
-    "analysis": {
-      "verdict": "Excelente janela de compra: Samsung Galaxy S26 (256 GB) por R$ 4.689,00 atinge Score 78/100 (Abaixo da média observada).",
-      "idealFor": "Público entusiasta/profissional que busca o topo em câmeras, desempenho e anos de atualizações",
-      "pros": [
-        "Tela 6,3\" Dynamic AMOLED 2X 120Hz aliada a Flagship Galaxy AI",
-        "256 GB com 12 GB de RAM e bateria de 4300 mAh",
-        "Vendido por varejista nacional (Bemol) com emissão de NF-e e garantia legal",
-        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
-      ],
-      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
-      "faqs": [
-        {
-          "question": "O Samsung Galaxy S26 vendido na Bemol é original e homologado pela Anatel?",
-          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Bemol no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
-        },
-        {
-          "question": "O preço de R$ 4.689,00 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 4.689,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-26 08:29 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
-        },
-        {
-          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
-          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
-        },
-        {
-          "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 4.199,00 e a média é R$ 5.182,87. Considere comparar na matriz de lojas parceiras antes de fechar."
-        }
-      ]
-    },
-    "status": "expired",
-    "observedAt": "2026-11-26T08:29:11.749Z",
-    "expiredAt": "2026-11-26T21:39:21.378Z",
-    "replacementOfferId": "angeloni-739655-1555055",
-    "replacementSlug": "samsung-galaxy-s26-256gb-angeloni-739655"
-  },
-  {
     "id": "fastshop-186415-196746",
     "slug": "motorola-moto-g-entrada-256gb-fastshop-186415",
     "canonicalKey": "motorola-moto-g-entrada-256gb-novo",
@@ -1271,290 +845,8 @@
     "status": "expired",
     "observedAt": "2026-11-26T08:29:11.749Z",
     "expiredAt": "2026-11-26T21:39:21.378Z",
-    "replacementOfferId": "motorola-384-1737",
-    "replacementSlug": "motorola-moto-g-entrada-256gb-motorola-384"
-  },
-  {
-    "id": "bemol-138228-138228",
-    "slug": "samsung-z-fold-7-12gb-512gb-bemol-138228",
-    "canonicalKey": "samsung-z-fold-7-12gb-512gb-novo",
-    "title": "Smartphone Samsung Z Fold 7 12GB RAM 512GB Azul",
-    "brand": "Samsung",
-    "storeKey": "bemol",
-    "storeName": "Bemol",
-    "condition": "novo",
-    "isBundle": false,
-    "price": 10800,
-    "listPrice": 12999,
-    "effectivePrice": 10800,
-    "discountPct": 17,
-    "priceBand": "acima-4000",
-    "availableQuantity": 0,
-    "imageUrl": "https://bemol.vteximg.com.br/arquivos/ids/513879/373507.jpg?v=639076380326570000",
-    "originalUrl": "https://www.bemol.com.br/smartphone-samsung-z-fold-7-12gb-ram-512gb-azul/p",
-    "monetizedUrl": "https://www.bemol.com.br/smartphone-samsung-z-fold-7-12gb-ram-512gb-azul/p",
-    "monetizedProgram": "direto-sem-tag",
-    "isDirectlyMonetized": false,
-    "comparisonLinks": [
-      {
-        "storeId": "bemol",
-        "storeLabel": "Bemol (Oferta Verificada)",
-        "program": "direto-sem-tag",
-        "url": "https://www.bemol.com.br/smartphone-samsung-z-fold-7-12gb-ram-512gb-azul/p",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–5%",
-        "note": "Preço auditado: R$ 10800,00"
-      },
-      {
-        "storeId": "amazon",
-        "storeLabel": "Amazon Brasil",
-        "program": "busca-direta",
-        "url": "https://www.amazon.com.br/s?k=Samsung%20Z%20Fold%207%2012GB%20512GB",
-        "monetized": false,
-        "estimatedCommissionPct": "1%–3%",
-        "note": "Comparar preço e entrega Prime"
-      },
-      {
-        "storeId": "magalu",
-        "storeLabel": "Magalu (Parceiro)",
-        "program": "busca-direta",
-        "url": "https://www.magazineluiza.com.br/busca/Samsung%20Z%20Fold%207%2012GB%20512GB/",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–6%",
-        "note": "Retira na loja / garantia nacional"
-      },
-      {
-        "storeId": "mercadolivre",
-        "storeLabel": "Mercado Livre",
-        "program": "busca-direta",
-        "url": "https://lista.mercadolivre.com.br/samsung-z-fold-7-12gb-512gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Entrega Full em capitais"
-      },
-      {
-        "storeId": "shopee",
-        "storeLabel": "Shopee Lojas Oficiais",
-        "program": "busca-direta",
-        "url": "https://shopee.com.br/search?keyword=Samsung%20Z%20Fold%207%2012GB%20512GB",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–10%",
-        "note": "Cupons de plataforma e lojas oficiais"
-      },
-      {
-        "storeId": "kabum",
-        "storeLabel": "KaBuM! (via Awin)",
-        "program": "busca-direta",
-        "url": "https://www.kabum.com.br/busca/samsung-z-fold-7-12gb-512gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Desconto no Pix em hardware/smartphones"
-      }
-    ],
-    "specs": {
-      "canonicalModel": "Samsung Z Fold 7 12GB",
-      "storageGb": 512,
-      "ramGb": 12,
-      "has5g": false,
-      "hasNfc": false,
-      "screenSummary": "6,6\"+ Tela Full HD+",
-      "batteryMah": 5000,
-      "cameraSummary": "50MP Principal",
-      "chipset": "Octa-Core",
-      "os": "Android",
-      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
-      "baseTechnicalScore": 24
-    },
-    "priceStats": {
-      "minObservedPrice": 10800,
-      "maxObservedPrice": 10800,
-      "avgObservedPrice": 10800,
-      "observationsCount": 6,
-      "suspiciousListPrice": false,
-      "verifiedDiscountPct": 17,
-      "priceAlertLabel": "Menor preço observado no histórico"
-    },
-    "opportunityScore": 71,
-    "scoreBreakdown": {
-      "technical": 24,
-      "discount": 20,
-      "trust": 17,
-      "commercial": 10
-    },
-    "analysis": {
-      "verdict": "Opção sólida verificada em Bemol: Samsung Z Fold 7 12GB (512 GB) sai a R$ 10.800,00 com menor preço observado no histórico.",
-      "idealFor": "Público entusiasta/profissional que busca o topo em câmeras, desempenho e anos de atualizações",
-      "pros": [
-        "Tela 6,6\"+ Tela Full HD+ aliada a Octa-Core",
-        "512 GB com 12 GB de RAM e bateria de 5000 mAh",
-        "Vendido por varejista nacional (Bemol) com emissão de NF-e e garantia legal"
-      ],
-      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
-      "faqs": [
-        {
-          "question": "O Samsung Z Fold 7 12GB vendido na Bemol é original e homologado pela Anatel?",
-          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Bemol no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
-        },
-        {
-          "question": "O preço de R$ 10.800,00 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 10.800,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-26 08:29 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
-        },
-        {
-          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
-          "answer": "Este modelo específico opera em 4G/LTE. Não possui NFC confirmado nesta ficha; confira as especificações da loja caso use pagamento por aproximação."
-        },
-        {
-          "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 10.800,00 e a média é R$ 10.800,00. O preço atual está praticamente no piso histórico."
-        }
-      ]
-    },
-    "status": "expired",
-    "observedAt": "2026-11-26T08:29:11.749Z",
-    "expiredAt": "2026-11-26T21:39:21.378Z",
-    "replacementOfferId": "fastshop-157117-167108",
-    "replacementSlug": "samsung-galaxy-s26-ultra-512gb-fastshop-157117"
-  },
-  {
-    "id": "bemol-141040-141034",
-    "slug": "samsung-galaxy-a16-a17-128gb-bemol-141040",
-    "canonicalKey": "samsung-galaxy-a16-a17-128gb-novo",
-    "title": "Smartphone Samsung Galaxy A17 128GB Azul Tela 6.7\" Câmera 50MP 4GB RAM",
-    "brand": "Samsung",
-    "storeKey": "bemol",
-    "storeName": "Bemol",
-    "condition": "novo",
-    "isBundle": false,
-    "price": 959,
-    "listPrice": 1199,
-    "effectivePrice": 959,
-    "discountPct": 20,
-    "priceBand": "ate-1200",
-    "availableQuantity": 0,
-    "imageUrl": "https://bemol.vteximg.com.br/arquivos/ids/525482/372782.jpg?v=639076379678700000",
-    "originalUrl": "https://www.bemol.com.br/smartphone-samsung-galaxy-a17-128gb-azul-tela-6-7--camera-50mp-4gb-ram/p",
-    "monetizedUrl": "https://www.bemol.com.br/smartphone-samsung-galaxy-a17-128gb-azul-tela-6-7--camera-50mp-4gb-ram/p",
-    "monetizedProgram": "direto-sem-tag",
-    "isDirectlyMonetized": false,
-    "comparisonLinks": [
-      {
-        "storeId": "bemol",
-        "storeLabel": "Bemol (Oferta Verificada)",
-        "program": "direto-sem-tag",
-        "url": "https://www.bemol.com.br/smartphone-samsung-galaxy-a17-128gb-azul-tela-6-7--camera-50mp-4gb-ram/p",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–5%",
-        "note": "Preço auditado: R$ 959,00"
-      },
-      {
-        "storeId": "amazon",
-        "storeLabel": "Amazon Brasil",
-        "program": "busca-direta",
-        "url": "https://www.amazon.com.br/s?k=Samsung%20Galaxy%20A16%2FA17%20128GB",
-        "monetized": false,
-        "estimatedCommissionPct": "1%–3%",
-        "note": "Comparar preço e entrega Prime"
-      },
-      {
-        "storeId": "magalu",
-        "storeLabel": "Magalu (Parceiro)",
-        "program": "busca-direta",
-        "url": "https://www.magazineluiza.com.br/busca/Samsung%20Galaxy%20A16%2FA17%20128GB/",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–6%",
-        "note": "Retira na loja / garantia nacional"
-      },
-      {
-        "storeId": "mercadolivre",
-        "storeLabel": "Mercado Livre",
-        "program": "busca-direta",
-        "url": "https://lista.mercadolivre.com.br/samsung-galaxy-a16%2Fa17-128gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Entrega Full em capitais"
-      },
-      {
-        "storeId": "shopee",
-        "storeLabel": "Shopee Lojas Oficiais",
-        "program": "busca-direta",
-        "url": "https://shopee.com.br/search?keyword=Samsung%20Galaxy%20A16%2FA17%20128GB",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–10%",
-        "note": "Cupons de plataforma e lojas oficiais"
-      },
-      {
-        "storeId": "kabum",
-        "storeLabel": "KaBuM! (via Awin)",
-        "program": "busca-direta",
-        "url": "https://www.kabum.com.br/busca/samsung-galaxy-a16%2Fa17-128gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Desconto no Pix em hardware/smartphones"
-      }
-    ],
-    "specs": {
-      "canonicalModel": "Samsung Galaxy A16/A17",
-      "storageGb": 128,
-      "ramGb": 4,
-      "has5g": false,
-      "hasNfc": true,
-      "screenSummary": "6,7\" Super AMOLED 90Hz",
-      "batteryMah": 5000,
-      "cameraSummary": "50MP Tripla",
-      "chipset": "Helio G99 / Exynos",
-      "os": "Android",
-      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
-      "baseTechnicalScore": 19
-    },
-    "priceStats": {
-      "minObservedPrice": 949.05,
-      "maxObservedPrice": 1199,
-      "avgObservedPrice": 1063.57,
-      "observationsCount": 11,
-      "suspiciousListPrice": false,
-      "verifiedDiscountPct": 20,
-      "priceAlertLabel": "Desconto verificado de 20%"
-    },
-    "opportunityScore": 70,
-    "scoreBreakdown": {
-      "technical": 23,
-      "discount": 18,
-      "trust": 17,
-      "commercial": 12
-    },
-    "analysis": {
-      "verdict": "Opção sólida verificada em Bemol: Samsung Galaxy A16/A17 (128 GB) sai a R$ 959,00 com desconto verificado de 20%.",
-      "idealFor": "Uso essencial equilibrado (WhatsApp, bancos, redes sociais e chamadas com ótima autonomia de bateria)",
-      "pros": [
-        "Tela 6,7\" Super AMOLED 90Hz aliada a Helio G99 / Exynos",
-        "128 GB com 4 GB de RAM e bateria de 5000 mAh",
-        "Vendido por varejista nacional (Bemol) com emissão de NF-e e garantia legal"
-      ],
-      "watchout": "Versão de 128 GB: considere 256 GB se costuma gravar muitos vídeos em 4K ou instalar jogos pesados. Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
-      "faqs": [
-        {
-          "question": "O Samsung Galaxy A16/A17 vendido na Bemol é original e homologado pela Anatel?",
-          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Bemol no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
-        },
-        {
-          "question": "O preço de R$ 959,00 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 959,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-26 08:29 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
-        },
-        {
-          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
-          "answer": "Este modelo específico opera em 4G/LTE. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
-        },
-        {
-          "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 949,05 e a média é R$ 1.063,57. O preço atual está praticamente no piso histórico."
-        }
-      ]
-    },
-    "status": "expired",
-    "observedAt": "2026-11-26T08:29:11.749Z",
-    "expiredAt": "2026-11-26T21:39:21.378Z",
-    "replacementOfferId": "angeloni-728375-1543895",
-    "replacementSlug": "samsung-galaxy-a16-a17-128gb-angeloni-728375"
+    "replacementOfferId": "angeloni-715897-1532817",
+    "replacementSlug": "motorola-moto-g-entrada-256gb-angeloni-715897"
   },
   {
     "id": "bemol-63091-63094",
@@ -1699,147 +991,6 @@
     "replacementSlug": "apple-iphone-16-128gb-bemol-61574"
   },
   {
-    "id": "bemol-137166-137167",
-    "slug": "samsung-galaxy-a06-a07-128gb-bemol-137166",
-    "canonicalKey": "samsung-galaxy-a06-a07-128gb-novo",
-    "title": "Smartphone Samsung A07 4GB RAM 128GB Violeta",
-    "brand": "Samsung",
-    "storeKey": "bemol",
-    "storeName": "Bemol",
-    "condition": "novo",
-    "isBundle": false,
-    "price": 799,
-    "listPrice": 956,
-    "effectivePrice": 799,
-    "discountPct": 16,
-    "priceBand": "ate-1200",
-    "availableQuantity": 0,
-    "imageUrl": "https://bemol.vteximg.com.br/arquivos/ids/544285/371708.jpg?v=639096879067200000",
-    "originalUrl": "https://www.bemol.com.br/smartphone-samsung-a07-4gb-ram-128gb-violeta/p",
-    "monetizedUrl": "https://www.bemol.com.br/smartphone-samsung-a07-4gb-ram-128gb-violeta/p",
-    "monetizedProgram": "direto-sem-tag",
-    "isDirectlyMonetized": false,
-    "comparisonLinks": [
-      {
-        "storeId": "bemol",
-        "storeLabel": "Bemol (Oferta Verificada)",
-        "program": "direto-sem-tag",
-        "url": "https://www.bemol.com.br/smartphone-samsung-a07-4gb-ram-128gb-violeta/p",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–5%",
-        "note": "Preço auditado: R$ 799,00"
-      },
-      {
-        "storeId": "amazon",
-        "storeLabel": "Amazon Brasil",
-        "program": "busca-direta",
-        "url": "https://www.amazon.com.br/s?k=Samsung%20Galaxy%20A06%2FA07%20128GB",
-        "monetized": false,
-        "estimatedCommissionPct": "1%–3%",
-        "note": "Comparar preço e entrega Prime"
-      },
-      {
-        "storeId": "magalu",
-        "storeLabel": "Magalu (Parceiro)",
-        "program": "busca-direta",
-        "url": "https://www.magazineluiza.com.br/busca/Samsung%20Galaxy%20A06%2FA07%20128GB/",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–6%",
-        "note": "Retira na loja / garantia nacional"
-      },
-      {
-        "storeId": "mercadolivre",
-        "storeLabel": "Mercado Livre",
-        "program": "busca-direta",
-        "url": "https://lista.mercadolivre.com.br/samsung-galaxy-a06%2Fa07-128gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Entrega Full em capitais"
-      },
-      {
-        "storeId": "shopee",
-        "storeLabel": "Shopee Lojas Oficiais",
-        "program": "busca-direta",
-        "url": "https://shopee.com.br/search?keyword=Samsung%20Galaxy%20A06%2FA07%20128GB",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–10%",
-        "note": "Cupons de plataforma e lojas oficiais"
-      },
-      {
-        "storeId": "kabum",
-        "storeLabel": "KaBuM! (via Awin)",
-        "program": "busca-direta",
-        "url": "https://www.kabum.com.br/busca/samsung-galaxy-a06%2Fa07-128gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Desconto no Pix em hardware/smartphones"
-      }
-    ],
-    "specs": {
-      "canonicalModel": "Samsung Galaxy A06/A07",
-      "storageGb": 128,
-      "ramGb": 4,
-      "has5g": false,
-      "hasNfc": false,
-      "screenSummary": "6,7\" PLS LCD 90Hz",
-      "batteryMah": 5000,
-      "cameraSummary": "50MP Dupla",
-      "chipset": "MediaTek Helio G85/G99",
-      "os": "Android",
-      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
-      "baseTechnicalScore": 15
-    },
-    "priceStats": {
-      "minObservedPrice": 799,
-      "maxObservedPrice": 956,
-      "avgObservedPrice": 887,
-      "observationsCount": 17,
-      "suspiciousListPrice": false,
-      "verifiedDiscountPct": 16,
-      "priceAlertLabel": "Menor preço observado no histórico"
-    },
-    "opportunityScore": 66,
-    "scoreBreakdown": {
-      "technical": 19,
-      "discount": 19,
-      "trust": 17,
-      "commercial": 11
-    },
-    "analysis": {
-      "verdict": "Opção sólida verificada em Bemol: Samsung Galaxy A06/A07 (128 GB) sai a R$ 799,00 com menor preço observado no histórico.",
-      "idealFor": "Uso essencial equilibrado (WhatsApp, bancos, redes sociais e chamadas com ótima autonomia de bateria)",
-      "pros": [
-        "Tela 6,7\" PLS LCD 90Hz aliada a MediaTek Helio G85/G99",
-        "128 GB com 4 GB de RAM e bateria de 5000 mAh",
-        "Vendido por varejista nacional (Bemol) com emissão de NF-e e garantia legal"
-      ],
-      "watchout": "Versão de 128 GB: considere 256 GB se costuma gravar muitos vídeos em 4K ou instalar jogos pesados. Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
-      "faqs": [
-        {
-          "question": "O Samsung Galaxy A06/A07 vendido na Bemol é original e homologado pela Anatel?",
-          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Bemol no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
-        },
-        {
-          "question": "O preço de R$ 799,00 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 799,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-26 08:29 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
-        },
-        {
-          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
-          "answer": "Este modelo específico opera em 4G/LTE. Não possui NFC confirmado nesta ficha; confira as especificações da loja caso use pagamento por aproximação."
-        },
-        {
-          "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 799,00 e a média é R$ 887,00. O preço atual está praticamente no piso histórico."
-        }
-      ]
-    },
-    "status": "expired",
-    "observedAt": "2026-11-26T08:29:11.749Z",
-    "expiredAt": "2026-11-26T21:39:21.378Z",
-    "replacementOfferId": "fastshop-197998-208716",
-    "replacementSlug": "samsung-galaxy-a06-a07-128gb-fastshop-197998"
-  },
-  {
     "id": "fastshop-199557-210374",
     "slug": "motorola-moto-g-entrada-128gb-fastshop-199557",
     "canonicalKey": "motorola-moto-g-entrada-128gb-novo",
@@ -1979,290 +1130,6 @@
     "expiredAt": "2026-11-26T21:39:21.378Z",
     "replacementOfferId": "motorola-407-1788",
     "replacementSlug": "motorola-moto-g-entrada-128gb-motorola-407"
-  },
-  {
-    "id": "bemol-156303-156306",
-    "slug": "samsung-galaxy-a16-a17-256gb-bemol-156303",
-    "canonicalKey": "samsung-galaxy-a16-a17-256gb-novo",
-    "title": "Smartphone Samsung A17 Preto 5G 256GB Tela 6.7\" Câmera 50MP 8GB RAM",
-    "brand": "Samsung",
-    "storeKey": "bemol",
-    "storeName": "Bemol",
-    "condition": "novo",
-    "isBundle": false,
-    "price": 1599,
-    "listPrice": 1799,
-    "effectivePrice": 1599,
-    "discountPct": 13,
-    "priceBand": "1200-2200",
-    "availableQuantity": 0,
-    "imageUrl": "https://bemol.vteximg.com.br/arquivos/ids/582068/371717.jpg?v=639094314315000000",
-    "originalUrl": "https://www.bemol.com.br/smartphone-samsung-a17-preto-5g-256gb-tela-6-7--camera-50mp-8gb-ram/p",
-    "monetizedUrl": "https://www.bemol.com.br/smartphone-samsung-a17-preto-5g-256gb-tela-6-7--camera-50mp-8gb-ram/p",
-    "monetizedProgram": "direto-sem-tag",
-    "isDirectlyMonetized": false,
-    "comparisonLinks": [
-      {
-        "storeId": "bemol",
-        "storeLabel": "Bemol (Oferta Verificada)",
-        "program": "direto-sem-tag",
-        "url": "https://www.bemol.com.br/smartphone-samsung-a17-preto-5g-256gb-tela-6-7--camera-50mp-8gb-ram/p",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–5%",
-        "note": "Preço auditado: R$ 1599,00"
-      },
-      {
-        "storeId": "amazon",
-        "storeLabel": "Amazon Brasil",
-        "program": "busca-direta",
-        "url": "https://www.amazon.com.br/s?k=Samsung%20Galaxy%20A16%2FA17%20256GB",
-        "monetized": false,
-        "estimatedCommissionPct": "1%–3%",
-        "note": "Comparar preço e entrega Prime"
-      },
-      {
-        "storeId": "magalu",
-        "storeLabel": "Magalu (Parceiro)",
-        "program": "busca-direta",
-        "url": "https://www.magazineluiza.com.br/busca/Samsung%20Galaxy%20A16%2FA17%20256GB/",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–6%",
-        "note": "Retira na loja / garantia nacional"
-      },
-      {
-        "storeId": "mercadolivre",
-        "storeLabel": "Mercado Livre",
-        "program": "busca-direta",
-        "url": "https://lista.mercadolivre.com.br/samsung-galaxy-a16%2Fa17-256gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Entrega Full em capitais"
-      },
-      {
-        "storeId": "shopee",
-        "storeLabel": "Shopee Lojas Oficiais",
-        "program": "busca-direta",
-        "url": "https://shopee.com.br/search?keyword=Samsung%20Galaxy%20A16%2FA17%20256GB",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–10%",
-        "note": "Cupons de plataforma e lojas oficiais"
-      },
-      {
-        "storeId": "kabum",
-        "storeLabel": "KaBuM! (via Awin)",
-        "program": "busca-direta",
-        "url": "https://www.kabum.com.br/busca/samsung-galaxy-a16%2Fa17-256gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Desconto no Pix em hardware/smartphones"
-      }
-    ],
-    "specs": {
-      "canonicalModel": "Samsung Galaxy A16/A17",
-      "storageGb": 256,
-      "ramGb": 8,
-      "has5g": true,
-      "hasNfc": true,
-      "screenSummary": "6,7\" Super AMOLED 90Hz",
-      "batteryMah": 5000,
-      "cameraSummary": "50MP Tripla",
-      "chipset": "Helio G99 / Exynos",
-      "os": "Android",
-      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
-      "baseTechnicalScore": 22
-    },
-    "priceStats": {
-      "minObservedPrice": 1469,
-      "maxObservedPrice": 2184.88,
-      "avgObservedPrice": 1839.04,
-      "observationsCount": 16,
-      "suspiciousListPrice": false,
-      "verifiedDiscountPct": 13,
-      "priceAlertLabel": "Abaixo da média observada"
-    },
-    "opportunityScore": 66,
-    "scoreBreakdown": {
-      "technical": 24,
-      "discount": 12,
-      "trust": 17,
-      "commercial": 13
-    },
-    "analysis": {
-      "verdict": "Opção sólida verificada em Bemol: Samsung Galaxy A16/A17 (256 GB) sai a R$ 1.599,00 com abaixo da média observada.",
-      "idealFor": "Custo-benefício diário (multitarefa fluida, boas fotos, pagamentos NFC e longevidade de sistema)",
-      "pros": [
-        "Tela 6,7\" Super AMOLED 90Hz aliada a Helio G99 / Exynos",
-        "256 GB com 8 GB de RAM e bateria de 5000 mAh",
-        "Vendido por varejista nacional (Bemol) com emissão de NF-e e garantia legal",
-        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
-      ],
-      "watchout": "Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
-      "faqs": [
-        {
-          "question": "O Samsung Galaxy A16/A17 vendido na Bemol é original e homologado pela Anatel?",
-          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Bemol no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
-        },
-        {
-          "question": "O preço de R$ 1.599,00 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 1.599,00 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-26 08:29 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
-        },
-        {
-          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
-          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
-        },
-        {
-          "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 1.469,00 e a média é R$ 1.839,04. Considere comparar na matriz de lojas parceiras antes de fechar."
-        }
-      ]
-    },
-    "status": "expired",
-    "observedAt": "2026-11-26T08:29:11.749Z",
-    "expiredAt": "2026-11-26T21:39:21.378Z",
-    "replacementOfferId": "angeloni-670849-1487980",
-    "replacementSlug": "samsung-galaxy-a16-a17-256gb-angeloni-670849"
-  },
-  {
-    "id": "fastshop-172580-182736",
-    "slug": "samsung-galaxy-a56-a57-128gb-fastshop-172580",
-    "canonicalKey": "samsung-galaxy-a56-a57-128gb-novo",
-    "title": "Smartphone Samsung Galaxy A57 5G Tela 6.7\" 128GB Câmera 50MP Azul Escuro",
-    "brand": "Samsung",
-    "storeKey": "fastshop",
-    "storeName": "Fast Shop",
-    "condition": "novo",
-    "isBundle": false,
-    "price": 3032.17,
-    "listPrice": 3032.17,
-    "effectivePrice": 2850.24,
-    "discountPct": 6,
-    "priceBand": "2200-4000",
-    "availableQuantity": 0,
-    "imageUrl": "https://fastshopbr.vteximg.com.br/arquivos/ids/4987362/17805657580085.jpg?v=639162654164300000",
-    "originalUrl": "https://site.fastshop.com.br/smartphone-samsung-galaxy-a57-5g-tela-6-7--128gb-camera-50mp-azul-escuro-172580/p",
-    "monetizedUrl": "https://site.fastshop.com.br/smartphone-samsung-galaxy-a57-5g-tela-6-7--128gb-camera-50mp-azul-escuro-172580/p",
-    "monetizedProgram": "direto-sem-tag",
-    "isDirectlyMonetized": false,
-    "comparisonLinks": [
-      {
-        "storeId": "fastshop",
-        "storeLabel": "Fast Shop (Oferta Verificada)",
-        "program": "direto-sem-tag",
-        "url": "https://site.fastshop.com.br/smartphone-samsung-galaxy-a57-5g-tela-6-7--128gb-camera-50mp-azul-escuro-172580/p",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–5%",
-        "note": "Preço auditado: R$ 2850,24"
-      },
-      {
-        "storeId": "amazon",
-        "storeLabel": "Amazon Brasil",
-        "program": "busca-direta",
-        "url": "https://www.amazon.com.br/s?k=Samsung%20Galaxy%20A56%2FA57%20128GB",
-        "monetized": false,
-        "estimatedCommissionPct": "1%–3%",
-        "note": "Comparar preço e entrega Prime"
-      },
-      {
-        "storeId": "magalu",
-        "storeLabel": "Magalu (Parceiro)",
-        "program": "busca-direta",
-        "url": "https://www.magazineluiza.com.br/busca/Samsung%20Galaxy%20A56%2FA57%20128GB/",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–6%",
-        "note": "Retira na loja / garantia nacional"
-      },
-      {
-        "storeId": "mercadolivre",
-        "storeLabel": "Mercado Livre",
-        "program": "busca-direta",
-        "url": "https://lista.mercadolivre.com.br/samsung-galaxy-a56%2Fa57-128gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Entrega Full em capitais"
-      },
-      {
-        "storeId": "shopee",
-        "storeLabel": "Shopee Lojas Oficiais",
-        "program": "busca-direta",
-        "url": "https://shopee.com.br/search?keyword=Samsung%20Galaxy%20A56%2FA57%20128GB",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–10%",
-        "note": "Cupons de plataforma e lojas oficiais"
-      },
-      {
-        "storeId": "kabum",
-        "storeLabel": "KaBuM! (via Awin)",
-        "program": "busca-direta",
-        "url": "https://www.kabum.com.br/busca/samsung-galaxy-a56%2Fa57-128gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Desconto no Pix em hardware/smartphones"
-      }
-    ],
-    "specs": {
-      "canonicalModel": "Samsung Galaxy A56/A57",
-      "storageGb": 128,
-      "ramGb": 8,
-      "has5g": true,
-      "hasNfc": true,
-      "screenSummary": "6,7\" Super AMOLED 120Hz",
-      "batteryMah": 5000,
-      "cameraSummary": "50MP OIS + 12MP + 5MP (IP67)",
-      "chipset": "Exynos 1580 / 1680",
-      "os": "Android",
-      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
-      "baseTechnicalScore": 28
-    },
-    "priceStats": {
-      "minObservedPrice": 2726.22,
-      "maxObservedPrice": 3799,
-      "avgObservedPrice": 2877.63,
-      "observationsCount": 12,
-      "suspiciousListPrice": false,
-      "verifiedDiscountPct": 6,
-      "priceAlertLabel": "Preço em linha com o varejo"
-    },
-    "opportunityScore": 66,
-    "scoreBreakdown": {
-      "technical": 28,
-      "discount": 5,
-      "trust": 19,
-      "commercial": 14
-    },
-    "analysis": {
-      "verdict": "Opção sólida verificada em Fast Shop: Samsung Galaxy A56/A57 (128 GB) sai a R$ 2.850,24 com preço em linha com o varejo.",
-      "idealFor": "Usuários exigentes, criação de conteúdo móvel, jogos pesados e telas premium de alta fluidez",
-      "pros": [
-        "Tela 6,7\" Super AMOLED 120Hz aliada a Exynos 1580 / 1680",
-        "128 GB com 8 GB de RAM e bateria de 5000 mAh",
-        "Vendido por varejista nacional (Fast Shop) com emissão de NF-e e garantia legal",
-        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
-      ],
-      "watchout": "Versão de 128 GB: considere 256 GB se costuma gravar muitos vídeos em 4K ou instalar jogos pesados. Preços no varejo brasileiro oscilam por forma de pagamento (Pix vs parcelado) — compare na matriz abaixo antes do checkout.",
-      "faqs": [
-        {
-          "question": "O Samsung Galaxy A56/A57 vendido na Fast Shop é original e homologado pela Anatel?",
-          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Fast Shop no Brasil (produto nacional com nota fiscal e garantia do fabricante/varejista conforme CDC)."
-        },
-        {
-          "question": "O preço de R$ 2.850,24 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 2.850,24 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-26 08:29 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
-        },
-        {
-          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
-          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
-        },
-        {
-          "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 2.726,22 e a média é R$ 2.877,63. Considere comparar na matriz de lojas parceiras antes de fechar."
-        }
-      ]
-    },
-    "status": "expired",
-    "observedAt": "2026-11-26T08:29:11.749Z",
-    "expiredAt": "2026-11-26T21:39:21.378Z",
-    "replacementOfferId": "angeloni-739366-1554767",
-    "replacementSlug": "samsung-galaxy-a56-a57-128gb-angeloni-739366"
   },
   {
     "id": "fujioka-41105-41664",
@@ -2972,572 +1839,6 @@
     "replacementSlug": "apple-iphone-16-128gb-bemol-61574"
   },
   {
-    "id": "trocafone-72238-31886",
-    "slug": "apple-iphone-13-256gb-trocafone-72238",
-    "canonicalKey": "apple-iphone-13-256gb-recondicionado",
-    "title": "iPhone 13 256GB",
-    "brand": "Apple",
-    "storeKey": "trocafone",
-    "storeName": "Trocafone (Recondicionado)",
-    "condition": "recondicionado",
-    "isBundle": false,
-    "price": 2439,
-    "listPrice": 3489,
-    "effectivePrice": 2146.32,
-    "discountPct": 38,
-    "priceBand": "1200-2200",
-    "availableQuantity": 0,
-    "imageUrl": "https://trocafone.vteximg.com.br/arquivos/ids/295674/smpapl0029meno-p.jpg?v=639212167468770000",
-    "originalUrl": "https://www.trocafone.com.br/iphone-13-256gb/p",
-    "monetizedUrl": "https://www.trocafone.com.br/iphone-13-256gb/p",
-    "monetizedProgram": "direto-sem-tag",
-    "isDirectlyMonetized": false,
-    "comparisonLinks": [
-      {
-        "storeId": "trocafone",
-        "storeLabel": "Trocafone (Recondicionado) (Oferta Verificada)",
-        "program": "direto-sem-tag",
-        "url": "https://www.trocafone.com.br/iphone-13-256gb/p",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–8%",
-        "note": "Preço auditado: R$ 2146,32"
-      },
-      {
-        "storeId": "amazon",
-        "storeLabel": "Amazon Brasil",
-        "program": "busca-direta",
-        "url": "https://www.amazon.com.br/s?k=Apple%20iPhone%2013%20256GB",
-        "monetized": false,
-        "estimatedCommissionPct": "1%–3%",
-        "note": "Comparar preço e entrega Prime"
-      },
-      {
-        "storeId": "magalu",
-        "storeLabel": "Magalu (Parceiro)",
-        "program": "busca-direta",
-        "url": "https://www.magazineluiza.com.br/busca/Apple%20iPhone%2013%20256GB/",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–6%",
-        "note": "Retira na loja / garantia nacional"
-      },
-      {
-        "storeId": "mercadolivre",
-        "storeLabel": "Mercado Livre",
-        "program": "busca-direta",
-        "url": "https://lista.mercadolivre.com.br/apple-iphone-13-256gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Entrega Full em capitais"
-      },
-      {
-        "storeId": "shopee",
-        "storeLabel": "Shopee Lojas Oficiais",
-        "program": "busca-direta",
-        "url": "https://shopee.com.br/search?keyword=Apple%20iPhone%2013%20256GB",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–10%",
-        "note": "Cupons de plataforma e lojas oficiais"
-      },
-      {
-        "storeId": "kabum",
-        "storeLabel": "KaBuM! (via Awin)",
-        "program": "busca-direta",
-        "url": "https://www.kabum.com.br/busca/apple-iphone-13-256gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Desconto no Pix em hardware/smartphones"
-      }
-    ],
-    "specs": {
-      "canonicalModel": "Apple iPhone 13",
-      "storageGb": 256,
-      "ramGb": 4,
-      "has5g": true,
-      "hasNfc": true,
-      "screenSummary": "6,1\" OLED Super Retina XDR 60Hz",
-      "batteryMah": 3240,
-      "cameraSummary": "12MP Dupla com OIS Sensor-Shift",
-      "chipset": "Apple A15 Bionic",
-      "os": "iOS",
-      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
-      "baseTechnicalScore": 25
-    },
-    "priceStats": {
-      "minObservedPrice": 2146.32,
-      "maxObservedPrice": 2146.32,
-      "avgObservedPrice": 2146.32,
-      "observationsCount": 3,
-      "suspiciousListPrice": false,
-      "verifiedDiscountPct": 38,
-      "priceAlertLabel": "Menor preço observado no histórico"
-    },
-    "opportunityScore": 85,
-    "scoreBreakdown": {
-      "technical": 27,
-      "discount": 30,
-      "trust": 15,
-      "commercial": 13
-    },
-    "analysis": {
-      "verdict": "Excelente janela de compra: Apple iPhone 13 (256 GB) por R$ 2.146,32 atinge Score 85/100 (Menor preço observado no histórico).",
-      "idealFor": "Custo-benefício diário (multitarefa fluida, boas fotos, pagamentos NFC e longevidade de sistema)",
-      "pros": [
-        "Tela 6,1\" OLED Super Retina XDR 60Hz aliada a Apple A15 Bionic",
-        "256 GB com 4 GB de RAM e bateria de 3240 mAh",
-        "Economia expressiva em aparelho recondicionado certificado pela Trocafone (Recondicionado)",
-        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
-      ],
-      "watchout": "Aparelho recondicionado: verifique a classificação estética (Excelente/Muito Bom/Bom) e a política de bateria na página da loja antes de finalizar.",
-      "faqs": [
-        {
-          "question": "O Apple iPhone 13 vendido na Trocafone (Recondicionado) é original e homologado pela Anatel?",
-          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Trocafone (Recondicionado) no Brasil (aparelho seminovo/recondicionado revisado com garantia legal)."
-        },
-        {
-          "question": "O preço de R$ 2.146,32 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 2.146,32 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-25 08:44 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
-        },
-        {
-          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
-          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
-        },
-        {
-          "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 2.146,32 e a média é R$ 2.146,32. O preço atual está praticamente no piso histórico."
-        }
-      ]
-    },
-    "status": "expired",
-    "observedAt": "2026-11-25T08:44:40.165Z",
-    "expiredAt": "2026-11-25T21:46:00.880Z",
-    "replacementOfferId": "trocafone-74491-40720",
-    "replacementSlug": "apple-iphone-14-256gb-trocafone-74491"
-  },
-  {
-    "id": "trocafone-72233-31877",
-    "slug": "apple-iphone-13-128gb-trocafone-72233",
-    "canonicalKey": "apple-iphone-13-128gb-recondicionado",
-    "title": "iPhone 13 128GB",
-    "brand": "Apple",
-    "storeKey": "trocafone",
-    "storeName": "Trocafone (Recondicionado)",
-    "condition": "recondicionado",
-    "isBundle": false,
-    "price": 2449,
-    "listPrice": 3259,
-    "effectivePrice": 2155.12,
-    "discountPct": 34,
-    "priceBand": "1200-2200",
-    "availableQuantity": 0,
-    "imageUrl": "https://trocafone.vteximg.com.br/arquivos/ids/457613/smpapl0029azul-p.jpg?v=639162680639930000",
-    "originalUrl": "https://www.trocafone.com.br/iphone-13-128gb/p",
-    "monetizedUrl": "https://www.trocafone.com.br/iphone-13-128gb/p",
-    "monetizedProgram": "direto-sem-tag",
-    "isDirectlyMonetized": false,
-    "comparisonLinks": [
-      {
-        "storeId": "trocafone",
-        "storeLabel": "Trocafone (Recondicionado) (Oferta Verificada)",
-        "program": "direto-sem-tag",
-        "url": "https://www.trocafone.com.br/iphone-13-128gb/p",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–8%",
-        "note": "Preço auditado: R$ 2155,12"
-      },
-      {
-        "storeId": "amazon",
-        "storeLabel": "Amazon Brasil",
-        "program": "busca-direta",
-        "url": "https://www.amazon.com.br/s?k=Apple%20iPhone%2013%20128GB",
-        "monetized": false,
-        "estimatedCommissionPct": "1%–3%",
-        "note": "Comparar preço e entrega Prime"
-      },
-      {
-        "storeId": "magalu",
-        "storeLabel": "Magalu (Parceiro)",
-        "program": "busca-direta",
-        "url": "https://www.magazineluiza.com.br/busca/Apple%20iPhone%2013%20128GB/",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–6%",
-        "note": "Retira na loja / garantia nacional"
-      },
-      {
-        "storeId": "mercadolivre",
-        "storeLabel": "Mercado Livre",
-        "program": "busca-direta",
-        "url": "https://lista.mercadolivre.com.br/apple-iphone-13-128gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Entrega Full em capitais"
-      },
-      {
-        "storeId": "shopee",
-        "storeLabel": "Shopee Lojas Oficiais",
-        "program": "busca-direta",
-        "url": "https://shopee.com.br/search?keyword=Apple%20iPhone%2013%20128GB",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–10%",
-        "note": "Cupons de plataforma e lojas oficiais"
-      },
-      {
-        "storeId": "kabum",
-        "storeLabel": "KaBuM! (via Awin)",
-        "program": "busca-direta",
-        "url": "https://www.kabum.com.br/busca/apple-iphone-13-128gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Desconto no Pix em hardware/smartphones"
-      }
-    ],
-    "specs": {
-      "canonicalModel": "Apple iPhone 13",
-      "storageGb": 128,
-      "ramGb": 4,
-      "has5g": true,
-      "hasNfc": true,
-      "screenSummary": "6,1\" OLED Super Retina XDR 60Hz",
-      "batteryMah": 3240,
-      "cameraSummary": "12MP Dupla com OIS Sensor-Shift",
-      "chipset": "Apple A15 Bionic",
-      "os": "iOS",
-      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
-      "baseTechnicalScore": 23
-    },
-    "priceStats": {
-      "minObservedPrice": 2155.12,
-      "maxObservedPrice": 2155.12,
-      "avgObservedPrice": 2155.12,
-      "observationsCount": 3,
-      "suspiciousListPrice": false,
-      "verifiedDiscountPct": 34,
-      "priceAlertLabel": "Menor preço observado no histórico"
-    },
-    "opportunityScore": 83,
-    "scoreBreakdown": {
-      "technical": 25,
-      "discount": 30,
-      "trust": 15,
-      "commercial": 13
-    },
-    "analysis": {
-      "verdict": "Excelente janela de compra: Apple iPhone 13 (128 GB) por R$ 2.155,12 atinge Score 83/100 (Menor preço observado no histórico).",
-      "idealFor": "Custo-benefício diário (multitarefa fluida, boas fotos, pagamentos NFC e longevidade de sistema)",
-      "pros": [
-        "Tela 6,1\" OLED Super Retina XDR 60Hz aliada a Apple A15 Bionic",
-        "128 GB com 4 GB de RAM e bateria de 3240 mAh",
-        "Economia expressiva em aparelho recondicionado certificado pela Trocafone (Recondicionado)",
-        "Conectividade completa com 5G nacional e NFC para pagamentos por aproximação"
-      ],
-      "watchout": "Aparelho recondicionado: verifique a classificação estética (Excelente/Muito Bom/Bom) e a política de bateria na página da loja antes de finalizar.",
-      "faqs": [
-        {
-          "question": "O Apple iPhone 13 vendido na Trocafone (Recondicionado) é original e homologado pela Anatel?",
-          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Trocafone (Recondicionado) no Brasil (aparelho seminovo/recondicionado revisado com garantia legal)."
-        },
-        {
-          "question": "O preço de R$ 2.155,12 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 2.155,12 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-25 08:44 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
-        },
-        {
-          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
-          "answer": "Sim, possui suporte a redes 5G. Conta com NFC compatível com carteiras digitais (Google Wallet / Apple Pay)."
-        },
-        {
-          "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 2.155,12 e a média é R$ 2.155,12. O preço atual está praticamente no piso histórico."
-        }
-      ]
-    },
-    "status": "expired",
-    "observedAt": "2026-11-25T08:44:40.165Z",
-    "expiredAt": "2026-11-25T21:46:00.880Z",
-    "replacementOfferId": "trocafone-74491-40720",
-    "replacementSlug": "apple-iphone-14-256gb-trocafone-74491"
-  },
-  {
-    "id": "trocafone-63889-26694",
-    "slug": "apple-iphone-se-2020-256gb-256gb-trocafone-63889",
-    "canonicalKey": "apple-iphone-se-2020-256gb-256gb-recondicionado",
-    "title": "iPhone SE 2020 256GB",
-    "brand": "Apple",
-    "storeKey": "trocafone",
-    "storeName": "Trocafone (Recondicionado)",
-    "condition": "recondicionado",
-    "isBundle": false,
-    "price": 1129,
-    "listPrice": 1389,
-    "effectivePrice": 993.52,
-    "discountPct": 28,
-    "priceBand": "ate-1200",
-    "availableQuantity": 0,
-    "imageUrl": "https://trocafone.vteximg.com.br/arquivos/ids/230122/61b7bd58-se-2020-preto.png?v=637872027819530000",
-    "originalUrl": "https://www.trocafone.com.br/iphone-se-2020-256-gb/p",
-    "monetizedUrl": "https://www.trocafone.com.br/iphone-se-2020-256-gb/p",
-    "monetizedProgram": "direto-sem-tag",
-    "isDirectlyMonetized": false,
-    "comparisonLinks": [
-      {
-        "storeId": "trocafone",
-        "storeLabel": "Trocafone (Recondicionado) (Oferta Verificada)",
-        "program": "direto-sem-tag",
-        "url": "https://www.trocafone.com.br/iphone-se-2020-256-gb/p",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–8%",
-        "note": "Preço auditado: R$ 993,52"
-      },
-      {
-        "storeId": "amazon",
-        "storeLabel": "Amazon Brasil",
-        "program": "busca-direta",
-        "url": "https://www.amazon.com.br/s?k=Apple%20iPhone%20SE%202020%20256GB%20256GB",
-        "monetized": false,
-        "estimatedCommissionPct": "1%–3%",
-        "note": "Comparar preço e entrega Prime"
-      },
-      {
-        "storeId": "magalu",
-        "storeLabel": "Magalu (Parceiro)",
-        "program": "busca-direta",
-        "url": "https://www.magazineluiza.com.br/busca/Apple%20iPhone%20SE%202020%20256GB%20256GB/",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–6%",
-        "note": "Retira na loja / garantia nacional"
-      },
-      {
-        "storeId": "mercadolivre",
-        "storeLabel": "Mercado Livre",
-        "program": "busca-direta",
-        "url": "https://lista.mercadolivre.com.br/apple-iphone-se-2020-256gb-256gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Entrega Full em capitais"
-      },
-      {
-        "storeId": "shopee",
-        "storeLabel": "Shopee Lojas Oficiais",
-        "program": "busca-direta",
-        "url": "https://shopee.com.br/search?keyword=Apple%20iPhone%20SE%202020%20256GB%20256GB",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–10%",
-        "note": "Cupons de plataforma e lojas oficiais"
-      },
-      {
-        "storeId": "kabum",
-        "storeLabel": "KaBuM! (via Awin)",
-        "program": "busca-direta",
-        "url": "https://www.kabum.com.br/busca/apple-iphone-se-2020-256gb-256gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Desconto no Pix em hardware/smartphones"
-      }
-    ],
-    "specs": {
-      "canonicalModel": "Apple iPhone SE 2020 256GB",
-      "storageGb": 256,
-      "ramGb": null,
-      "has5g": false,
-      "hasNfc": false,
-      "screenSummary": "6,6\"+ Tela Full HD+",
-      "batteryMah": 3400,
-      "cameraSummary": "50MP Principal",
-      "chipset": "Apple Silicon",
-      "os": "iOS",
-      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
-      "baseTechnicalScore": 22
-    },
-    "priceStats": {
-      "minObservedPrice": 993.52,
-      "maxObservedPrice": 993.52,
-      "avgObservedPrice": 993.52,
-      "observationsCount": 3,
-      "suspiciousListPrice": false,
-      "verifiedDiscountPct": 28,
-      "priceAlertLabel": "Menor preço observado no histórico"
-    },
-    "opportunityScore": 82,
-    "scoreBreakdown": {
-      "technical": 26,
-      "discount": 30,
-      "trust": 15,
-      "commercial": 11
-    },
-    "analysis": {
-      "verdict": "Excelente janela de compra: Apple iPhone SE 2020 256GB (256 GB) por R$ 993,52 atinge Score 82/100 (Menor preço observado no histórico).",
-      "idealFor": "Uso essencial equilibrado (WhatsApp, bancos, redes sociais e chamadas com ótima autonomia de bateria)",
-      "pros": [
-        "Tela 6,6\"+ Tela Full HD+ aliada a Apple Silicon",
-        "256 GB e bateria de 3400 mAh",
-        "Economia expressiva em aparelho recondicionado certificado pela Trocafone (Recondicionado)"
-      ],
-      "watchout": "Aparelho recondicionado: verifique a classificação estética (Excelente/Muito Bom/Bom) e a política de bateria na página da loja antes de finalizar.",
-      "faqs": [
-        {
-          "question": "O Apple iPhone SE 2020 256GB vendido na Trocafone (Recondicionado) é original e homologado pela Anatel?",
-          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Trocafone (Recondicionado) no Brasil (aparelho seminovo/recondicionado revisado com garantia legal)."
-        },
-        {
-          "question": "O preço de R$ 993,52 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 993,52 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-25 08:44 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
-        },
-        {
-          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
-          "answer": "Este modelo específico opera em 4G/LTE. Não possui NFC confirmado nesta ficha; confira as especificações da loja caso use pagamento por aproximação."
-        },
-        {
-          "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 993,52 e a média é R$ 993,52. O preço atual está praticamente no piso histórico."
-        }
-      ]
-    },
-    "status": "expired",
-    "observedAt": "2026-11-25T08:44:40.165Z",
-    "expiredAt": "2026-11-25T21:46:00.880Z",
-    "replacementOfferId": "trocafone-63851-25867",
-    "replacementSlug": "apple-iphone-11-64gb-64gb-trocafone-63851"
-  },
-  {
-    "id": "trocafone-63895-26813",
-    "slug": "apple-iphone-xr-64gb-64gb-trocafone-63895",
-    "canonicalKey": "apple-iphone-xr-64gb-64gb-recondicionado",
-    "title": "iPhone XR 64GB",
-    "brand": "Apple",
-    "storeKey": "trocafone",
-    "storeName": "Trocafone (Recondicionado)",
-    "condition": "recondicionado",
-    "isBundle": false,
-    "price": 909,
-    "listPrice": 1359,
-    "effectivePrice": 799.92,
-    "discountPct": 41,
-    "priceBand": "ate-1200",
-    "availableQuantity": 0,
-    "imageUrl": "https://trocafone.vteximg.com.br/arquivos/ids/332448/smpapl0059pret-p.jpg?v=638884469570570000",
-    "originalUrl": "https://www.trocafone.com.br/iphone-xr-64gb/p",
-    "monetizedUrl": "https://www.trocafone.com.br/iphone-xr-64gb/p",
-    "monetizedProgram": "direto-sem-tag",
-    "isDirectlyMonetized": false,
-    "comparisonLinks": [
-      {
-        "storeId": "trocafone",
-        "storeLabel": "Trocafone (Recondicionado) (Oferta Verificada)",
-        "program": "direto-sem-tag",
-        "url": "https://www.trocafone.com.br/iphone-xr-64gb/p",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–8%",
-        "note": "Preço auditado: R$ 799,92"
-      },
-      {
-        "storeId": "amazon",
-        "storeLabel": "Amazon Brasil",
-        "program": "busca-direta",
-        "url": "https://www.amazon.com.br/s?k=Apple%20iPhone%20XR%2064GB%2064GB",
-        "monetized": false,
-        "estimatedCommissionPct": "1%–3%",
-        "note": "Comparar preço e entrega Prime"
-      },
-      {
-        "storeId": "magalu",
-        "storeLabel": "Magalu (Parceiro)",
-        "program": "busca-direta",
-        "url": "https://www.magazineluiza.com.br/busca/Apple%20iPhone%20XR%2064GB%2064GB/",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–6%",
-        "note": "Retira na loja / garantia nacional"
-      },
-      {
-        "storeId": "mercadolivre",
-        "storeLabel": "Mercado Livre",
-        "program": "busca-direta",
-        "url": "https://lista.mercadolivre.com.br/apple-iphone-xr-64gb-64gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Entrega Full em capitais"
-      },
-      {
-        "storeId": "shopee",
-        "storeLabel": "Shopee Lojas Oficiais",
-        "program": "busca-direta",
-        "url": "https://shopee.com.br/search?keyword=Apple%20iPhone%20XR%2064GB%2064GB",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–10%",
-        "note": "Cupons de plataforma e lojas oficiais"
-      },
-      {
-        "storeId": "kabum",
-        "storeLabel": "KaBuM! (via Awin)",
-        "program": "busca-direta",
-        "url": "https://www.kabum.com.br/busca/apple-iphone-xr-64gb-64gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Desconto no Pix em hardware/smartphones"
-      }
-    ],
-    "specs": {
-      "canonicalModel": "Apple iPhone XR 64GB",
-      "storageGb": 64,
-      "ramGb": null,
-      "has5g": false,
-      "hasNfc": false,
-      "screenSummary": "6,6\"+ Tela Full HD+",
-      "batteryMah": 3400,
-      "cameraSummary": "50MP Principal",
-      "chipset": "Apple Silicon",
-      "os": "iOS",
-      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
-      "baseTechnicalScore": 20
-    },
-    "priceStats": {
-      "minObservedPrice": 799.92,
-      "maxObservedPrice": 799.92,
-      "avgObservedPrice": 799.92,
-      "observationsCount": 3,
-      "suspiciousListPrice": false,
-      "verifiedDiscountPct": 41,
-      "priceAlertLabel": "Menor preço observado no histórico"
-    },
-    "opportunityScore": 80,
-    "scoreBreakdown": {
-      "technical": 24,
-      "discount": 30,
-      "trust": 15,
-      "commercial": 11
-    },
-    "analysis": {
-      "verdict": "Excelente janela de compra: Apple iPhone XR 64GB (64 GB) por R$ 799,92 atinge Score 80/100 (Menor preço observado no histórico).",
-      "idealFor": "Uso essencial equilibrado (WhatsApp, bancos, redes sociais e chamadas com ótima autonomia de bateria)",
-      "pros": [
-        "Tela 6,6\"+ Tela Full HD+ aliada a Apple Silicon",
-        "64 GB e bateria de 3400 mAh",
-        "Economia expressiva em aparelho recondicionado certificado pela Trocafone (Recondicionado)"
-      ],
-      "watchout": "Aparelho recondicionado: verifique a classificação estética (Excelente/Muito Bom/Bom) e a política de bateria na página da loja antes de finalizar.",
-      "faqs": [
-        {
-          "question": "O Apple iPhone XR 64GB vendido na Trocafone (Recondicionado) é original e homologado pela Anatel?",
-          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Trocafone (Recondicionado) no Brasil (aparelho seminovo/recondicionado revisado com garantia legal)."
-        },
-        {
-          "question": "O preço de R$ 799,92 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 799,92 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-25 08:44 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
-        },
-        {
-          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
-          "answer": "Este modelo específico opera em 4G/LTE. Não possui NFC confirmado nesta ficha; confira as especificações da loja caso use pagamento por aproximação."
-        },
-        {
-          "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 799,92 e a média é R$ 799,92. O preço atual está praticamente no piso histórico."
-        }
-      ]
-    },
-    "status": "expired",
-    "observedAt": "2026-11-25T08:44:40.165Z",
-    "expiredAt": "2026-11-25T21:46:00.880Z",
-    "replacementOfferId": "trocafone-63851-25867",
-    "replacementSlug": "apple-iphone-11-64gb-64gb-trocafone-63851"
-  },
-  {
     "id": "bemol-137872-137872",
     "slug": "samsung-galaxy-a06-a07-256gb-bemol-137872",
     "canonicalKey": "samsung-galaxy-a06-a07-256gb-novo",
@@ -3675,8 +1976,8 @@
     "status": "expired",
     "observedAt": "2026-11-25T08:44:40.165Z",
     "expiredAt": "2026-11-25T21:46:00.880Z",
-    "replacementOfferId": "angeloni-739026-1554436",
-    "replacementSlug": "samsung-galaxy-a06-a07-128gb-angeloni-739026"
+    "replacementOfferId": "bemol-137873-137873",
+    "replacementSlug": "samsung-galaxy-a06-a07-256gb-bemol-137873"
   },
   {
     "id": "angeloni-696781-1513669",
@@ -3818,147 +2119,6 @@
     "expiredAt": "2026-11-25T21:46:00.880Z",
     "replacementOfferId": "angeloni-728375-1543895",
     "replacementSlug": "samsung-galaxy-a16-a17-128gb-angeloni-728375"
-  },
-  {
-    "id": "trocafone-63860-26084",
-    "slug": "apple-iphone-12-64gb-64gb-trocafone-63860",
-    "canonicalKey": "apple-iphone-12-64gb-64gb-recondicionado",
-    "title": "iPhone 12 64GB",
-    "brand": "Apple",
-    "storeKey": "trocafone",
-    "storeName": "Trocafone (Recondicionado)",
-    "condition": "recondicionado",
-    "isBundle": false,
-    "price": 1539,
-    "listPrice": 1889,
-    "effectivePrice": 1354.32,
-    "discountPct": 28,
-    "priceBand": "1200-2200",
-    "availableQuantity": 0,
-    "imageUrl": "https://trocafone.vteximg.com.br/arquivos/ids/329732/smpapl0025pret-p.jpg?v=638884473388300000",
-    "originalUrl": "https://www.trocafone.com.br/iphone-12-64gb/p",
-    "monetizedUrl": "https://www.trocafone.com.br/iphone-12-64gb/p",
-    "monetizedProgram": "direto-sem-tag",
-    "isDirectlyMonetized": false,
-    "comparisonLinks": [
-      {
-        "storeId": "trocafone",
-        "storeLabel": "Trocafone (Recondicionado) (Oferta Verificada)",
-        "program": "direto-sem-tag",
-        "url": "https://www.trocafone.com.br/iphone-12-64gb/p",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–8%",
-        "note": "Preço auditado: R$ 1354,32"
-      },
-      {
-        "storeId": "amazon",
-        "storeLabel": "Amazon Brasil",
-        "program": "busca-direta",
-        "url": "https://www.amazon.com.br/s?k=Apple%20iPhone%2012%2064GB%2064GB",
-        "monetized": false,
-        "estimatedCommissionPct": "1%–3%",
-        "note": "Comparar preço e entrega Prime"
-      },
-      {
-        "storeId": "magalu",
-        "storeLabel": "Magalu (Parceiro)",
-        "program": "busca-direta",
-        "url": "https://www.magazineluiza.com.br/busca/Apple%20iPhone%2012%2064GB%2064GB/",
-        "monetized": false,
-        "estimatedCommissionPct": "4%–6%",
-        "note": "Retira na loja / garantia nacional"
-      },
-      {
-        "storeId": "mercadolivre",
-        "storeLabel": "Mercado Livre",
-        "program": "busca-direta",
-        "url": "https://lista.mercadolivre.com.br/apple-iphone-12-64gb-64gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Entrega Full em capitais"
-      },
-      {
-        "storeId": "shopee",
-        "storeLabel": "Shopee Lojas Oficiais",
-        "program": "busca-direta",
-        "url": "https://shopee.com.br/search?keyword=Apple%20iPhone%2012%2064GB%2064GB",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–10%",
-        "note": "Cupons de plataforma e lojas oficiais"
-      },
-      {
-        "storeId": "kabum",
-        "storeLabel": "KaBuM! (via Awin)",
-        "program": "busca-direta",
-        "url": "https://www.kabum.com.br/busca/apple-iphone-12-64gb-64gb",
-        "monetized": false,
-        "estimatedCommissionPct": "2%–4%",
-        "note": "Desconto no Pix em hardware/smartphones"
-      }
-    ],
-    "specs": {
-      "canonicalModel": "Apple iPhone 12 64GB",
-      "storageGb": 64,
-      "ramGb": null,
-      "has5g": false,
-      "hasNfc": false,
-      "screenSummary": "6,6\"+ Tela Full HD+",
-      "batteryMah": 3400,
-      "cameraSummary": "50MP Principal",
-      "chipset": "Apple Silicon",
-      "os": "iOS",
-      "anatelNote": "Loja nacional oficial sujeita às normas de homologação Anatel e garantia legal CDC.",
-      "baseTechnicalScore": 20
-    },
-    "priceStats": {
-      "minObservedPrice": 1354.32,
-      "maxObservedPrice": 1354.32,
-      "avgObservedPrice": 1354.32,
-      "observationsCount": 3,
-      "suspiciousListPrice": false,
-      "verifiedDiscountPct": 28,
-      "priceAlertLabel": "Menor preço observado no histórico"
-    },
-    "opportunityScore": 80,
-    "scoreBreakdown": {
-      "technical": 24,
-      "discount": 30,
-      "trust": 15,
-      "commercial": 11
-    },
-    "analysis": {
-      "verdict": "Excelente janela de compra: Apple iPhone 12 64GB (64 GB) por R$ 1.354,32 atinge Score 80/100 (Menor preço observado no histórico).",
-      "idealFor": "Custo-benefício diário (multitarefa fluida, boas fotos, pagamentos NFC e longevidade de sistema)",
-      "pros": [
-        "Tela 6,6\"+ Tela Full HD+ aliada a Apple Silicon",
-        "64 GB e bateria de 3400 mAh",
-        "Economia expressiva em aparelho recondicionado certificado pela Trocafone (Recondicionado)"
-      ],
-      "watchout": "Aparelho recondicionado: verifique a classificação estética (Excelente/Muito Bom/Bom) e a política de bateria na página da loja antes de finalizar.",
-      "faqs": [
-        {
-          "question": "O Apple iPhone 12 64GB vendido na Trocafone (Recondicionado) é original e homologado pela Anatel?",
-          "answer": "Sim. A oferta é coletada diretamente do catálogo oficial da Trocafone (Recondicionado) no Brasil (aparelho seminovo/recondicionado revisado com garantia legal)."
-        },
-        {
-          "question": "O preço de R$ 1.354,32 já está atualizado e pode mudar?",
-          "answer": "O valor R$ 1.354,32 foi verificado no snapshot mais recente do RadarSmart BR (2026-11-25 08:44 UTC). Lojas alteram estoques e condições Pix/parcelado sem aviso prévio; sempre confira o valor final no carrinho."
-        },
-        {
-          "question": "Este modelo tem 5G e NFC para pagamento por aproximação?",
-          "answer": "Este modelo específico opera em 4G/LTE. Não possui NFC confirmado nesta ficha; confira as especificações da loja caso use pagamento por aproximação."
-        },
-        {
-          "question": "Vale a pena comprar agora ou esperar baixar mais?",
-          "answer": "No nosso histórico, o menor valor observado foi R$ 1.354,32 e a média é R$ 1.354,32. O preço atual está praticamente no piso histórico."
-        }
-      ]
-    },
-    "status": "expired",
-    "observedAt": "2026-11-25T08:44:40.165Z",
-    "expiredAt": "2026-11-25T21:46:00.880Z",
-    "replacementOfferId": "trocafone-63851-25867",
-    "replacementSlug": "apple-iphone-11-64gb-64gb-trocafone-63851"
   },
   {
     "id": "angeloni-739658-1555058",
@@ -4239,8 +2399,8 @@
     "status": "expired",
     "observedAt": "2026-11-25T08:44:40.165Z",
     "expiredAt": "2026-11-25T21:46:00.880Z",
-    "replacementOfferId": "trocafone-63851-25867",
-    "replacementSlug": "apple-iphone-11-64gb-64gb-trocafone-63851"
+    "replacementOfferId": "trocafone-63889-26694",
+    "replacementSlug": "apple-iphone-se-2020-256gb-256gb-trocafone-63889"
   },
   {
     "id": "angeloni-739659-1555059",
@@ -5371,8 +3531,8 @@
     "status": "expired",
     "observedAt": "2026-11-24T10:04:59.359Z",
     "expiredAt": "2026-11-24T22:31:59.091Z",
-    "replacementOfferId": "fastshop-197998-208716",
-    "replacementSlug": "samsung-galaxy-a06-a07-128gb-fastshop-197998"
+    "replacementOfferId": "bemol-137166-137167",
+    "replacementSlug": "samsung-galaxy-a06-a07-128gb-bemol-137166"
   },
   {
     "id": "trocafone-99609-78215",
@@ -5655,8 +3815,8 @@
     "status": "expired",
     "observedAt": "2026-11-23T23:46:21.222Z",
     "expiredAt": "2026-11-24T10:04:59.359Z",
-    "replacementOfferId": "angeloni-739655-1555055",
-    "replacementSlug": "samsung-galaxy-s26-256gb-angeloni-739655"
+    "replacementOfferId": "bemol-185601-185586",
+    "replacementSlug": "samsung-galaxy-s26-256gb-bemol-185601"
   },
   {
     "id": "trocafone-100849-80259",
@@ -5938,7 +4098,7 @@
     "status": "expired",
     "observedAt": "2026-11-23T23:46:21.222Z",
     "expiredAt": "2026-11-24T10:04:59.359Z",
-    "replacementOfferId": "angeloni-728375-1543895",
-    "replacementSlug": "samsung-galaxy-a16-a17-128gb-angeloni-728375"
+    "replacementOfferId": "bemol-137873-137873",
+    "replacementSlug": "samsung-galaxy-a06-a07-256gb-bemol-137873"
   }
 ]

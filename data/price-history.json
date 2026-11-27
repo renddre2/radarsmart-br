@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T21:39:21.378Z",
+  "updatedAt": "2026-11-27T08:43:02.182Z",
   "records": {
     "motorola-edge-pro-5g-256gb-novo": {
       "canonicalKey": "motorola-edge-pro-5g-256gb-novo",
@@ -7,8 +7,8 @@
       "minObservedPrice": 3149.1,
       "maxObservedPrice": 3149.1,
       "avgObservedPrice": 3149.1,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -30,6 +30,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 3149.1,
+          "listPrice": 3776.67,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
           "price": 3149.1,
           "listPrice": 3776.67,
           "storeKey": "motorola"
@@ -42,8 +48,8 @@
       "minObservedPrice": 2949,
       "maxObservedPrice": 3599,
       "avgObservedPrice": 3282.33,
-      "observationsCount": 21,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 24,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -170,6 +176,24 @@
           "price": 3599,
           "listPrice": 3599,
           "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 3299,
+          "listPrice": 3665.56,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 2949,
+          "listPrice": 3459,
+          "storeKey": "fastshop"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 3599,
+          "listPrice": 3599,
+          "storeKey": "bemol"
         }
       ]
     },
@@ -178,9 +202,9 @@
       "canonicalModel": "Motorola Moto G Entrada",
       "minObservedPrice": 799,
       "maxObservedPrice": 1021.62,
-      "avgObservedPrice": 900.19,
-      "observationsCount": 28,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 903.54,
+      "observationsCount": 32,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -349,6 +373,30 @@
           "price": 1021.62,
           "listPrice": 1021.62,
           "storeKey": "angeloni"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 799,
+          "listPrice": 998.89,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 968.11,
+          "listPrice": 1029.9,
+          "storeKey": "fastshop"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 919,
+          "listPrice": 919,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1021.62,
+          "listPrice": 1021.62,
+          "storeKey": "angeloni"
         }
       ]
     },
@@ -357,9 +405,9 @@
       "canonicalModel": "Motorola Edge Fusion 5G",
       "minObservedPrice": 1999,
       "maxObservedPrice": 2199,
-      "avgObservedPrice": 2079,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 2065.67,
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -387,6 +435,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 1999,
+          "listPrice": 2998.89,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
           "price": 1999,
           "listPrice": 2998.89,
           "storeKey": "motorola"
@@ -399,8 +453,8 @@
       "minObservedPrice": 4679.1,
       "maxObservedPrice": 4679.1,
       "avgObservedPrice": 4679.1,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -422,6 +476,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 4679.1,
+          "listPrice": 6998,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
           "price": 4679.1,
           "listPrice": 6998,
           "storeKey": "motorola"
@@ -434,8 +494,8 @@
       "minObservedPrice": 3869.1,
       "maxObservedPrice": 3869.1,
       "avgObservedPrice": 3869.1,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -457,6 +517,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 3869.1,
+          "listPrice": 4999,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
           "price": 3869.1,
           "listPrice": 4999,
           "storeKey": "motorola"
@@ -469,8 +535,8 @@
       "minObservedPrice": 4499.1,
       "maxObservedPrice": 4499.1,
       "avgObservedPrice": 4499.1,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -492,6 +558,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 4499.1,
+          "listPrice": 11999,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
           "price": 4499.1,
           "listPrice": 11999,
           "storeKey": "motorola"
@@ -504,8 +576,8 @@
       "minObservedPrice": 2249.1,
       "maxObservedPrice": 2249.1,
       "avgObservedPrice": 2249.1,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -527,6 +599,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 2249.1,
+          "listPrice": 3299,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
           "price": 2249.1,
           "listPrice": 3299,
           "storeKey": "motorola"
@@ -536,11 +614,11 @@
     "motorola-moto-g75-g77-g86-5g-512gb-novo": {
       "canonicalKey": "motorola-moto-g75-g77-g86-5g-512gb-novo",
       "canonicalModel": "Motorola Moto G75/G77/G86 5G",
-      "minObservedPrice": 2399,
+      "minObservedPrice": 2069.1,
       "maxObservedPrice": 2399,
-      "avgObservedPrice": 2399,
-      "observationsCount": 6,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 2333.02,
+      "observationsCount": 7,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -563,6 +641,12 @@
         {
           "date": "2026-11-26",
           "price": 2399,
+          "listPrice": 2665.56,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 2069.1,
           "listPrice": 2665.56,
           "storeKey": "motorola"
         }
@@ -574,8 +658,8 @@
       "minObservedPrice": 599,
       "maxObservedPrice": 599,
       "avgObservedPrice": 599,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -600,17 +684,23 @@
           "price": 599,
           "listPrice": 776.67,
           "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 599,
+          "listPrice": 776.67,
+          "storeKey": "motorola"
         }
       ]
     },
     "motorola-moto-g-entrada-256gb-novo": {
       "canonicalKey": "motorola-moto-g-entrada-256gb-novo",
       "canonicalModel": "Motorola Moto G Entrada",
-      "minObservedPrice": 1079,
+      "minObservedPrice": 1039.84,
       "maxObservedPrice": 1299,
-      "avgObservedPrice": 1144.59,
-      "observationsCount": 28,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 1141.74,
+      "observationsCount": 32,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -779,6 +869,30 @@
           "price": 1089.35,
           "listPrice": 1463.9,
           "storeKey": "angeloni"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1079,
+          "listPrice": 1199,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1069.2,
+          "listPrice": 1526.56,
+          "storeKey": "fastshop"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1299,
+          "listPrice": 1299,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1039.84,
+          "listPrice": 1463.9,
+          "storeKey": "angeloni"
         }
       ]
     },
@@ -787,9 +901,9 @@
       "canonicalModel": "Motorola Moto G 5G",
       "minObservedPrice": 1199,
       "maxObservedPrice": 1649,
-      "avgObservedPrice": 1507.03,
-      "observationsCount": 28,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 1506.19,
+      "observationsCount": 32,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -958,17 +1072,41 @@
           "price": 1405.05,
           "listPrice": 1599,
           "storeKey": "angeloni"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1499,
+          "listPrice": 1665.56,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1447.92,
+          "listPrice": 1859.54,
+          "storeKey": "fastshop"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1649,
+          "listPrice": 1649,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1405.05,
+          "listPrice": 1599,
+          "storeKey": "angeloni"
         }
       ]
     },
     "motorola-moto-g75-g77-g86-5g-256gb-novo": {
       "canonicalKey": "motorola-moto-g75-g77-g86-5g-256gb-novo",
       "canonicalModel": "Motorola Moto G75/G77/G86 5G",
-      "minObservedPrice": 1999,
+      "minObservedPrice": 1799.1,
       "maxObservedPrice": 2199,
-      "avgObservedPrice": 2116.55,
-      "observationsCount": 23,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 2102.47,
+      "observationsCount": 27,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -1107,6 +1245,30 @@
           "price": 2116.31,
           "listPrice": 2843.9,
           "storeKey": "angeloni"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1799.1,
+          "listPrice": 2221.11,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 2067.91,
+          "listPrice": 2199.9,
+          "storeKey": "fastshop"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 2199,
+          "listPrice": 2199,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 2020.12,
+          "listPrice": 2843.9,
+          "storeKey": "angeloni"
         }
       ]
     },
@@ -1116,8 +1278,8 @@
       "minObservedPrice": 2499,
       "maxObservedPrice": 2499,
       "avgObservedPrice": 2499,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -1139,6 +1301,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 2499,
+          "listPrice": 2776.67,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
           "price": 2499,
           "listPrice": 2776.67,
           "storeKey": "motorola"
@@ -1151,8 +1319,8 @@
       "minObservedPrice": 989.1,
       "maxObservedPrice": 1399,
       "avgObservedPrice": 1171.72,
-      "observationsCount": 21,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 24,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -1276,6 +1444,24 @@
         },
         {
           "date": "2026-11-26",
+          "price": 1399,
+          "listPrice": 1399,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 989.1,
+          "listPrice": 1199,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1127.06,
+          "listPrice": 1399,
+          "storeKey": "fastshop"
+        },
+        {
+          "date": "2026-11-27",
           "price": 1399,
           "listPrice": 1399,
           "storeKey": "bemol"
@@ -1288,8 +1474,8 @@
       "minObservedPrice": 899.1,
       "maxObservedPrice": 899.1,
       "avgObservedPrice": 899.1,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -1311,6 +1497,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 899.1,
+          "listPrice": 999,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
           "price": 899.1,
           "listPrice": 999,
           "storeKey": "motorola"
@@ -1323,8 +1515,8 @@
       "minObservedPrice": 3149.1,
       "maxObservedPrice": 4499,
       "avgObservedPrice": 3824.05,
-      "observationsCount": 14,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 16,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -1406,6 +1598,18 @@
         },
         {
           "date": "2026-11-26",
+          "price": 4499,
+          "listPrice": 4499,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 3149.1,
+          "listPrice": 4998.89,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
           "price": 4499,
           "listPrice": 4499,
           "storeKey": "bemol"
@@ -1418,8 +1622,8 @@
       "minObservedPrice": 2699.1,
       "maxObservedPrice": 2699.1,
       "avgObservedPrice": 2699.1,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -1444,6 +1648,12 @@
           "price": 2699.1,
           "listPrice": 4199,
           "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 2699.1,
+          "listPrice": 4199,
+          "storeKey": "motorola"
         }
       ]
     },
@@ -1452,9 +1662,9 @@
       "canonicalModel": "Samsung Galaxy A06/A07",
       "minObservedPrice": 799,
       "maxObservedPrice": 956,
-      "avgObservedPrice": 884.73,
-      "observationsCount": 20,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 879.33,
+      "observationsCount": 23,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -1575,6 +1785,24 @@
           "price": 884.9,
           "listPrice": 1081.9,
           "storeKey": "angeloni"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 845.91,
+          "listPrice": 999.9,
+          "storeKey": "fastshop"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 799,
+          "listPrice": 956,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 884.9,
+          "listPrice": 1081.9,
+          "storeKey": "angeloni"
         }
       ]
     },
@@ -1583,9 +1811,9 @@
       "canonicalModel": "Samsung Galaxy A26/A27 5G",
       "minObservedPrice": 1804.05,
       "maxObservedPrice": 2301.28,
-      "avgObservedPrice": 2093.35,
-      "observationsCount": 14,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 2088.26,
+      "observationsCount": 16,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -1670,6 +1898,18 @@
           "price": 1804.05,
           "listPrice": 2499,
           "storeKey": "angeloni"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 2301.28,
+          "listPrice": 2556.98,
+          "storeKey": "fastshop"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1804.05,
+          "listPrice": 2499,
+          "storeKey": "angeloni"
         }
       ]
     },
@@ -1678,9 +1918,9 @@
       "canonicalModel": "Samsung Galaxy A16/A17",
       "minObservedPrice": 1149.9,
       "maxObservedPrice": 2184.88,
-      "avgObservedPrice": 1792.72,
-      "observationsCount": 19,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 1759.46,
+      "observationsCount": 22,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -1795,6 +2035,24 @@
           "price": 1149.9,
           "listPrice": 1589.82,
           "storeKey": "angeloni"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1897.43,
+          "listPrice": 1897.43,
+          "storeKey": "fastshop"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1599,
+          "listPrice": 1799,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1149.9,
+          "listPrice": 1589.82,
+          "storeKey": "angeloni"
         }
       ]
     },
@@ -1803,9 +2061,9 @@
       "canonicalModel": "Samsung Galaxy S26",
       "minObservedPrice": 4199,
       "maxObservedPrice": 6140.24,
-      "avgObservedPrice": 5139.97,
-      "observationsCount": 26,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 5105.84,
+      "observationsCount": 30,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -1962,17 +2220,41 @@
           "price": 4638.37,
           "listPrice": 9184.88,
           "storeKey": "angeloni"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 6009.6,
+          "listPrice": 6532.17,
+          "storeKey": "fastshop"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 4689,
+          "listPrice": 5499,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 4199,
+          "listPrice": 4368,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 4638.37,
+          "listPrice": 9184.88,
+          "storeKey": "angeloni"
         }
       ]
     },
     "samsung-galaxy-a36-a37-5g-128gb-novo": {
       "canonicalKey": "samsung-galaxy-a36-a37-5g-128gb-novo",
       "canonicalModel": "Samsung Galaxy A36/A37 5G",
-      "minObservedPrice": 2237.22,
+      "minObservedPrice": 2213.16,
       "maxObservedPrice": 3819.11,
-      "avgObservedPrice": 3128.09,
-      "observationsCount": 14,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 3103.24,
+      "observationsCount": 16,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2057,6 +2339,18 @@
           "price": 3645.52,
           "listPrice": 4339.9,
           "storeKey": "angeloni"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 2213.16,
+          "listPrice": 2740.49,
+          "storeKey": "fastshop"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 3645.52,
+          "listPrice": 4339.9,
+          "storeKey": "angeloni"
         }
       ]
     },
@@ -2065,9 +2359,9 @@
       "canonicalModel": "Samsung Galaxy A56/A57",
       "minObservedPrice": 1939.9,
       "maxObservedPrice": 3799,
-      "avgObservedPrice": 2866.44,
-      "observationsCount": 15,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 2816.21,
+      "observationsCount": 17,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2158,6 +2452,18 @@
           "price": 1939.9,
           "listPrice": 2726.22,
           "storeKey": "angeloni"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 2938.95,
+          "listPrice": 3002.97,
+          "storeKey": "fastshop"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1939.9,
+          "listPrice": 2726.22,
+          "storeKey": "angeloni"
         }
       ]
     },
@@ -2166,9 +2472,9 @@
       "canonicalModel": "Samsung Galaxy S26 Ultra",
       "minObservedPrice": 8999,
       "maxObservedPrice": 11513.91,
-      "avgObservedPrice": 11017.8,
-      "observationsCount": 13,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 10899.95,
+      "observationsCount": 15,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2247,17 +2553,29 @@
           "price": 11513.91,
           "listPrice": 13099,
           "storeKey": "fastshop"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 11268.93,
+          "listPrice": 13099,
+          "storeKey": "fastshop"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 8999,
+          "listPrice": 11159,
+          "storeKey": "bemol"
         }
       ]
     },
     "samsung-galaxy-s26-ultra-256gb-novo": {
       "canonicalKey": "samsung-galaxy-s26-ultra-256gb-novo",
       "canonicalModel": "Samsung Galaxy S26 Ultra",
-      "minObservedPrice": 8991.57,
+      "minObservedPrice": 8800.26,
       "maxObservedPrice": 8991.57,
-      "avgObservedPrice": 8991.57,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 8953.31,
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2280,6 +2598,12 @@
         {
           "date": "2026-11-26",
           "price": 8991.57,
+          "listPrice": 10554.45,
+          "storeKey": "fastshop"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 8800.26,
           "listPrice": 10554.45,
           "storeKey": "fastshop"
         }
@@ -2290,9 +2614,9 @@
       "canonicalModel": "Samsung Galaxy A06/A07",
       "minObservedPrice": 899,
       "maxObservedPrice": 997.78,
-      "avgObservedPrice": 918.76,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T08:29:11.749Z",
+      "avgObservedPrice": 915.46,
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2320,6 +2644,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 899,
+          "listPrice": 1382,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
           "price": 899,
           "listPrice": 1382,
           "storeKey": "bemol"
@@ -2355,8 +2685,8 @@
       "minObservedPrice": 10800,
       "maxObservedPrice": 10800,
       "avgObservedPrice": 10800,
-      "observationsCount": 6,
-      "lastObservedAt": "2026-11-26T08:29:11.749Z",
+      "observationsCount": 7,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2378,6 +2708,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 10800,
+          "listPrice": 12999,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
           "price": 10800,
           "listPrice": 12999,
           "storeKey": "bemol"
@@ -2389,9 +2725,9 @@
       "canonicalModel": "Samsung Galaxy S26",
       "minObservedPrice": 5999,
       "maxObservedPrice": 7969,
-      "avgObservedPrice": 7181,
-      "observationsCount": 6,
-      "lastObservedAt": "2026-11-26T08:29:11.749Z",
+      "avgObservedPrice": 6984,
+      "observationsCount": 7,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2422,6 +2758,12 @@
           "price": 5999,
           "listPrice": 7969,
           "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 5999,
+          "listPrice": 7969,
+          "storeKey": "bemol"
         }
       ]
     },
@@ -2430,9 +2772,9 @@
       "canonicalModel": "Samsung Galaxy A16/A17",
       "minObservedPrice": 949.05,
       "maxObservedPrice": 1199,
-      "avgObservedPrice": 1054.02,
-      "observationsCount": 13,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 1039.74,
+      "observationsCount": 15,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2505,6 +2847,18 @@
           "price": 949.05,
           "listPrice": 1499,
           "storeKey": "angeloni"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 959,
+          "listPrice": 1199,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 949.05,
+          "listPrice": 1499,
+          "storeKey": "angeloni"
         }
       ]
     },
@@ -2514,8 +2868,8 @@
       "minObservedPrice": 5999,
       "maxObservedPrice": 5999,
       "avgObservedPrice": 5999,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2537,6 +2891,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 5999,
+          "listPrice": 5999,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
           "price": 5999,
           "listPrice": 5999,
           "storeKey": "bemol"
@@ -2549,8 +2909,8 @@
       "minObservedPrice": 4749,
       "maxObservedPrice": 4749,
       "avgObservedPrice": 4749,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2572,6 +2932,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 4749,
+          "listPrice": 5499,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
           "price": 4749,
           "listPrice": 5499,
           "storeKey": "bemol"
@@ -2618,9 +2984,9 @@
       "canonicalModel": "Apple iPhone Pro (Nova Geração)",
       "minObservedPrice": 10799,
       "maxObservedPrice": 11999,
-      "avgObservedPrice": 11279,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 11199,
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2648,6 +3014,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 10799,
+          "listPrice": 11999,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
           "price": 10799,
           "listPrice": 11999,
           "storeKey": "bemol"
@@ -2659,9 +3031,9 @@
       "canonicalModel": "Apple iPhone Pro Max (Nova Geração)",
       "minObservedPrice": 12799,
       "maxObservedPrice": 14499,
-      "avgObservedPrice": 13649,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 13479,
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2683,6 +3055,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 12799,
+          "listPrice": 14499,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
           "price": 12799,
           "listPrice": 14499,
           "storeKey": "bemol"
@@ -2694,9 +3072,9 @@
       "canonicalModel": "Apple iPhone Pro Max (Nova Geração)",
       "minObservedPrice": 11499,
       "maxObservedPrice": 12999,
-      "avgObservedPrice": 12249,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 12099,
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2721,6 +3099,12 @@
           "price": 11499,
           "listPrice": 12999,
           "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 11499,
+          "listPrice": 12999,
+          "storeKey": "bemol"
         }
       ]
     },
@@ -2729,9 +3113,9 @@
       "canonicalModel": "Apple iPhone 16e",
       "minObservedPrice": 3599,
       "maxObservedPrice": 3999,
-      "avgObservedPrice": 3865.67,
-      "observationsCount": 4,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 3799,
+      "observationsCount": 5,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2750,6 +3134,12 @@
           "price": 3599,
           "listPrice": 3999,
           "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 3599,
+          "listPrice": 3999,
+          "storeKey": "bemol"
         }
       ]
     },
@@ -2759,8 +3149,8 @@
       "minObservedPrice": 2159,
       "maxObservedPrice": 2159,
       "avgObservedPrice": 2159,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2782,6 +3172,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 2159,
+          "listPrice": 2399,
+          "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
           "price": 2159,
           "listPrice": 2399,
           "storeKey": "bemol"
@@ -2794,8 +3190,8 @@
       "minObservedPrice": 9000,
       "maxObservedPrice": 9000,
       "avgObservedPrice": 9000,
-      "observationsCount": 5,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 6,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2820,6 +3216,12 @@
           "price": 9000,
           "listPrice": 9999,
           "storeKey": "bemol"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 9000,
+          "listPrice": 9999,
+          "storeKey": "bemol"
         }
       ]
     },
@@ -2828,9 +3230,9 @@
       "canonicalModel": "Samsung Galaxy A56/A57",
       "minObservedPrice": 2619,
       "maxObservedPrice": 2777.91,
-      "avgObservedPrice": 2683.34,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 2681.66,
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2861,6 +3263,12 @@
           "price": 2673.26,
           "listPrice": 6045.35,
           "storeKey": "angeloni"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 2673.26,
+          "listPrice": 6045.35,
+          "storeKey": "angeloni"
         }
       ]
     },
@@ -2869,9 +3277,9 @@
       "canonicalModel": "Samsung Galaxy A36/A37 5G",
       "minObservedPrice": 1749,
       "maxObservedPrice": 2938.95,
-      "avgObservedPrice": 2020.86,
-      "observationsCount": 8,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 2086.03,
+      "observationsCount": 10,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -2908,6 +3316,18 @@
           "price": 1859.3,
           "listPrice": 5347.67,
           "storeKey": "angeloni"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 2703.83,
+          "listPrice": 2938.95,
+          "storeKey": "fastshop"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1859.3,
+          "listPrice": 5347.67,
+          "storeKey": "angeloni"
         }
       ]
     },
@@ -2917,8 +3337,8 @@
       "minObservedPrice": 1847.67,
       "maxObservedPrice": 2549,
       "avgObservedPrice": 2198.33,
-      "observationsCount": 14,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 16,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -3000,6 +3420,18 @@
         },
         {
           "date": "2026-11-26",
+          "price": 2549,
+          "listPrice": 2549,
+          "storeKey": "fujioka"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1847.67,
+          "listPrice": 3487.21,
+          "storeKey": "angeloni"
+        },
+        {
+          "date": "2026-11-27",
           "price": 2549,
           "listPrice": 2549,
           "storeKey": "fujioka"
@@ -3040,9 +3472,9 @@
       "canonicalModel": "Apple iPhone X 256GB",
       "minObservedPrice": 663.17,
       "maxObservedPrice": 703.12,
-      "avgObservedPrice": 695.13,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 689.8,
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -3070,6 +3502,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 663.17,
+          "listPrice": 979,
+          "storeKey": "trocafone"
+        },
+        {
+          "date": "2026-11-27",
           "price": 663.17,
           "listPrice": 979,
           "storeKey": "trocafone"
@@ -3116,9 +3554,9 @@
       "canonicalModel": "Motorola Edge 5G",
       "minObservedPrice": 823.5,
       "maxObservedPrice": 975.92,
-      "avgObservedPrice": 934.35,
-      "observationsCount": 7,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "avgObservedPrice": 932.03,
+      "observationsCount": 8,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-23",
@@ -3149,6 +3587,12 @@
           "price": 920.47,
           "listPrice": 1359,
           "storeKey": "trocafone"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 920.47,
+          "listPrice": 1359,
+          "storeKey": "trocafone"
         }
       ]
     },
@@ -3172,11 +3616,11 @@
     "apple-iphone-13-128gb-recondicionado": {
       "canonicalKey": "apple-iphone-13-128gb-recondicionado",
       "canonicalModel": "Apple iPhone 13",
-      "minObservedPrice": 2155.12,
+      "minObservedPrice": 1933.07,
       "maxObservedPrice": 2155.12,
-      "avgObservedPrice": 2155.12,
-      "observationsCount": 3,
-      "lastObservedAt": "2026-11-25T08:44:40.165Z",
+      "avgObservedPrice": 2081.1,
+      "observationsCount": 4,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-24",
@@ -3188,6 +3632,12 @@
           "date": "2026-11-25",
           "price": 2155.12,
           "listPrice": 3259,
+          "storeKey": "trocafone"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1933.07,
+          "listPrice": 2859,
           "storeKey": "trocafone"
         }
       ]
@@ -3195,11 +3645,11 @@
     "apple-iphone-13-256gb-recondicionado": {
       "canonicalKey": "apple-iphone-13-256gb-recondicionado",
       "canonicalModel": "Apple iPhone 13",
-      "minObservedPrice": 2146.32,
+      "minObservedPrice": 1883.27,
       "maxObservedPrice": 2146.32,
-      "avgObservedPrice": 2146.32,
-      "observationsCount": 3,
-      "lastObservedAt": "2026-11-25T08:44:40.165Z",
+      "avgObservedPrice": 2058.64,
+      "observationsCount": 4,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-24",
@@ -3211,6 +3661,12 @@
           "date": "2026-11-25",
           "price": 2146.32,
           "listPrice": 3489,
+          "storeKey": "trocafone"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1883.27,
+          "listPrice": 2789,
           "storeKey": "trocafone"
         }
       ]
@@ -3218,11 +3674,11 @@
     "apple-iphone-xr-64gb-64gb-recondicionado": {
       "canonicalKey": "apple-iphone-xr-64gb-64gb-recondicionado",
       "canonicalModel": "Apple iPhone XR 64GB",
-      "minObservedPrice": 799.92,
+      "minObservedPrice": 712.97,
       "maxObservedPrice": 799.92,
-      "avgObservedPrice": 799.92,
-      "observationsCount": 3,
-      "lastObservedAt": "2026-11-25T08:44:40.165Z",
+      "avgObservedPrice": 770.94,
+      "observationsCount": 4,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-24",
@@ -3235,17 +3691,23 @@
           "price": 799.92,
           "listPrice": 1359,
           "storeKey": "trocafone"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 712.97,
+          "listPrice": 1059,
+          "storeKey": "trocafone"
         }
       ]
     },
     "apple-iphone-12-64gb-64gb-recondicionado": {
       "canonicalKey": "apple-iphone-12-64gb-64gb-recondicionado",
       "canonicalModel": "Apple iPhone 12 64GB",
-      "minObservedPrice": 1354.32,
+      "minObservedPrice": 1277.37,
       "maxObservedPrice": 1354.32,
-      "avgObservedPrice": 1354.32,
-      "observationsCount": 3,
-      "lastObservedAt": "2026-11-25T08:44:40.165Z",
+      "avgObservedPrice": 1328.67,
+      "observationsCount": 4,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-24",
@@ -3256,6 +3718,12 @@
         {
           "date": "2026-11-25",
           "price": 1354.32,
+          "listPrice": 1889,
+          "storeKey": "trocafone"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 1277.37,
           "listPrice": 1889,
           "storeKey": "trocafone"
         }
@@ -3264,11 +3732,11 @@
     "apple-iphone-se-2020-256gb-256gb-recondicionado": {
       "canonicalKey": "apple-iphone-se-2020-256gb-256gb-recondicionado",
       "canonicalModel": "Apple iPhone SE 2020 256GB",
-      "minObservedPrice": 993.52,
+      "minObservedPrice": 937.07,
       "maxObservedPrice": 993.52,
-      "avgObservedPrice": 993.52,
-      "observationsCount": 3,
-      "lastObservedAt": "2026-11-25T08:44:40.165Z",
+      "avgObservedPrice": 974.7,
+      "observationsCount": 4,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-24",
@@ -3279,6 +3747,12 @@
         {
           "date": "2026-11-25",
           "price": 993.52,
+          "listPrice": 1389,
+          "storeKey": "trocafone"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 937.07,
           "listPrice": 1389,
           "storeKey": "trocafone"
         }
@@ -3313,8 +3787,8 @@
       "minObservedPrice": 1599,
       "maxObservedPrice": 1599,
       "avgObservedPrice": 1599,
-      "observationsCount": 5,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 6,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-24",
@@ -3330,6 +3804,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 1599,
+          "listPrice": 1999,
+          "storeKey": "motorola"
+        },
+        {
+          "date": "2026-11-27",
           "price": 1599,
           "listPrice": 1999,
           "storeKey": "motorola"
@@ -3428,11 +3908,17 @@
       "minObservedPrice": 654.87,
       "maxObservedPrice": 654.87,
       "avgObservedPrice": 654.87,
-      "observationsCount": 1,
-      "lastObservedAt": "2026-11-26T21:39:21.378Z",
+      "observationsCount": 2,
+      "lastObservedAt": "2026-11-27T08:43:02.182Z",
       "points": [
         {
           "date": "2026-11-26",
+          "price": 654.87,
+          "listPrice": 969,
+          "storeKey": "trocafone"
+        },
+        {
+          "date": "2026-11-27",
           "price": 654.87,
           "listPrice": 969,
           "storeKey": "trocafone"

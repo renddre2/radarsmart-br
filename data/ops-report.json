@@ -1,10 +1,10 @@
 {
-  "runId": "run-2026-11-26T21-39-21-378Z",
-  "executedAt": "2026-11-26T21:39:21.378Z",
-  "durationMs": 15201,
-  "activeOffersCount": 68,
-  "expiredOffersCount": 42,
-  "newOffersCount": 8,
+  "runId": "run-2026-11-27T08-43-02-182Z",
+  "executedAt": "2026-11-27T08:43:02.182Z",
+  "durationMs": 3790,
+  "activeOffersCount": 81,
+  "expiredOffersCount": 29,
+  "newOffersCount": 16,
   "guidesCount": 6,
   "queuedPostsCount": 8,
   "publishedCount": 0,
@@ -14,67 +14,67 @@
       "sourceId": "motorola",
       "sourceName": "Motorola Oficial",
       "status": "ok",
-      "latencyMs": 2619,
+      "latencyMs": 1241,
       "rawItemsCount": 51,
       "acceptedOffersCount": 25,
       "rejectedItemsCount": 20,
       "message": "25 smartphones ativos verificados.",
-      "checkedAt": "2026-11-26T21:39:21.378Z"
+      "checkedAt": "2026-11-27T08:43:02.182Z"
     },
     {
       "sourceId": "fastshop",
       "sourceName": "Fast Shop",
       "status": "ok",
-      "latencyMs": 2466,
+      "latencyMs": 1345,
       "rawItemsCount": 51,
       "acceptedOffersCount": 34,
       "rejectedItemsCount": 17,
       "message": "34 smartphones ativos verificados.",
-      "checkedAt": "2026-11-26T21:39:21.378Z"
+      "checkedAt": "2026-11-27T08:43:02.182Z"
     },
     {
       "sourceId": "bemol",
       "sourceName": "Bemol",
-      "status": "degraded",
-      "latencyMs": 13406,
-      "rawItemsCount": 34,
-      "acceptedOffersCount": 34,
+      "status": "ok",
+      "latencyMs": 1351,
+      "rawItemsCount": 51,
+      "acceptedOffersCount": 51,
       "rejectedItemsCount": 0,
-      "message": "34 ofertas; avisos parciais: smartphone samsung: fetch failed",
-      "checkedAt": "2026-11-26T21:39:21.378Z"
+      "message": "51 smartphones ativos verificados.",
+      "checkedAt": "2026-11-27T08:43:02.182Z"
     },
     {
       "sourceId": "angeloni",
       "sourceName": "Angeloni Eletro",
       "status": "ok",
-      "latencyMs": 2536,
+      "latencyMs": 1979,
       "rawItemsCount": 51,
       "acceptedOffersCount": 27,
       "rejectedItemsCount": 19,
       "message": "27 smartphones ativos verificados.",
-      "checkedAt": "2026-11-26T21:39:21.378Z"
+      "checkedAt": "2026-11-27T08:43:02.182Z"
     },
     {
       "sourceId": "fujioka",
       "sourceName": "Fujioka",
       "status": "ok",
-      "latencyMs": 1536,
+      "latencyMs": 1403,
       "rawItemsCount": 16,
       "acceptedOffersCount": 3,
       "rejectedItemsCount": 13,
       "message": "3 smartphones ativos verificados.",
-      "checkedAt": "2026-11-26T21:39:21.378Z"
+      "checkedAt": "2026-11-27T08:43:02.182Z"
     },
     {
       "sourceId": "trocafone",
       "sourceName": "Trocafone (Recondicionado)",
       "status": "ok",
-      "latencyMs": 3766,
+      "latencyMs": 3134,
       "rawItemsCount": 51,
-      "acceptedOffersCount": 5,
-      "rejectedItemsCount": 46,
-      "message": "5 smartphones ativos verificados.",
-      "checkedAt": "2026-11-26T21:39:21.378Z"
+      "acceptedOffersCount": 8,
+      "rejectedItemsCount": 43,
+      "message": "8 smartphones ativos verificados.",
+      "checkedAt": "2026-11-27T08:43:02.182Z"
     },
     {
       "sourceId": "shopee",
@@ -85,18 +85,18 @@
       "acceptedOffersCount": 0,
       "rejectedItemsCount": 0,
       "message": "Aguardando SHOPEE_APP_ID e SHOPEE_APP_SECRET (cadastro gratuito com CPF em affiliate.shopee.com.br).",
-      "checkedAt": "2026-11-26T21:39:21.378Z"
+      "checkedAt": "2026-11-27T08:43:02.182Z"
     },
     {
       "sourceId": "rss-pulse",
       "sourceName": "Pulso Editorial (TudoCelular + Canaltech)",
       "status": "ok",
-      "latencyMs": 1379,
+      "latencyMs": 1171,
       "rawItemsCount": 12,
       "acceptedOffersCount": 12,
       "rejectedItemsCount": 0,
       "message": "12 pautas recentes de smartphones capturadas.",
-      "checkedAt": "2026-11-26T21:39:21.378Z"
+      "checkedAt": "2026-11-27T08:43:02.182Z"
     }
   ],
   "affiliatePrograms": [
