@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T21:23:54.553Z",
+  "updatedAt": "2026-11-28T07:56:28.529Z",
   "brandMultipliers": {
     "Samsung": 1.1,
     "Apple": 1.05,
@@ -8,10 +8,10 @@
     "Realme": 1.04
   },
   "priceBandMultipliers": {
-    "ate-1200": 1.36,
-    "1200-2200": 1.29,
-    "2200-4000": 1.29,
-    "acima-4000": 1.02
+    "ate-1200": 1.38,
+    "1200-2200": 1.31,
+    "2200-4000": 1.31,
+    "acima-4000": 1.04
   },
   "storeMultipliers": {
     "motorola": 1.08,
